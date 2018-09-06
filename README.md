@@ -3,7 +3,7 @@
 差支付和渠道平台的sdk接入。
 这个是客户端，服务端请传送到https://github.com/hipandyu/pandaCardServer
 qq交流群：307542328
-下面是主要功能列表，还有很多细小功能模块没有列出来。
-
+下面是主要功能列表，请移步查看。
+https://raw.githubusercontent.com/hipandyu/pandaCard/master/pandaCard功能表.png
 
 
