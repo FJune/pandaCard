@@ -6,11 +6,11 @@
 这个是客户端，服务端请传送到https://github.com/hipandyu/pandaCardServer
 qq交流群：307542328
 
-下面是主要功能列表，请移步查看。
+下图是部分功能，比较完整详细的功能列表请移步查看。
 https://raw.githubusercontent.com/hipandyu/pandaCard/master/pandaCard功能表.png
 
 
 感觉有用的扫下微信二维码，给兄弟奶一下，打个赏，让我回点血。
 
-
+![微信二维码](https://raw.githubusercontent.com/hipandyu/pandaCard/master/微信二维码.png)
 
