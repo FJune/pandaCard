@@ -12,5 +12,5 @@ qq交流群：307542328
 
 感觉有用的扫下微信二维码，给兄弟奶一下，打个赏，让我回点血。
 
-![微信二维码](https://raw.githubusercontent.com/hipandyu/pandaCard/master/微信二维码.png)
+![微信二维码](https://raw.githubusercontent.com/hipandayu/pandaCard/master/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
