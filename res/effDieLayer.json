@@ -1,0 +1,264 @@
+{
+  "ID": "4f96fcec-6304-4f70-b60b-9abbfabca746",
+  "Version": "3.10.0.0",
+  "Name": "effDieLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 80,
+        "Speed": 1.0,
+        "ActivedAnimationName": "eff_die01",
+        "Timelines": [
+          {
+            "ActionTag": 2023727515,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_0.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_1.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_2.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_3.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_4.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_5.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_6.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_7.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_8.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_9.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_10.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 50,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_11.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 55,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_12.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_13.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 65,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_14.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 70,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_15.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 75,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_die01_16.png",
+                  "Plist": "skill/eff_die01.plist"
+                },
+                "FrameIndex": 80,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 80,
+          "Name": "eff_die01",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 745,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "eff_die01_0.png",
+              "Plist": "skill/eff_die01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 3,
+            "ActionTag": 2023727515,
+            "Size": {
+              "X": 146.0,
+              "Y": 190.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "skill/eff_die01.plist",
+        "skill/eff_die01.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

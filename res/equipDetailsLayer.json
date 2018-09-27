@@ -1,0 +1,3408 @@
+{
+  "ID": "1752c504-eb15-473a-ae71-562a1a543886",
+  "Version": "3.10.0.0",
+  "Name": "equipDetailsLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 443,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a1/a1_002.png",
+              "Plist": "common/a1/commonA1.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 96,
+            "Scale9OriginY": 142,
+            "Scale9Width": 400,
+            "Scale9Height": 584,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0972,
+              "Y": 525.2198
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5002,
+              "Y": 0.5205
+            },
+            "PreSize": {
+              "X": 0.925,
+              "Y": 0.8603
+            },
+            "LeftMargin": 24.0972,
+            "RightMargin": 23.9028,
+            "TopMargin": 49.7802,
+            "BottomMargin": 91.2198,
+            "Tag": 444,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_015.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 171,
+                "Scale9OriginY": 41,
+                "Scale9Width": 177,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 366.0806,
+                  "Y": 775.6143
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6184,
+                  "Y": 0.8936
+                },
+                "PreSize": {
+                  "X": 0.6757,
+                  "Y": 0.1417
+                },
+                "LeftMargin": 166.0806,
+                "RightMargin": 25.9194,
+                "TopMargin": 30.8857,
+                "BottomMargin": 714.1143,
+                "Tag": 1081,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "锻造等级：",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 13.6436,
+                      "Y": 70.5609
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 42,
+                      "G": 24,
+                      "B": 7
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0341,
+                      "Y": 0.5737
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.1626
+                    },
+                    "LeftMargin": 13.6436,
+                    "RightMargin": 186.3564,
+                    "TopMargin": 42.4391,
+                    "BottomMargin": 60.5609,
+                    "Tag": 1082,
+                    "ActionTag": 1247584251,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "Name": "duanzaoLev",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "Text Label",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.4978,
+                      "Y": 31.9927
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 42,
+                      "G": 24,
+                      "B": 7
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2437,
+                      "Y": 0.2601
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.3659
+                    },
+                    "LeftMargin": 17.4978,
+                    "RightMargin": 222.5022,
+                    "TopMargin": 68.5073,
+                    "BottomMargin": 9.4927,
+                    "Tag": 378,
+                    "ActionTag": -381186791,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 45.0
+                    },
+                    "Name": "duanzaoAttr",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_055.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_055.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 83,
+                    "Scale9Height": 41,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 319.1205,
+                      "Y": 47.0714
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7978,
+                      "Y": 0.3827
+                    },
+                    "PreSize": {
+                      "X": 0.2825,
+                      "Y": 0.5122
+                    },
+                    "LeftMargin": 262.6205,
+                    "RightMargin": 24.3795,
+                    "TopMargin": 44.4286,
+                    "BottomMargin": 15.5714,
+                    "Tag": 1611,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_050.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 24,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 26,
+                        "Scale9Height": 14,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 64.7737,
+                          "Y": 38.9221
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5732,
+                          "Y": 0.6178
+                        },
+                        "PreSize": {
+                          "X": 0.6549,
+                          "Y": 0.5714
+                        },
+                        "LeftMargin": 27.7737,
+                        "RightMargin": 11.2263,
+                        "TopMargin": 6.0779,
+                        "BottomMargin": 20.9221,
+                        "Tag": 1612,
+                        "ActionTag": 317189255,
+                        "Size": {
+                          "X": 74.0,
+                          "Y": 36.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Image_6",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 30,
+                        "LabelText": "锻 造",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/fnt_text.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 18,
+                          "G": 18,
+                          "B": 18
+                        },
+                        "ShadowOffsetX": 1.0,
+                        "ShadowOffsetY": -3.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 21.9312,
+                          "Y": 31.3016
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1941,
+                          "Y": 0.4969
+                        },
+                        "PreSize": {
+                          "X": 0.6195,
+                          "Y": 0.5397
+                        },
+                        "LeftMargin": 21.9312,
+                        "RightMargin": 21.0688,
+                        "TopMargin": 14.6984,
+                        "BottomMargin": 14.3016,
+                        "Tag": 1613,
+                        "ActionTag": 963506016,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 34.0
+                        },
+                        "Name": "strenLev_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1390069863,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 63.0
+                    },
+                    "Name": "duanZaoBtn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_014.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 92,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 96,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 201.5605,
+                      "Y": 104.0346
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5039,
+                      "Y": 0.8458
+                    },
+                    "PreSize": {
+                      "X": 0.7,
+                      "Y": 0.2683
+                    },
+                    "LeftMargin": 61.5605,
+                    "RightMargin": 58.4395,
+                    "TopMargin": 2.4654,
+                    "BottomMargin": 87.5346,
+                    "Tag": 1084,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "锻造属性",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/fnt_text.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 18,
+                          "G": 18,
+                          "B": 18
+                        },
+                        "ShadowOffsetX": 1.0,
+                        "ShadowOffsetY": -3.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 80.1228,
+                          "Y": 15.436
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 231,
+                          "G": 253,
+                          "B": 180
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2862,
+                          "Y": 0.4678
+                        },
+                        "PreSize": {
+                          "X": 0.3786,
+                          "Y": 0.9091
+                        },
+                        "LeftMargin": 80.1228,
+                        "RightMargin": 93.8772,
+                        "TopMargin": 2.564,
+                        "BottomMargin": 0.436,
+                        "Tag": 1091,
+                        "ActionTag": 229024059,
+                        "Size": {
+                          "X": 106.0,
+                          "Y": 30.0
+                        },
+                        "Name": "strenLev_0_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 994929468,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 33.0
+                    },
+                    "Name": "Image_11",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1237582352,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 123.0
+                },
+                "Name": "Image_duanzao",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_024.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_024.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 526.6937,
+                  "Y": 881.9764
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8897,
+                  "Y": 1.0161
+                },
+                "PreSize": {
+                  "X": 0.1486,
+                  "Y": 0.0726
+                },
+                "LeftMargin": 482.6937,
+                "RightMargin": 21.3063,
+                "TopMargin": -45.4764,
+                "BottomMargin": 850.4764,
+                "Tag": 399,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/d/d_038.png",
+                      "Plist": "common/d/artFont.plist"
+                    },
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 22,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 56.1987,
+                      "Y": -1.1501
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6386,
+                      "Y": -0.0183
+                    },
+                    "PreSize": {
+                      "X": 0.7273,
+                      "Y": 0.5556
+                    },
+                    "LeftMargin": 24.1987,
+                    "RightMargin": -0.1987,
+                    "TopMargin": 46.6501,
+                    "BottomMargin": -18.6501,
+                    "Tag": 448,
+                    "ActionTag": 660424431,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 35.0
+                    },
+                    "Name": "backImage",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 874695101,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 63.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a1/a1_003.png",
+                  "Plist": "common/a1/commonA1.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 91,
+                "Scale9OriginY": 129,
+                "Scale9Width": 381,
+                "Scale9Height": 492,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 292.5649,
+                  "Y": 366.1992
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4942,
+                  "Y": 0.4219
+                },
+                "PreSize": {
+                  "X": 0.951,
+                  "Y": 0.7892
+                },
+                "LeftMargin": 11.0649,
+                "RightMargin": 17.9351,
+                "TopMargin": 159.3008,
+                "BottomMargin": 23.6992,
+                "Tag": 449,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_033.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 185,
+                    "Scale9OriginY": 129,
+                    "Scale9Width": 191,
+                    "Scale9Height": 135,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 281.499,
+                      "Y": 192.3381
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2808
+                    },
+                    "PreSize": {
+                      "X": 0.9964,
+                      "Y": 0.5737
+                    },
+                    "LeftMargin": 0.999,
+                    "RightMargin": 1.001,
+                    "TopMargin": 296.1619,
+                    "BottomMargin": -4.1619,
+                    "Tag": 468,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_052.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 24,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 280.8954,
+                          "Y": 374.6434
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5007,
+                          "Y": 0.9533
+                        },
+                        "PreSize": {
+                          "X": 0.1176,
+                          "Y": 0.084
+                        },
+                        "LeftMargin": 247.8954,
+                        "RightMargin": 247.1046,
+                        "TopMargin": 1.8566,
+                        "BottomMargin": 358.1434,
+                        "Tag": 469,
+                        "ActionTag": 864910902,
+                        "Size": {
+                          "X": 66.0,
+                          "Y": 33.0
+                        },
+                        "Name": "Image_19",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_034.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9OriginX": 47,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 51,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 97.2394,
+                          "Y": 121.6968
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1733,
+                          "Y": 0.3097
+                        },
+                        "PreSize": {
+                          "X": 0.2585,
+                          "Y": 0.0992
+                        },
+                        "LeftMargin": 24.7394,
+                        "RightMargin": 391.2606,
+                        "TopMargin": 251.8032,
+                        "BottomMargin": 102.1968,
+                        "Tag": 475,
+                        "Children": [
+                          {
+                            "FontSize": 20,
+                            "LabelText": "2件效果：",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 69.6301,
+                              "Y": 20.6978
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.4802,
+                              "Y": 0.5307
+                            },
+                            "PreSize": {
+                              "X": 0.6207,
+                              "Y": 0.5128
+                            },
+                            "LeftMargin": 24.6301,
+                            "RightMargin": 30.3699,
+                            "TopMargin": 8.3022,
+                            "BottomMargin": 10.6978,
+                            "Tag": 46,
+                            "ActionTag": -1885158558,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 20.0
+                            },
+                            "Name": "effect_1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 924889593,
+                        "Size": {
+                          "X": 145.0,
+                          "Y": 39.0
+                        },
+                        "Name": "Image_25",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_034.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9OriginX": 47,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 51,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 97.2389,
+                          "Y": 76.0928
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1733,
+                          "Y": 0.1936
+                        },
+                        "PreSize": {
+                          "X": 0.2585,
+                          "Y": 0.0992
+                        },
+                        "LeftMargin": 24.7389,
+                        "RightMargin": 391.2611,
+                        "TopMargin": 297.4072,
+                        "BottomMargin": 56.5928,
+                        "Tag": 476,
+                        "Children": [
+                          {
+                            "FontSize": 20,
+                            "LabelText": "3件效果：",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 69.6298,
+                              "Y": 19.9562
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.4802,
+                              "Y": 0.5117
+                            },
+                            "PreSize": {
+                              "X": 0.6207,
+                              "Y": 0.5128
+                            },
+                            "LeftMargin": 24.6298,
+                            "RightMargin": 30.3702,
+                            "TopMargin": 9.0438,
+                            "BottomMargin": 9.9562,
+                            "Tag": 47,
+                            "ActionTag": 140064897,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 20.0
+                            },
+                            "Name": "effect_2",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 513587116,
+                        "Size": {
+                          "X": 145.0,
+                          "Y": 39.0
+                        },
+                        "Name": "Image_26",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_034.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9OriginX": 47,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 51,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 97.241,
+                          "Y": 30.3546
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1733,
+                          "Y": 0.0772
+                        },
+                        "PreSize": {
+                          "X": 0.2585,
+                          "Y": 0.0992
+                        },
+                        "LeftMargin": 24.741,
+                        "RightMargin": 391.259,
+                        "TopMargin": 343.1454,
+                        "BottomMargin": 10.8546,
+                        "Tag": 477,
+                        "Children": [
+                          {
+                            "FontSize": 20,
+                            "LabelText": "4件效果：",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 69.6278,
+                              "Y": 19.0073
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.4802,
+                              "Y": 0.4874
+                            },
+                            "PreSize": {
+                              "X": 0.6207,
+                              "Y": 0.5128
+                            },
+                            "LeftMargin": 24.6278,
+                            "RightMargin": 30.3722,
+                            "TopMargin": 9.9927,
+                            "BottomMargin": 9.0073,
+                            "Tag": 48,
+                            "ActionTag": -1972975094,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 20.0
+                            },
+                            "Name": "effect_3",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 663796365,
+                        "Size": {
+                          "X": 145.0,
+                          "Y": 39.0
+                        },
+                        "Name": "Image_27",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_034.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 47,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 51,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 359.7097,
+                          "Y": 122.0475
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6412,
+                          "Y": 0.3106
+                        },
+                        "PreSize": {
+                          "X": 0.615,
+                          "Y": 0.0992
+                        },
+                        "LeftMargin": 187.2097,
+                        "RightMargin": 28.7903,
+                        "TopMargin": 251.4525,
+                        "BottomMargin": 102.5475,
+                        "Tag": 478,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "生命+36000",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.4773
+                            },
+                            "Position": {
+                              "X": 19.0215,
+                              "Y": 19.9686
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0551,
+                              "Y": 0.512
+                            },
+                            "PreSize": {
+                              "X": 0.8696,
+                              "Y": 0.5128
+                            },
+                            "LeftMargin": 19.0215,
+                            "RightMargin": 25.9785,
+                            "TopMargin": 8.5774,
+                            "BottomMargin": 10.4226,
+                            "Tag": 49,
+                            "ActionTag": -407992705,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 20.0
+                            },
+                            "Name": "efeectDes_1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -743597756,
+                        "Size": {
+                          "X": 345.0,
+                          "Y": 39.0
+                        },
+                        "Name": "Image_28",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_034.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 47,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 51,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 359.7097,
+                          "Y": 76.3075
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6412,
+                          "Y": 0.1942
+                        },
+                        "PreSize": {
+                          "X": 0.615,
+                          "Y": 0.0992
+                        },
+                        "LeftMargin": 187.2097,
+                        "RightMargin": 28.7903,
+                        "TopMargin": 297.1925,
+                        "BottomMargin": 56.8075,
+                        "Tag": 479,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "闪避+60%",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 19.0215,
+                              "Y": 20.2482
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0551,
+                              "Y": 0.5192
+                            },
+                            "PreSize": {
+                              "X": 0.8696,
+                              "Y": 0.5128
+                            },
+                            "LeftMargin": 19.0215,
+                            "RightMargin": 25.9785,
+                            "TopMargin": 8.7518,
+                            "BottomMargin": 10.2482,
+                            "Tag": 50,
+                            "ActionTag": 1633669943,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 20.0
+                            },
+                            "Name": "efeectDes_2",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -822121718,
+                        "Size": {
+                          "X": 345.0,
+                          "Y": 39.0
+                        },
+                        "Name": "Image_29",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_034.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 47,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 51,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 358.9075,
+                          "Y": 31.0241
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6398,
+                          "Y": 0.0789
+                        },
+                        "PreSize": {
+                          "X": 0.615,
+                          "Y": 0.0992
+                        },
+                        "LeftMargin": 186.4075,
+                        "RightMargin": 29.5925,
+                        "TopMargin": 342.4759,
+                        "BottomMargin": 11.5241,
+                        "Tag": 480,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "抗暴+6% 伤害减免+4%",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 19.8238,
+                              "Y": 18.4038
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0575,
+                              "Y": 0.4719
+                            },
+                            "PreSize": {
+                              "X": 0.8696,
+                              "Y": 0.5128
+                            },
+                            "LeftMargin": 19.8238,
+                            "RightMargin": 25.1762,
+                            "TopMargin": 10.5962,
+                            "BottomMargin": 8.4038,
+                            "Tag": 51,
+                            "ActionTag": -1781608992,
+                            "Size": {
+                              "X": 300.0,
+                              "Y": 20.0
+                            },
+                            "Name": "efeectDes_3",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1098333389,
+                        "Size": {
+                          "X": 345.0,
+                          "Y": 39.0
+                        },
+                        "Name": "Image_30",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/a/a_038.png",
+                          "Plist": "common/a/box.plist"
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 57,
+                        "Scale9OriginY": 52,
+                        "Scale9Width": 60,
+                        "Scale9Height": 55,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 280.8874,
+                          "Y": 231.1544
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5007,
+                          "Y": 0.5882
+                        },
+                        "PreSize": {
+                          "X": 0.9537,
+                          "Y": 0.4046
+                        },
+                        "LeftMargin": 13.3874,
+                        "RightMargin": 12.6126,
+                        "TopMargin": 82.3456,
+                        "BottomMargin": 151.6544,
+                        "Tag": 470,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/c/c_037_1.png",
+                              "Plist": "common/c/button.plist"
+                            },
+                            "Scale9OriginX": 34,
+                            "Scale9OriginY": 35,
+                            "Scale9Width": 20,
+                            "Scale9Height": 18,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 76.4478,
+                              "Y": 95.6471
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.1429,
+                              "Y": 0.6016
+                            },
+                            "PreSize": {
+                              "X": 0.1645,
+                              "Y": 0.5535
+                            },
+                            "LeftMargin": 32.4478,
+                            "RightMargin": 414.5522,
+                            "TopMargin": 19.3529,
+                            "BottomMargin": 51.6471,
+                            "Tag": 471,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/j/jineng_005.png",
+                                  "Plist": "common/j/skill.plist"
+                                },
+                                "Scale9OriginX": 29,
+                                "Scale9OriginY": 29,
+                                "Scale9Width": 30,
+                                "Scale9Height": 30,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 0.8,
+                                  "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 144,
+                                "ActionTag": 1552467830,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Name": "bootIcon1",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/c/c_037_1.png",
+                                  "Plist": "common/c/button.plist"
+                                },
+                                "Scale9OriginX": 34,
+                                "Scale9OriginY": 35,
+                                "Scale9Width": 20,
+                                "Scale9Height": 18,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 134,
+                                "ActionTag": -1669603058,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Alpha": 127,
+                                "Name": "bootBlack1",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "IsCustomSize": true,
+                                "FontSize": 20,
+                                "LabelText": "元首之靴",
+                                "HorizontalAlignmentType": "HT_Center",
+                                "VerticalAlignmentType": "VT_Center",
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 52.9597,
+                                  "Y": -17.7858
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.6018,
+                                  "Y": -0.2021
+                                },
+                                "PreSize": {
+                                  "X": 1.1364,
+                                  "Y": 0.2273
+                                },
+                                "LeftMargin": 2.9597,
+                                "RightMargin": -14.9597,
+                                "TopMargin": 95.7858,
+                                "BottomMargin": -27.7858,
+                                "Tag": 54,
+                                "ActionTag": 1644462277,
+                                "Size": {
+                                  "X": 100.0,
+                                  "Y": 20.0
+                                },
+                                "Name": "bootText1",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 867354503,
+                            "Size": {
+                              "X": 88.0,
+                              "Y": 88.0
+                            },
+                            "Name": "bootBg1",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/c/c_037_1.png",
+                              "Plist": "common/c/button.plist"
+                            },
+                            "Scale9OriginX": 34,
+                            "Scale9OriginY": 35,
+                            "Scale9Width": 20,
+                            "Scale9Height": 18,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 203.418,
+                              "Y": 95.6471
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3802,
+                              "Y": 0.6016
+                            },
+                            "PreSize": {
+                              "X": 0.1645,
+                              "Y": 0.5535
+                            },
+                            "LeftMargin": 159.418,
+                            "RightMargin": 287.582,
+                            "TopMargin": 19.3529,
+                            "BottomMargin": 51.6471,
+                            "Tag": 145,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/j/jineng_005.png",
+                                  "Plist": "common/j/skill.plist"
+                                },
+                                "Scale9OriginX": 29,
+                                "Scale9OriginY": 29,
+                                "Scale9Width": 30,
+                                "Scale9Height": 30,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 0.8,
+                                  "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 146,
+                                "ActionTag": -1189462284,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Name": "bootIcon2",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/c/c_037_1.png",
+                                  "Plist": "common/c/button.plist"
+                                },
+                                "Scale9OriginX": 34,
+                                "Scale9OriginY": 35,
+                                "Scale9Width": 20,
+                                "Scale9Height": 18,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 147,
+                                "ActionTag": -2031470235,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Alpha": 127,
+                                "Name": "bootBlack2",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "IsCustomSize": true,
+                                "FontSize": 20,
+                                "LabelText": "元首之靴",
+                                "HorizontalAlignmentType": "HT_Center",
+                                "VerticalAlignmentType": "VT_Center",
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 52.9597,
+                                  "Y": -17.7858
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.6018,
+                                  "Y": -0.2021
+                                },
+                                "PreSize": {
+                                  "X": 1.1364,
+                                  "Y": 0.2273
+                                },
+                                "LeftMargin": 2.9597,
+                                "RightMargin": -14.9597,
+                                "TopMargin": 95.7858,
+                                "BottomMargin": -27.7858,
+                                "Tag": 148,
+                                "ActionTag": 1630915106,
+                                "Size": {
+                                  "X": 100.0,
+                                  "Y": 20.0
+                                },
+                                "Name": "bootText2",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 1312985215,
+                            "Size": {
+                              "X": 88.0,
+                              "Y": 88.0
+                            },
+                            "Name": "bootBg2",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/c/c_037_1.png",
+                              "Plist": "common/c/button.plist"
+                            },
+                            "Scale9OriginX": 34,
+                            "Scale9OriginY": 35,
+                            "Scale9Width": 20,
+                            "Scale9Height": 18,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 330.3882,
+                              "Y": 95.6471
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6175,
+                              "Y": 0.6016
+                            },
+                            "PreSize": {
+                              "X": 0.1645,
+                              "Y": 0.5535
+                            },
+                            "LeftMargin": 286.3882,
+                            "RightMargin": 160.6118,
+                            "TopMargin": 19.3529,
+                            "BottomMargin": 51.6471,
+                            "Tag": 149,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/j/jineng_005.png",
+                                  "Plist": "common/j/skill.plist"
+                                },
+                                "Scale9OriginX": 29,
+                                "Scale9OriginY": 29,
+                                "Scale9Width": 30,
+                                "Scale9Height": 30,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 0.8,
+                                  "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 150,
+                                "ActionTag": -817012012,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Name": "bootIcon3",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/c/c_037_1.png",
+                                  "Plist": "common/c/button.plist"
+                                },
+                                "Scale9OriginX": 34,
+                                "Scale9OriginY": 35,
+                                "Scale9Width": 20,
+                                "Scale9Height": 18,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 151,
+                                "ActionTag": -1472154474,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Alpha": 127,
+                                "Name": "bootBlack3",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "IsCustomSize": true,
+                                "FontSize": 20,
+                                "LabelText": "元首之靴",
+                                "HorizontalAlignmentType": "HT_Center",
+                                "VerticalAlignmentType": "VT_Center",
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 52.9597,
+                                  "Y": -17.7858
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.6018,
+                                  "Y": -0.2021
+                                },
+                                "PreSize": {
+                                  "X": 1.1364,
+                                  "Y": 0.2273
+                                },
+                                "LeftMargin": 2.9597,
+                                "RightMargin": -14.9597,
+                                "TopMargin": 95.7858,
+                                "BottomMargin": -27.7858,
+                                "Tag": 152,
+                                "ActionTag": -1545161379,
+                                "Size": {
+                                  "X": 100.0,
+                                  "Y": 20.0
+                                },
+                                "Name": "bootText3",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": 886271589,
+                            "Size": {
+                              "X": 88.0,
+                              "Y": 88.0
+                            },
+                            "Name": "bootBg3",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/c/c_037_1.png",
+                              "Plist": "common/c/button.plist"
+                            },
+                            "Scale9OriginX": 34,
+                            "Scale9OriginY": 35,
+                            "Scale9Width": 20,
+                            "Scale9Height": 18,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 457.3584,
+                              "Y": 95.6471
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.8549,
+                              "Y": 0.6016
+                            },
+                            "PreSize": {
+                              "X": 0.1645,
+                              "Y": 0.5535
+                            },
+                            "LeftMargin": 413.3584,
+                            "RightMargin": 33.6416,
+                            "TopMargin": 19.3529,
+                            "BottomMargin": 51.6471,
+                            "Tag": 153,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/j/jineng_005.png",
+                                  "Plist": "common/j/skill.plist"
+                                },
+                                "Scale9OriginX": 29,
+                                "Scale9OriginY": 29,
+                                "Scale9Width": 30,
+                                "Scale9Height": 30,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 0.8,
+                                  "ScaleY": 0.8
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 154,
+                                "ActionTag": -239662024,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Name": "bootIcon4",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "MarkedSubImage",
+                                  "Path": "common/c/c_037_1.png",
+                                  "Plist": "common/c/button.plist"
+                                },
+                                "Scale9OriginX": 34,
+                                "Scale9OriginY": 35,
+                                "Scale9Width": 20,
+                                "Scale9Height": 18,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 44.0,
+                                  "Y": 44.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {
+                                  "R": 0,
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 1.0
+                                },
+                                "Tag": 155,
+                                "ActionTag": -1611402446,
+                                "Size": {
+                                  "X": 88.0,
+                                  "Y": 88.0
+                                },
+                                "Alpha": 127,
+                                "Name": "bootBlack4",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "IsCustomSize": true,
+                                "FontSize": 20,
+                                "LabelText": "元首之靴",
+                                "HorizontalAlignmentType": "HT_Center",
+                                "VerticalAlignmentType": "VT_Center",
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 52.9597,
+                                  "Y": -17.7858
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.6018,
+                                  "Y": -0.2021
+                                },
+                                "PreSize": {
+                                  "X": 1.1364,
+                                  "Y": 0.2273
+                                },
+                                "LeftMargin": 2.9597,
+                                "RightMargin": -14.9597,
+                                "TopMargin": 95.7858,
+                                "BottomMargin": -27.7858,
+                                "Tag": 156,
+                                "ActionTag": 45764218,
+                                "Size": {
+                                  "X": 100.0,
+                                  "Y": 20.0
+                                },
+                                "Name": "bootText4",
+                                "ctype": "TextObjectData"
+                              }
+                            ],
+                            "ActionTag": -1930921765,
+                            "Size": {
+                              "X": 88.0,
+                              "Y": 88.0
+                            },
+                            "Name": "bootBg4",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1815735279,
+                        "Size": {
+                          "X": 535.0,
+                          "Y": 159.0
+                        },
+                        "Name": "Image_20",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 20,
+                        "LabelText": "元首元首套装",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 283.4484,
+                          "Y": 346.002
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5053,
+                          "Y": 0.8804
+                        },
+                        "PreSize": {
+                          "X": 0.2139,
+                          "Y": 0.0509
+                        },
+                        "LeftMargin": 223.4484,
+                        "RightMargin": 217.5516,
+                        "TopMargin": 36.998,
+                        "BottomMargin": 336.002,
+                        "Tag": 403,
+                        "ActionTag": 2015464720,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 20.0
+                        },
+                        "Name": "suitName",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -453150116,
+                    "Size": {
+                      "X": 561.0,
+                      "Y": 393.0
+                    },
+                    "Name": "suitBg",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1606351122,
+                "Size": {
+                  "X": 563.0,
+                  "Y": 685.0
+                },
+                "Name": "fequipBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_023.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 34,
+                "Scale9OriginY": 35,
+                "Scale9Width": 38,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 83.9907,
+                  "Y": 798.746
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1419,
+                  "Y": 0.9202
+                },
+                "PreSize": {
+                  "X": 0.1791,
+                  "Y": 0.1233
+                },
+                "LeftMargin": 30.9907,
+                "RightMargin": 455.0093,
+                "TopMargin": 15.754,
+                "BottomMargin": 745.246,
+                "Tag": 452,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_008.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 44,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 46,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.7505,
+                      "Y": -19.0135
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5165,
+                      "Y": -0.1777
+                    },
+                    "PreSize": {
+                      "X": 1.2642,
+                      "Y": 0.3178
+                    },
+                    "LeftMargin": -12.2495,
+                    "RightMargin": -15.7505,
+                    "TopMargin": 109.0135,
+                    "BottomMargin": -36.0135,
+                    "Tag": 453,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Text Label",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 67.2978,
+                          "Y": 17.9283
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5022,
+                          "Y": 0.5273
+                        },
+                        "PreSize": {
+                          "X": 0.8955,
+                          "Y": 0.5882
+                        },
+                        "LeftMargin": 7.2978,
+                        "RightMargin": 6.7022,
+                        "TopMargin": 6.0717,
+                        "BottomMargin": 7.9283,
+                        "Tag": 454,
+                        "ActionTag": -421903663,
+                        "Size": {
+                          "X": 120.0,
+                          "Y": 20.0
+                        },
+                        "Name": "equipName",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1679084886,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 34.0
+                    },
+                    "Name": "equipBgName",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 2022069100,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "equipBgImage",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 2000003487,
+            "Size": {
+              "X": 592.0,
+              "Y": 868.0
+            },
+            "Name": "equipBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_015.png",
+              "Plist": "common/a/box.plist"
+            },
+            "Scale9OriginX": 171,
+            "Scale9OriginY": 41,
+            "Scale9Width": 177,
+            "Scale9Height": 45,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.1466,
+              "Y": 719.7167
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5018,
+              "Y": 0.7133
+            },
+            "PreSize": {
+              "X": 0.8203,
+              "Y": 0.1219
+            },
+            "LeftMargin": 58.6466,
+            "RightMargin": 56.3534,
+            "TopMargin": 227.7833,
+            "BottomMargin": 658.2167,
+            "Tag": 455,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "强化等级：",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 21.8794,
+                  "Y": 74.7769
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 42,
+                  "G": 24,
+                  "B": 7
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0417,
+                  "Y": 0.6079
+                },
+                "PreSize": {
+                  "X": 0.381,
+                  "Y": 0.1626
+                },
+                "LeftMargin": 21.8794,
+                "RightMargin": 303.1206,
+                "TopMargin": 38.2231,
+                "BottomMargin": 64.7769,
+                "Tag": 461,
+                "ActionTag": 1223758328,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 20.0
+                },
+                "Name": "strenLev",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.5767,
+                  "Y": 40.1297
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 42,
+                  "G": 24,
+                  "B": 7
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1935,
+                  "Y": 0.3263
+                },
+                "PreSize": {
+                  "X": 0.3048,
+                  "Y": 0.3659
+                },
+                "LeftMargin": 21.5767,
+                "RightMargin": 343.4233,
+                "TopMargin": 60.3703,
+                "BottomMargin": 17.6297,
+                "Tag": 160,
+                "ActionTag": 1519540957,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 45.0
+                },
+                "Name": "equipBaseAttr",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_014.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 92,
+                "Scale9OriginY": 10,
+                "Scale9Width": 96,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 262.5603,
+                  "Y": 107.0344
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 0.8702
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.2683
+                },
+                "LeftMargin": 122.5603,
+                "RightMargin": 122.4397,
+                "TopMargin": -0.5344,
+                "BottomMargin": 90.5344,
+                "Tag": 457,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/d/d_048.png",
+                      "Plist": "common/d/artFont.plist"
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 34,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 140.468,
+                      "Y": 14.3177
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5017,
+                      "Y": 0.4339
+                    },
+                    "PreSize": {
+                      "X": 0.3571,
+                      "Y": 0.9697
+                    },
+                    "LeftMargin": 90.468,
+                    "RightMargin": 89.532,
+                    "TopMargin": 2.6823,
+                    "BottomMargin": -1.6823,
+                    "Tag": 458,
+                    "ActionTag": 6407189,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 32.0
+                    },
+                    "Name": "Image_12",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 496536275,
+                "Size": {
+                  "X": 280.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 450.1485,
+                  "Y": 45.7183
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8574,
+                  "Y": 0.3717
+                },
+                "PreSize": {
+                  "X": 0.2152,
+                  "Y": 0.5122
+                },
+                "LeftMargin": 393.6485,
+                "RightMargin": 18.3515,
+                "TopMargin": 45.7817,
+                "BottomMargin": 14.2183,
+                "Tag": 459,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/d/d_050.png",
+                      "Plist": "common/d/artFont.plist"
+                    },
+                    "Scale9OriginX": 24,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 56.7745,
+                      "Y": 30.9228
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5024,
+                      "Y": 0.4908
+                    },
+                    "PreSize": {
+                      "X": 0.6549,
+                      "Y": 0.5714
+                    },
+                    "LeftMargin": 19.7745,
+                    "RightMargin": 19.2255,
+                    "TopMargin": 14.0772,
+                    "BottomMargin": 12.9228,
+                    "Tag": 82,
+                    "ActionTag": -1669590106,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 36.0
+                    },
+                    "Name": "Image_6",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_005.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 9,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 109.412,
+                      "Y": 57.0259
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9682,
+                      "Y": 0.9052
+                    },
+                    "PreSize": {
+                      "X": 0.2212,
+                      "Y": 0.3968
+                    },
+                    "LeftMargin": 96.912,
+                    "RightMargin": -8.912,
+                    "TopMargin": -6.5259,
+                    "BottomMargin": 44.5259,
+                    "Tag": 411,
+                    "ActionTag": -439998328,
+                    "Size": {
+                      "X": 25.0,
+                      "Y": 25.0
+                    },
+                    "Name": "imageTips",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -967687935,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 63.0
+                },
+                "Name": "strengthBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -2131234117,
+            "Size": {
+              "X": 525.0,
+              "Y": 123.0
+            },
+            "Name": "Image_9",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_015.png",
+              "Plist": "common/a/box.plist"
+            },
+            "Scale9OriginX": 171,
+            "Scale9OriginY": 41,
+            "Scale9Width": 177,
+            "Scale9Height": 45,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.6875,
+              "Y": 577.444
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4995,
+              "Y": 0.5723
+            },
+            "PreSize": {
+              "X": 0.8109,
+              "Y": 0.1259
+            },
+            "LeftMargin": 60.1875,
+            "RightMargin": 60.8125,
+            "TopMargin": 368.056,
+            "BottomMargin": 513.944,
+            "Tag": 456,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 83,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.8082,
+                  "Y": 45.8684
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8609,
+                  "Y": 0.3612
+                },
+                "PreSize": {
+                  "X": 0.2177,
+                  "Y": 0.4961
+                },
+                "LeftMargin": 390.3082,
+                "RightMargin": 15.6918,
+                "TopMargin": 49.6316,
+                "BottomMargin": 14.3684,
+                "Tag": 467,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/d/d_051.png",
+                      "Plist": "common/d/artFont.plist"
+                    },
+                    "Scale9OriginX": 24,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 26,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.6423,
+                      "Y": 29.4459
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5101,
+                      "Y": 0.4674
+                    },
+                    "PreSize": {
+                      "X": 0.6549,
+                      "Y": 0.5714
+                    },
+                    "LeftMargin": 20.6423,
+                    "RightMargin": 18.3577,
+                    "TopMargin": 15.5541,
+                    "BottomMargin": 11.4459,
+                    "Tag": 81,
+                    "ActionTag": -1026219607,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 36.0
+                    },
+                    "Name": "Image_5",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -2042376854,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 63.0
+                },
+                "Name": "refineBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_014.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 92,
+                "Scale9OriginY": 10,
+                "Scale9Width": 96,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 262.1871,
+                  "Y": 110.505
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5052,
+                  "Y": 0.8701
+                },
+                "PreSize": {
+                  "X": 0.5395,
+                  "Y": 0.2598
+                },
+                "LeftMargin": 122.1871,
+                "RightMargin": 116.8129,
+                "TopMargin": -0.005,
+                "BottomMargin": 94.005,
+                "Tag": 465,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/d/d_049.png",
+                      "Plist": "common/d/artFont.plist"
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 34,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 140.468,
+                      "Y": 14.3177
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5017,
+                      "Y": 0.4339
+                    },
+                    "PreSize": {
+                      "X": 0.3571,
+                      "Y": 0.9697
+                    },
+                    "LeftMargin": 90.468,
+                    "RightMargin": 89.532,
+                    "TopMargin": 2.6823,
+                    "BottomMargin": -1.6823,
+                    "Tag": 466,
+                    "ActionTag": 1667896706,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 32.0
+                    },
+                    "Name": "Image_12",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1114717541,
+                "Size": {
+                  "X": 280.0,
+                  "Y": 33.0
+                },
+                "Name": "Image_11_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "精炼等级：",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.023,
+                  "Y": 79.3997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 42,
+                  "G": 24,
+                  "B": 7
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0386,
+                  "Y": 0.6252
+                },
+                "PreSize": {
+                  "X": 0.3854,
+                  "Y": 0.1575
+                },
+                "LeftMargin": 20.023,
+                "RightMargin": 298.977,
+                "TopMargin": 37.6003,
+                "BottomMargin": 69.3997,
+                "Tag": 58,
+                "ActionTag": -1313362108,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 20.0
+                },
+                "Name": "refineLev",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0315,
+                  "Y": 44.1037
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 42,
+                  "G": 24,
+                  "B": 7
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1927,
+                  "Y": 0.3473
+                },
+                "PreSize": {
+                  "X": 0.3083,
+                  "Y": 0.3543
+                },
+                "LeftMargin": 20.0315,
+                "RightMargin": 338.9685,
+                "TopMargin": 60.3963,
+                "BottomMargin": 21.6037,
+                "Tag": 159,
+                "ActionTag": -1886944806,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 45.0
+                },
+                "Name": "equipRefineAttr",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2039229332,
+            "Size": {
+              "X": 519.0,
+              "Y": 127.0
+            },
+            "Name": "Image_10",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_056.png",
+              "Plist": "common/c/button.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_056.png",
+              "Plist": "common/c/button.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 144,
+            "Scale9Height": 44,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 214.428,
+              "Y": 50.2803
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.335,
+              "Y": 0.0498
+            },
+            "PreSize": {
+              "X": 0.2719,
+              "Y": 0.0654
+            },
+            "LeftMargin": 127.428,
+            "RightMargin": 338.572,
+            "TopMargin": 925.7197,
+            "BottomMargin": 17.2803,
+            "Tag": 481,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/d/d_053.png",
+                  "Plist": "common/d/artFont.plist"
+                },
+                "Scale9OriginX": 24,
+                "Scale9OriginY": 11,
+                "Scale9Width": 26,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 89.5206,
+                  "Y": 33.4905
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5145,
+                  "Y": 0.5074
+                },
+                "PreSize": {
+                  "X": 0.4253,
+                  "Y": 0.5455
+                },
+                "LeftMargin": 52.5206,
+                "RightMargin": 47.4794,
+                "TopMargin": 14.5095,
+                "BottomMargin": 15.4905,
+                "Tag": 483,
+                "ActionTag": -1824099582,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 36.0
+                },
+                "Name": "Image_31",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1809632150,
+            "Size": {
+              "X": 174.0,
+              "Y": 66.0
+            },
+            "Name": "unsnatchBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_056.png",
+              "Plist": "common/c/button.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_056.png",
+              "Plist": "common/c/button.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 144,
+            "Scale9Height": 44,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 430.354,
+              "Y": 50.3822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.0499
+            },
+            "PreSize": {
+              "X": 0.2719,
+              "Y": 0.0654
+            },
+            "LeftMargin": 343.354,
+            "RightMargin": 122.646,
+            "TopMargin": 925.6178,
+            "BottomMargin": 17.3822,
+            "Tag": 482,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/d/d_054.png",
+                  "Plist": "common/d/artFont.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 44,
+                "Scale9Height": 6,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.2625,
+                  "Y": 33.2646
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.49,
+                  "Y": 0.504
+                },
+                "PreSize": {
+                  "X": 0.4253,
+                  "Y": 0.5455
+                },
+                "LeftMargin": 48.2625,
+                "RightMargin": 51.7375,
+                "TopMargin": 14.7354,
+                "BottomMargin": 15.2646,
+                "Tag": 484,
+                "ActionTag": -134372064,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 36.0
+                },
+                "Name": "Image_32",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -875096891,
+            "Size": {
+              "X": 174.0,
+              "Y": 66.0
+            },
+            "Name": "changeBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1009.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/a1/commonA1.plist",
+        "common/a1/commonA1.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/d/artFont.plist",
+        "common/d/artFont.png",
+        "common/i/icon.plist",
+        "common/i/icon.png",
+        "common/j/skill.plist",
+        "common/j/skill.png",
+        "Default/Button_Disable.png",
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

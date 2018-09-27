@@ -1,0 +1,243 @@
+{
+  "ID": "a88841fe-1ff9-436d-b108-78c63d01608a",
+  "Version": "3.10.0.0",
+  "Name": "boom01",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 60,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": -500425052,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_01.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_02.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_03.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_04.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_05.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_06.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_07.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_08.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_09.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_10.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_11.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 50,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_12.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 55,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/boom/behit_huojian_13.png",
+                  "Plist": "effect/boom01.plist"
+                },
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -500425052,
+            "Property": "FrameEvent",
+            "Frames": [
+              {
+                "Value": "q",
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              },
+              {
+                "Value": "w",
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              },
+              {
+                "Value": "e",
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "EventFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/boom/behit_huojian_01.png",
+              "Plist": "effect/boom01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 23.9271,
+              "Y": 68.9611
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0437,
+              "Y": 0.1815
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -249.5729,
+            "RightMargin": 249.5729,
+            "TopMargin": 121.0389,
+            "BottomMargin": -121.0389,
+            "Tag": 11,
+            "ActionTag": -500425052,
+            "Size": {
+              "X": 547.0,
+              "Y": 380.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 547.0,
+          "Y": 380.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "effect/boom01.plist",
+        "effect/boom01.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

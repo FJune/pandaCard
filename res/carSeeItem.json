@@ -1,0 +1,1273 @@
+{
+  "ID": "3ca4785b-5f0f-45f5-835d-c3cb143df55c",
+  "Version": "3.10.0.0",
+  "Name": "carSeeItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1274,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.9722
+            },
+            "TopMargin": 10.0,
+            "Tag": 1276,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_011.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 96,
+                "Scale9OriginY": 142,
+                "Scale9Width": 101,
+                "Scale9Height": 149,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 323.5353,
+                  "Y": 168.0746
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5055,
+                  "Y": 0.4802
+                },
+                "PreSize": {
+                  "X": 1.0938,
+                  "Y": 1.1429
+                },
+                "LeftMargin": -26.4647,
+                "RightMargin": -33.5353,
+                "TopMargin": -18.0746,
+                "BottomMargin": -31.9254,
+                "Tag": 1303,
+                "ActionTag": -196749246,
+                "Size": {
+                  "X": 700.0,
+                  "Y": 400.0
+                },
+                "Name": "ImageFastWar",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a1/a1_009.png",
+                  "Plist": "common/a1/commonA1.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 329.9173,
+                  "Y": 314.8495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5155,
+                  "Y": 0.8996
+                },
+                "PreSize": {
+                  "X": 0.2125,
+                  "Y": 0.1029
+                },
+                "LeftMargin": 261.9173,
+                "RightMargin": 242.0827,
+                "TopMargin": 17.1505,
+                "BottomMargin": 296.8495,
+                "Tag": 1277,
+                "ActionTag": -1187977336,
+                "Size": {
+                  "X": 136.0,
+                  "Y": 36.0
+                },
+                "Name": "a1_009_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "图鉴名字",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 328.6783,
+                  "Y": 313.9419
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5136,
+                  "Y": 0.897
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.0571
+                },
+                "LeftMargin": 288.6783,
+                "RightMargin": 271.3217,
+                "TopMargin": 26.0581,
+                "BottomMargin": 303.9419,
+                "Tag": 1275,
+                "ActionTag": -936773737,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_sName",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_008.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 44,
+                "Scale9OriginY": 9,
+                "Scale9Width": 46,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.4589,
+                  "Y": 187.475
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1757,
+                  "Y": 0.5356
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.5714
+                },
+                "LeftMargin": 12.4589,
+                "RightMargin": 427.5411,
+                "TopMargin": 62.525,
+                "BottomMargin": 87.475,
+                "Tag": 1281,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ger_npc006-atk01_0.png",
+                      "Plist": "hero/ger_npc006.plist"
+                    },
+                    "Scale9OriginX": 58,
+                    "Scale9OriginY": 56,
+                    "Scale9Width": 62,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.5308,
+                      "Y": 100.7784
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5177,
+                      "Y": 0.5039
+                    },
+                    "PreSize": {
+                      "X": 0.89,
+                      "Y": 0.855
+                    },
+                    "LeftMargin": 14.5308,
+                    "RightMargin": 7.4692,
+                    "TopMargin": 13.7216,
+                    "BottomMargin": 15.2784,
+                    "Tag": 1278,
+                    "ActionTag": -1513280936,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 171.0
+                    },
+                    "Name": "Image_hero1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "已收集",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 165.8357,
+                      "Y": 172.6636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 32.0189,
+                    "RotationSkewY": 32.0189,
+                    "CColor": {
+                      "R": 33,
+                      "B": 33
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8292,
+                      "Y": 0.8633
+                    },
+                    "PreSize": {
+                      "X": 0.39,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 126.8357,
+                    "RightMargin": -4.8357,
+                    "TopMargin": 12.8364,
+                    "BottomMargin": 158.1636,
+                    "Tag": 1286,
+                    "ActionTag": -563676823,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 29.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Text_get1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "未获得",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 166.6007,
+                      "Y": 172.2608
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 32.0189,
+                    "RotationSkewY": 32.0189,
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.833,
+                      "Y": 0.8613
+                    },
+                    "PreSize": {
+                      "X": 0.39,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 127.6007,
+                    "RightMargin": -5.6007,
+                    "TopMargin": 13.2392,
+                    "BottomMargin": 157.7608,
+                    "Tag": 1287,
+                    "ActionTag": 288998904,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_no1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "名字最多七个字",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.8284,
+                      "Y": 23.824
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewY": 0.0003,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5341,
+                      "Y": 0.1191
+                    },
+                    "PreSize": {
+                      "X": 0.78,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 28.8284,
+                    "RightMargin": 15.1716,
+                    "TopMargin": 163.676,
+                    "BottomMargin": 11.324,
+                    "Tag": 84,
+                    "ActionTag": 505293408,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_name1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -973931194,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "Image_one1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_008.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 44,
+                "Scale9OriginY": 9,
+                "Scale9Width": 46,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.3737,
+                  "Y": 187.475
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5021,
+                  "Y": 0.5356
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.5714
+                },
+                "LeftMargin": 221.3737,
+                "RightMargin": 218.6263,
+                "TopMargin": 62.525,
+                "BottomMargin": 87.475,
+                "Tag": 1288,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ger_npc006-atk01_0.png",
+                      "Plist": "hero/ger_npc006.plist"
+                    },
+                    "Scale9OriginX": 58,
+                    "Scale9OriginY": 56,
+                    "Scale9Width": 62,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.5308,
+                      "Y": 100.7784
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5177,
+                      "Y": 0.5039
+                    },
+                    "PreSize": {
+                      "X": 0.89,
+                      "Y": 0.855
+                    },
+                    "LeftMargin": 14.5308,
+                    "RightMargin": 7.4692,
+                    "TopMargin": 13.7216,
+                    "BottomMargin": 15.2784,
+                    "Tag": 1289,
+                    "ActionTag": -610362901,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 171.0
+                    },
+                    "Name": "Image_hero2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "已收集",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 165.8357,
+                      "Y": 172.6636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 32.0189,
+                    "RotationSkewY": 32.0189,
+                    "CColor": {
+                      "R": 33,
+                      "B": 33
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8292,
+                      "Y": 0.8633
+                    },
+                    "PreSize": {
+                      "X": 0.39,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 126.8357,
+                    "RightMargin": -4.8357,
+                    "TopMargin": 12.8364,
+                    "BottomMargin": 158.1636,
+                    "Tag": 1290,
+                    "ActionTag": -1190756316,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 29.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Text_get2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "未获得",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 167.5354,
+                      "Y": 169.4586
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 32.0189,
+                    "RotationSkewY": 32.0189,
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8377,
+                      "Y": 0.8473
+                    },
+                    "PreSize": {
+                      "X": 0.39,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 128.5354,
+                    "RightMargin": -6.5354,
+                    "TopMargin": 16.0414,
+                    "BottomMargin": 154.9586,
+                    "Tag": 1291,
+                    "ActionTag": -2109996617,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_no2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "名字最多七个字",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.7535,
+                      "Y": 23.7915
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewY": 0.0003,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5288,
+                      "Y": 0.119
+                    },
+                    "PreSize": {
+                      "X": 0.78,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 27.7535,
+                    "RightMargin": 16.2465,
+                    "TopMargin": 163.7085,
+                    "BottomMargin": 11.2915,
+                    "Tag": 85,
+                    "ActionTag": -1472740262,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_name2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1017877203,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "Image_one2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_008.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 44,
+                "Scale9OriginY": 9,
+                "Scale9Width": 46,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 530.2885,
+                  "Y": 187.475
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8286,
+                  "Y": 0.5356
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.5714
+                },
+                "LeftMargin": 430.2885,
+                "RightMargin": 9.7115,
+                "TopMargin": 62.525,
+                "BottomMargin": 87.475,
+                "Tag": 1292,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "ger_npc006-atk01_0.png",
+                      "Plist": "hero/ger_npc006.plist"
+                    },
+                    "Scale9OriginX": 58,
+                    "Scale9OriginY": 56,
+                    "Scale9Width": 62,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.5308,
+                      "Y": 100.7784
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5177,
+                      "Y": 0.5039
+                    },
+                    "PreSize": {
+                      "X": 0.89,
+                      "Y": 0.855
+                    },
+                    "LeftMargin": 14.5308,
+                    "RightMargin": 7.4692,
+                    "TopMargin": 13.7216,
+                    "BottomMargin": 15.2784,
+                    "Tag": 1293,
+                    "ActionTag": 707219229,
+                    "Size": {
+                      "X": 178.0,
+                      "Y": 171.0
+                    },
+                    "Name": "Image_hero3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "已收集",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 165.8357,
+                      "Y": 172.6636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 32.0189,
+                    "RotationSkewY": 32.0189,
+                    "CColor": {
+                      "R": 33,
+                      "B": 33
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8292,
+                      "Y": 0.8633
+                    },
+                    "PreSize": {
+                      "X": 0.39,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 126.8357,
+                    "RightMargin": -4.8357,
+                    "TopMargin": 12.8364,
+                    "BottomMargin": 158.1636,
+                    "Tag": 1294,
+                    "ActionTag": -1157879416,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 29.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Text_get3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 25,
+                    "LabelText": "未获得",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 162.8626,
+                      "Y": 171.3268
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 32.0189,
+                    "RotationSkewY": 32.0189,
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8143,
+                      "Y": 0.8566
+                    },
+                    "PreSize": {
+                      "X": 0.39,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 123.8626,
+                    "RightMargin": -1.8626,
+                    "TopMargin": 14.1732,
+                    "BottomMargin": 156.8268,
+                    "Tag": 1295,
+                    "ActionTag": -1356787677,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_no3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "名字最多七个字",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.7889,
+                      "Y": 22.6516
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewY": 0.0003,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5289,
+                      "Y": 0.1133
+                    },
+                    "PreSize": {
+                      "X": 0.78,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 27.7889,
+                    "RightMargin": 16.2111,
+                    "TopMargin": 164.8484,
+                    "BottomMargin": 10.1516,
+                    "Tag": 86,
+                    "ActionTag": 87369398,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_name3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -408885783,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "Image_one3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "属性加成对全体上阵士兵有效",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 316.388,
+                  "Y": 71.175
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4944,
+                  "Y": 0.2034
+                },
+                "PreSize": {
+                  "X": 0.4063,
+                  "Y": 0.0571
+                },
+                "LeftMargin": 186.388,
+                "RightMargin": 193.612,
+                "TopMargin": 268.825,
+                "BottomMargin": 61.175,
+                "Tag": 1296,
+                "ActionTag": 1947242777,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_sName_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "属性加成对全体上阵士兵有效",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 158.1036,
+                  "Y": 43.5637
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.247,
+                  "Y": 0.1245
+                },
+                "PreSize": {
+                  "X": 0.4063,
+                  "Y": 0.0571
+                },
+                "LeftMargin": 28.1036,
+                "RightMargin": 351.8964,
+                "TopMargin": 296.4363,
+                "BottomMargin": 33.5637,
+                "Tag": 1297,
+                "ActionTag": 2021065920,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_sDate1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "属性加成对全体上阵士兵有效",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 451.624,
+                  "Y": 42.5852
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7057,
+                  "Y": 0.1217
+                },
+                "PreSize": {
+                  "X": 0.4063,
+                  "Y": 0.0571
+                },
+                "LeftMargin": 321.624,
+                "RightMargin": 58.376,
+                "TopMargin": 297.4148,
+                "BottomMargin": 32.5852,
+                "Tag": 1298,
+                "ActionTag": 1067716598,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_sDate2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "属性加成对全体上阵士兵有效",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 157.1261,
+                  "Y": 16.1683
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2455,
+                  "Y": 0.0462
+                },
+                "PreSize": {
+                  "X": 0.4063,
+                  "Y": 0.0571
+                },
+                "LeftMargin": 27.1261,
+                "RightMargin": 352.8739,
+                "TopMargin": 323.8317,
+                "BottomMargin": 6.1683,
+                "Tag": 1299,
+                "ActionTag": -2012222454,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_sDate3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "属性加成对全体上阵士兵有效",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 452.6252,
+                  "Y": 17.125
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7072,
+                  "Y": 0.0489
+                },
+                "PreSize": {
+                  "X": 0.4063,
+                  "Y": 0.0571
+                },
+                "LeftMargin": 322.6252,
+                "RightMargin": 57.3748,
+                "TopMargin": 322.875,
+                "BottomMargin": 7.125,
+                "Tag": 1300,
+                "ActionTag": -1917631532,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_sDate4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 956896629,
+            "Size": {
+              "X": 640.0,
+              "Y": 350.0
+            },
+            "Name": "carItem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 360.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/a1/commonA1.plist",
+        "common/a1/commonA1.png",
+        "font/fnt_text.TTF",
+        "hero/ger_npc006.plist",
+        "hero/ger_npc006.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

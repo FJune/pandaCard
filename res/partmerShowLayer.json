@@ -1,0 +1,184 @@
+{
+  "ID": "685344a3-b3b5-4dd3-b35e-ed852ac91bd9",
+  "Version": "3.10.0.0",
+  "Name": "partmerShowLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 884,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 161.6323,
+              "Y": 50.5084
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4943,
+              "Y": 1.403
+            },
+            "PreSize": {
+              "X": 0.1407,
+              "Y": 1.2778
+            },
+            "LeftMargin": 138.6323,
+            "RightMargin": 142.3677,
+            "TopMargin": -37.5084,
+            "BottomMargin": 27.5084,
+            "Tag": 887,
+            "ActionTag": 198945209,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "xhb_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_042.png",
+              "Plist": "common/a/box.plist"
+            },
+            "Scale9OriginX": 118,
+            "Scale9OriginY": 9,
+            "Scale9Width": 123,
+            "Scale9Height": 12,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 164.2178,
+              "Y": 18.3222
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5022,
+              "Y": 0.5089
+            },
+            "PreSize": {
+              "X": 1.0979,
+              "Y": 0.8333
+            },
+            "LeftMargin": -15.2822,
+            "RightMargin": -16.7178,
+            "TopMargin": 2.6778,
+            "BottomMargin": 3.3222,
+            "Tag": 885,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "强力队友",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 177.5945,
+                  "Y": 8.8569
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4947,
+                  "Y": 0.2952
+                },
+                "PreSize": {
+                  "X": 0.2368,
+                  "Y": 0.9
+                },
+                "LeftMargin": 135.0945,
+                "RightMargin": 138.9055,
+                "TopMargin": 7.6431,
+                "BottomMargin": -4.6431,
+                "Tag": 107,
+                "ActionTag": -2005832107,
+                "Size": {
+                  "X": 85.0,
+                  "Y": 27.0
+                },
+                "Name": "TextHeroName",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1361067681,
+            "Size": {
+              "X": 359.0,
+              "Y": 30.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 327.0,
+          "Y": 36.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "Default/Sprite.png",
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,182 @@
+{
+  "ID": "5d9440da-6e45-4f5b-886d-47617f3a759d",
+  "Version": "3.10.0.0",
+  "Name": "vipItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 371,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1428,
+            "Children": [
+              {
+                "ItemMargin": 5,
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 1175,
+                "ActionTag": 347523295,
+                "Size": {
+                  "X": 550.0,
+                  "Y": 360.0
+                },
+                "Name": "listVip",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 275.0,
+                  "Y": 345.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9583
+                },
+                "PreSize": {
+                  "X": 1.0036,
+                  "Y": 0.0833
+                },
+                "LeftMargin": -1.0,
+                "RightMargin": -1.0,
+                "BottomMargin": 330.0,
+                "Tag": 1427,
+                "ActionTag": -1509915707,
+                "Size": {
+                  "X": 552.0,
+                  "Y": 30.0
+                },
+                "Name": "textVipDes",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2068463948,
+            "Size": {
+              "X": 550.0,
+              "Y": 360.0
+            },
+            "Name": "item",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 550.0,
+          "Y": 360.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

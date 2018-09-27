@@ -1,0 +1,214 @@
+{
+  "ID": "2495d143-d91e-4691-b1f2-34457280ccd9",
+  "Version": "3.10.0.0",
+  "Name": "effLogin",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 55,
+        "Speed": 1.0,
+        "ActivedAnimationName": "action",
+        "Timelines": [
+          {
+            "ActionTag": -137008246,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_0.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_1.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_2.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_3.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_4.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_5.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_6.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_7.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_8.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_9.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_10.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 50,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/efflogin/xuanzheyemian01_11.png",
+                  "Plist": "effect/efflogin/efflogin.plist"
+                },
+                "FrameIndex": 55,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 55,
+          "Name": "action",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 816,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/efflogin/xuanzheyemian01_0.png",
+              "Plist": "effect/efflogin/efflogin.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 817,
+            "ActionTag": -137008246,
+            "Size": {
+              "X": 203.0,
+              "Y": 117.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "effect/efflogin/efflogin.plist",
+        "effect/efflogin/efflogin.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,531 @@
+{
+  "ID": "e99b31a9-5e78-4288-b79a-f188fdf1fd1a",
+  "Version": "3.10.0.0",
+  "Name": "effShell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 138,
+        "Speed": 1.0,
+        "ActivedAnimationName": "explode",
+        "Timelines": [
+          {
+            "ActionTag": -528240979,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 24.59,
+                "Y": 84.51,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 24.59,
+                "Y": 84.51,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -82.0,
+                "Y": 250.0,
+                "FrameIndex": 31,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -82.0,
+                "Y": 250.0,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 24.0,
+                "Y": 58.0,
+                "FrameIndex": 67,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 24.0,
+                "Y": 58.0,
+                "FrameIndex": 137,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 24.0,
+                "Y": 58.0,
+                "FrameIndex": 138,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -528240979,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00000.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00001.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00002.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00003.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00004.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00005.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/aim/001_00006.png",
+                  "Plist": "effect/shellaim.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00000.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 31,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00001.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 36,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00002.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 41,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00003.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 46,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00004.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 51,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00005.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 56,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00006.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 61,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/warhead/001_00007.png",
+                  "Plist": "effect/shellwarhead.plist"
+                },
+                "FrameIndex": 66,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00000.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 67,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00001.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 72,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00002.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 77,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00003.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 82,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00004.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 87,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00005.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 92,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00006.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 97,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00007.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 102,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00008.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 107,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00009.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 112,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00010.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 117,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00011.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 122,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00012.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 127,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00013.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 132,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00014.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 137,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/shell/explode/001_00014.png",
+                  "Plist": "effect/shellexplode.plist"
+                },
+                "FrameIndex": 138,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -528240979,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 137,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 138,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -528240979,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 138,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 30,
+          "Name": "aim",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 67,
+          "EndIndex": 138,
+          "Name": "explode",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 31,
+          "EndIndex": 66,
+          "Name": "warhead",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 110,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/shell/explode/001_00014.png",
+              "Plist": "effect/shellexplode.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 24.0,
+              "Y": 58.0
+            },
+            "Scale": {
+              "ScaleX": 0.01,
+              "ScaleY": 0.01
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0469,
+              "Y": 0.1133
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -232.0,
+            "RightMargin": 232.0,
+            "TopMargin": 198.0,
+            "BottomMargin": -198.0,
+            "Tag": 4,
+            "ActionTag": -528240979,
+            "Size": {
+              "X": 512.0,
+              "Y": 512.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 512.0,
+          "Y": 512.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "effect/shellaim.plist",
+        "effect/shellaim.png",
+        "effect/shellexplode.plist",
+        "effect/shellexplode.png",
+        "effect/shellwarhead.plist",
+        "effect/shellwarhead.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

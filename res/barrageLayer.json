@@ -1,0 +1,90 @@
+{
+  "ID": "6d544978-f659-437e-a498-83afb319f8b9",
+  "Version": "3.10.0.0",
+  "Name": "barrageLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 928,
+        "Children": [
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "狗带熊熊熊狗带熊熊熊狗带熊熊熊狗狗带熊熊熊狗带熊熊熊狗带熊熊熊狗",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 293.2922,
+              "Y": 36.5016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4583,
+              "Y": 0.4867
+            },
+            "PreSize": {
+              "X": 0.8125,
+              "Y": 0.9333
+            },
+            "LeftMargin": 33.2922,
+            "RightMargin": 86.7078,
+            "TopMargin": 3.4984,
+            "BottomMargin": 1.5016,
+            "Tag": 929,
+            "ActionTag": -886471423,
+            "Size": {
+              "X": 520.0,
+              "Y": 70.0
+            },
+            "Name": "barrageText",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 75.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

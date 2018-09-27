@@ -1,0 +1,1254 @@
+{
+  "ID": "17305ced-b87d-4c02-aff0-f466efee750a",
+  "Version": "3.10.0.0",
+  "Name": "effFontLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 389,
+        "Speed": 1.0,
+        "ActivedAnimationName": "attackAction",
+        "Timelines": [
+          {
+            "ActionTag": -824323096,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 11.2737,
+                "Y": 20.0,
+                "FrameIndex": 40,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 80.0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -824323096,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.1,
+                "Y": 0.1,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.8,
+                "Y": 2.8,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.2,
+                "Y": 2.2,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.2,
+                "Y": 2.2,
+                "FrameIndex": 65,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.5,
+                "Y": 2.5,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -824323096,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 65,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 80,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1380803121,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 11.2737,
+                "Y": 20.0,
+                "FrameIndex": 130,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 80.0,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1380803121,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.0001,
+                "Y": 0.0001,
+                "FrameIndex": 85,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.5,
+                "Y": 3.5,
+                "FrameIndex": 95,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.7,
+                "Y": 2.7,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.7,
+                "Y": 2.7,
+                "FrameIndex": 130,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.7,
+                "Y": 2.7,
+                "FrameIndex": 150,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1380803121,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 85,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 95,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 145,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 577181004,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 11.2737,
+                "Y": 20.0,
+                "FrameIndex": 225,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 57.1068,
+                "FrameIndex": 241,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 577181004,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.0001,
+                "Y": 0.0001,
+                "FrameIndex": 165,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.0,
+                "Y": 3.0,
+                "FrameIndex": 175,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.0,
+                "Y": 2.0,
+                "FrameIndex": 180,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.0,
+                "Y": 2.0,
+                "FrameIndex": 210,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.0,
+                "Y": 2.0,
+                "FrameIndex": 241,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 577181004,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 165,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 175,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 225,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 242,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 116995712,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 11.2737,
+                "Y": 20.0,
+                "FrameIndex": 295,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 80.0,
+                "FrameIndex": 324,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 116995712,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.0001,
+                "Y": 0.0001,
+                "FrameIndex": 246,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.5,
+                "Y": 3.5,
+                "FrameIndex": 255,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.5,
+                "Y": 2.5,
+                "FrameIndex": 260,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.5,
+                "Y": 2.5,
+                "FrameIndex": 295,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.2,
+                "Y": 3.2,
+                "FrameIndex": 324,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 116995712,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 246,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 255,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 313,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 324,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 331601024,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 11.2737,
+                "Y": 57.1068,
+                "FrameIndex": 330,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 20.0,
+                "FrameIndex": 331,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 20.0,
+                "FrameIndex": 370,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 11.2737,
+                "Y": 80.0,
+                "FrameIndex": 385,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 331601024,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.0001,
+                "Y": 0.0001,
+                "FrameIndex": 330,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 3.5,
+                "Y": 3.5,
+                "FrameIndex": 340,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.7,
+                "Y": 2.7,
+                "FrameIndex": 345,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.7,
+                "Y": 2.7,
+                "FrameIndex": 383,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 331601024,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 330,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 331,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 340,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 378,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 385,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -987574714,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_0.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 331,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_1.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 336,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_2.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 341,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_3.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 346,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_4.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 351,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_5.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 356,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_6.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 361,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_7.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 366,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_8.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 371,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_9.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 376,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_10.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 381,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_11.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "FrameIndex": 386,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -987574714,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 330,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 331,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 386,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 389,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 80,
+          "Name": "attackAction",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 81,
+          "EndIndex": 160,
+          "Name": "dodgeAction",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 161,
+          "EndIndex": 242,
+          "Name": "manderAction",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 243,
+          "EndIndex": 324,
+          "Name": "skillAction",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 325,
+          "EndIndex": 406,
+          "Name": "treatAction",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 230,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 520.0,
+            "TopMargin": 520.0,
+            "Tag": 232,
+            "Children": [
+              {
+                "LabelText": "i356777",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/dgyellow.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 11.2737,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 0.1,
+                  "ScaleY": 0.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -106.7263,
+                "RightMargin": -129.2737,
+                "TopMargin": -52.0,
+                "BottomMargin": 20.0,
+                "Tag": 234,
+                "ActionTag": -824323096,
+                "Size": {
+                  "X": 236.0,
+                  "Y": 32.0
+                },
+                "Name": "bmFontAttack",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1558531472,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeAttack",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 520.0,
+            "TopMargin": 520.0,
+            "Tag": 311,
+            "Children": [
+              {
+                "LabelText": "!",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/dgblue.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 11.2737,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 0.0001,
+                  "ScaleY": 0.0001
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -26.2263,
+                "RightMargin": -48.7737,
+                "TopMargin": -36.0,
+                "BottomMargin": 4.0,
+                "Tag": 312,
+                "ActionTag": 1380803121,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 32.0
+                },
+                "Alpha": 0,
+                "Name": "bmFontDodge",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 938295538,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeDodge",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 520.0,
+            "TopMargin": 520.0,
+            "Tag": 313,
+            "Children": [
+              {
+                "LabelText": "356777",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/numgray.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 11.2737,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 0.0001,
+                  "ScaleY": 0.0001
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -42.7263,
+                "RightMargin": -65.2737,
+                "TopMargin": -36.0,
+                "BottomMargin": 4.0,
+                "Tag": 314,
+                "ActionTag": 577181004,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 32.0
+                },
+                "Alpha": 0,
+                "Name": "bmFontMander",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1733469865,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeMander",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 520.0,
+            "TopMargin": 520.0,
+            "Tag": 315,
+            "Children": [
+              {
+                "LabelText": "i34445",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/dgred.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 11.2737,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 0.0001,
+                  "ScaleY": 0.0001
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -94.2263,
+                "RightMargin": -116.7737,
+                "TopMargin": -52.0,
+                "BottomMargin": 20.0,
+                "Tag": 316,
+                "ActionTag": 116995712,
+                "Size": {
+                  "X": 211.0,
+                  "Y": 32.0
+                },
+                "Alpha": 0,
+                "Name": "bmFontSkill",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 172697590,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeSkill",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 520.0,
+            "TopMargin": 520.0,
+            "Tag": 317,
+            "Children": [
+              {
+                "LabelText": "+356777",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/dggreen.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 11.2737,
+                  "Y": 57.1068
+                },
+                "Scale": {
+                  "ScaleX": 0.0001,
+                  "ScaleY": 0.0001
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -46.2263,
+                "RightMargin": -68.7737,
+                "TopMargin": -73.1068,
+                "BottomMargin": 41.1068,
+                "Tag": 318,
+                "ActionTag": 331601024,
+                "Size": {
+                  "X": 115.0,
+                  "Y": 32.0
+                },
+                "Alpha": 0,
+                "Name": "bmFontTreat",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/effhp/ettt_0.png",
+                  "Plist": "effect/effHp.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 6.019,
+                  "Y": -66.2092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -66.481,
+                "RightMargin": -78.519,
+                "TopMargin": -64.7908,
+                "BottomMargin": -197.2092,
+                "Tag": 744,
+                "ActionTag": -987574714,
+                "Size": {
+                  "X": 145.0,
+                  "Y": 262.0
+                },
+                "Alpha": 0,
+                "Name": "Sprite_9",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 989403828,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeTreat",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 520.0,
+          "Y": 520.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "effect/effHp.plist",
+        "effect/effHp.png",
+        "font/dgblue.fnt",
+        "font/dgblue.png",
+        "font/dggreen.fnt",
+        "font/dggreen.png",
+        "font/dgred.fnt",
+        "font/dgred.png",
+        "font/dgyellow.fnt",
+        "font/dgyellow.png",
+        "font/numgray.fnt",
+        "font/numgray.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

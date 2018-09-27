@@ -1,0 +1,1278 @@
+{
+  "ID": "2326ebc8-241e-4fbf-bee4-c05928ce2c9d",
+  "Version": "3.10.0.0",
+  "Name": "effBreakItem1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 355,
+        "Speed": 1.0,
+        "ActivedAnimationName": "action1",
+        "Timelines": [
+          {
+            "ActionTag": -488274706,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 127,
+                "FrameIndex": 95,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 185,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 127,
+                "FrameIndex": 274,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 355,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 396797445,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -360.0,
+                "Y": -360.0,
+                "FrameIndex": 355,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 312499363,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.0,
+                "Y": 360.0,
+                "FrameIndex": 355,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 280054455,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng11.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng12.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng13.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng14.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng15.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng16.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng17.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng18.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng19.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng20.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng21.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 50,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng22.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 55,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng11.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 60,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng12.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 65,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng13.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 70,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng14.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 75,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng15.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 80,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng16.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 85,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng17.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 90,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng18.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 95,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng19.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 100,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng20.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 105,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng21.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 110,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng22.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 115,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng11.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 120,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng12.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 125,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng13.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 130,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng14.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 135,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng15.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 140,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng16.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 145,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng17.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 150,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng18.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 155,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng19.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 160,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng20.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 165,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng21.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 170,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng22.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 175,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng11.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 180,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng12.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 185,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng13.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 190,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng14.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 195,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng15.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 200,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng16.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 205,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng17.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 210,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng18.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 215,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng19.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 220,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng20.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 225,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng21.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 230,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng22.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 235,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng11.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 240,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng12.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 245,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng13.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 250,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng14.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 255,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng15.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 260,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng16.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 265,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng17.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 270,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng18.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 275,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng19.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 280,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng20.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 285,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng21.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 290,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng22.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 295,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng11.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 300,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng12.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 305,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng13.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 310,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng14.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 315,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng15.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 320,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng16.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 325,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng17.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 330,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng18.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 335,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng19.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 340,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng20.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 345,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng21.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 350,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/break/hecheng22.png",
+                  "Plist": "common/break/break.plist"
+                },
+                "FrameIndex": 355,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 490274537,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 95,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 185,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 274,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 355,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1900444848,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 95,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 185,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 274,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 355,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 355,
+          "Name": "action1",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_047.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.9636,
+              "Y": -8.4464
+            },
+            "Scale": {
+              "ScaleX": 5.5,
+              "ScaleY": 5.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0031,
+              "Y": -0.0074
+            },
+            "PreSize": {
+              "X": 0.2,
+              "Y": 0.1127
+            },
+            "LeftMargin": -65.9636,
+            "RightMargin": 577.9636,
+            "TopMargin": 1080.4463,
+            "BottomMargin": -72.4464,
+            "Tag": 9,
+            "ActionTag": -488274706,
+            "Size": {
+              "X": 128.0,
+              "Y": 128.0
+            },
+            "Alpha": 0,
+            "Name": "a_047_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/break/break_bg3.png",
+              "Plist": "common/break/break.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.2125,
+              "Y": 0.1197
+            },
+            "LeftMargin": -68.0,
+            "RightMargin": 572.0,
+            "TopMargin": 1068.0,
+            "BottomMargin": -68.0,
+            "Tag": 2,
+            "ActionTag": 396797445,
+            "Size": {
+              "X": 136.0,
+              "Y": 136.0
+            },
+            "Name": "break_bg3_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/break/break_bg4.png",
+              "Plist": "common/break/break.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.3953,
+              "Y": 0.2227
+            },
+            "LeftMargin": -126.5,
+            "RightMargin": 513.5,
+            "TopMargin": 1009.5,
+            "BottomMargin": -126.5,
+            "Tag": 3,
+            "ActionTag": 312499363,
+            "Size": {
+              "X": 253.0,
+              "Y": 253.0
+            },
+            "Name": "break_bg4_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/break/break_bg5.png",
+              "Plist": "common/break/break.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.3391,
+              "Y": 0.088
+            },
+            "LeftMargin": -108.5,
+            "RightMargin": 531.5,
+            "TopMargin": 1086.0,
+            "BottomMargin": -50.0,
+            "Tag": 4,
+            "ActionTag": 1098221483,
+            "Size": {
+              "X": 217.0,
+              "Y": 100.0
+            },
+            "Name": "break_bg5_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/break/hecheng11.png",
+              "Plist": "common/break/break.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 4.7464,
+              "Y": 1.0
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0074,
+              "Y": 0.0009
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -51.7536,
+            "RightMargin": 578.7536,
+            "TopMargin": 1106.5,
+            "BottomMargin": -27.5,
+            "Tag": 6,
+            "ActionTag": 280054455,
+            "Size": {
+              "X": 113.0,
+              "Y": 57.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/break/hecheng23.png",
+              "Plist": "common/break/break.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.4459,
+              "Y": 2.9077
+            },
+            "Scale": {
+              "ScaleX": 4.0,
+              "ScaleY": 4.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0038,
+              "Y": 0.0026
+            },
+            "PreSize": {
+              "X": 0.1141,
+              "Y": 0.0625
+            },
+            "LeftMargin": -34.0541,
+            "RightMargin": 601.0541,
+            "TopMargin": 1097.5923,
+            "BottomMargin": -32.5923,
+            "Tag": 7,
+            "ActionTag": 490274537,
+            "Size": {
+              "X": 73.0,
+              "Y": 71.0
+            },
+            "Name": "hecheng23_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/break/hecheng24.png",
+              "Plist": "common/break/break.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.4471,
+              "Y": -0.0923
+            },
+            "Scale": {
+              "ScaleX": 4.0,
+              "ScaleY": 4.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0038,
+              "Y": -0.0001
+            },
+            "PreSize": {
+              "X": 0.1906,
+              "Y": 0.1074
+            },
+            "LeftMargin": -58.5529,
+            "RightMargin": 576.5529,
+            "TopMargin": 1075.0923,
+            "BottomMargin": -61.0923,
+            "Tag": 8,
+            "ActionTag": 1900444848,
+            "Size": {
+              "X": 122.0,
+              "Y": 122.0
+            },
+            "Alpha": 0,
+            "Name": "hecheng24_7",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/break/break.plist",
+        "common/break/break.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

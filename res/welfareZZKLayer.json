@@ -1,0 +1,671 @@
+{
+  "ID": "56ab595d-cab5-4302-a518-146ed3f96970",
+  "Version": "3.10.0.0",
+  "Name": "welfareZZKLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 260,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a2/a2_yk1.png",
+              "Plist": "common/a2/a2_hd.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 91,
+            "Scale9OriginY": 129,
+            "Scale9Width": 458,
+            "Scale9Height": 608,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.1619,
+              "Y": 512.6655
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4987,
+              "Y": 0.5081
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.8583
+            },
+            "LeftMargin": -0.8381,
+            "RightMargin": 0.8381,
+            "TopMargin": 63.3345,
+            "BottomMargin": 79.6655,
+            "Tag": 278,
+            "ActionTag": 1594070601,
+            "Size": {
+              "X": 640.0,
+              "Y": 866.0
+            },
+            "Name": "Image_2_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_048.png",
+              "Plist": "common/c/button.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_048.png",
+              "Plist": "common/c/button.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_048.png",
+              "Plist": "common/c/button.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 41,
+            "Scale9Height": 60,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 576.495,
+              "Y": 942.9667
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9008,
+              "Y": 0.9346
+            },
+            "PreSize": {
+              "X": 0.1109,
+              "Y": 0.0813
+            },
+            "LeftMargin": 540.995,
+            "RightMargin": 28.005,
+            "TopMargin": 25.0333,
+            "BottomMargin": 901.9667,
+            "Tag": 396,
+            "ActionTag": -2105892831,
+            "Size": {
+              "X": 71.0,
+              "Y": 82.0
+            },
+            "Name": "btnBack",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_055_1.png",
+              "Plist": "common/c/button.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_055.png",
+              "Plist": "common/c/button.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_055.png",
+              "Plist": "common/c/button.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 83,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 315.2713,
+              "Y": 266.6989
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4926,
+              "Y": 0.2643
+            },
+            "PreSize": {
+              "X": 0.1766,
+              "Y": 0.0624
+            },
+            "LeftMargin": 258.7713,
+            "RightMargin": 268.2287,
+            "TopMargin": 710.8011,
+            "BottomMargin": 235.1989,
+            "Tag": 482,
+            "Children": [
+              {
+                "FontSize": 26,
+                "LabelText": "领取",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 37,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 58.0587,
+                  "Y": 30.1289
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 235,
+                  "B": 187
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5138,
+                  "Y": 0.4782
+                },
+                "PreSize": {
+                  "X": 0.4956,
+                  "Y": 0.5397
+                },
+                "LeftMargin": 30.0587,
+                "RightMargin": 26.9413,
+                "TopMargin": 15.8711,
+                "BottomMargin": 13.1289,
+                "Tag": 483,
+                "ActionTag": 720334425,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 34.0
+                },
+                "Name": "textLv_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1673647548,
+            "Size": {
+              "X": 113.0,
+              "Y": 63.0
+            },
+            "VisibleForFrame": false,
+            "Name": "B_get",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a2/a2_yk3.png",
+              "Plist": "common/a2/a2_hd.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a2/a2_yk3.png",
+              "Plist": "common/a2/a2_hd.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 256,
+            "Scale9Height": 87,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 312.239,
+              "Y": 169.2301
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4879,
+              "Y": 0.1677
+            },
+            "PreSize": {
+              "X": 0.4469,
+              "Y": 0.108
+            },
+            "LeftMargin": 169.239,
+            "RightMargin": 184.761,
+            "TopMargin": 785.2699,
+            "BottomMargin": 114.7301,
+            "Tag": 546,
+            "ActionTag": 1997751697,
+            "Size": {
+              "X": 286.0,
+              "Y": 109.0
+            },
+            "Name": "B_buy",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "终身卡期间还拥有以下至尊特权：",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 0,
+              "G": 37,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 288.7946,
+              "Y": 495.8838
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 234,
+              "B": 193
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4512,
+              "Y": 0.4915
+            },
+            "PreSize": {
+              "X": 0.6812,
+              "Y": 0.0396
+            },
+            "LeftMargin": 70.7946,
+            "RightMargin": 133.2054,
+            "TopMargin": 493.1162,
+            "BottomMargin": 475.8838,
+            "Tag": 109,
+            "ActionTag": -901932068,
+            "Size": {
+              "X": 436.0,
+              "Y": 40.0
+            },
+            "Name": "textLv_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "1、离线收益时间增加6小时",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 0,
+              "G": 37,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 294.1182,
+              "Y": 439.3311
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 234,
+              "B": 193
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4596,
+              "Y": 0.4354
+            },
+            "PreSize": {
+              "X": 0.4609,
+              "Y": 0.0337
+            },
+            "LeftMargin": 146.6182,
+            "RightMargin": 198.3818,
+            "TopMargin": 552.6689,
+            "BottomMargin": 422.3311,
+            "Tag": 110,
+            "ActionTag": -1856725896,
+            "Size": {
+              "X": 295.0,
+              "Y": 34.0
+            },
+            "Name": "textLv_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "2、离线收益提升百分比：20%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 0,
+              "G": 37,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 312.2979,
+              "Y": 406.556
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 234,
+              "B": 193
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.488,
+              "Y": 0.4029
+            },
+            "PreSize": {
+              "X": 0.5156,
+              "Y": 0.0337
+            },
+            "LeftMargin": 147.2979,
+            "RightMargin": 162.7021,
+            "TopMargin": 585.444,
+            "BottomMargin": 389.556,
+            "Tag": 111,
+            "ActionTag": 872680413,
+            "Size": {
+              "X": 330.0,
+              "Y": 34.0
+            },
+            "Name": "textLv_1_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "3、金币掉落提升百分比：10%",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 0,
+              "G": 37,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.1776,
+              "Y": 377.1337
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 234,
+              "B": 193
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4893,
+              "Y": 0.3738
+            },
+            "PreSize": {
+              "X": 0.5156,
+              "Y": 0.0337
+            },
+            "LeftMargin": 148.1776,
+            "RightMargin": 161.8224,
+            "TopMargin": 614.8663,
+            "BottomMargin": 360.1337,
+            "Tag": 112,
+            "ActionTag": -655257815,
+            "Size": {
+              "X": 330.0,
+              "Y": 34.0
+            },
+            "Name": "textLv_1_0_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "4、延长boss挑战时间：5s",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "OutlineSize": 3,
+            "OutlineColor": {
+              "R": 0,
+              "G": 37,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 292.3299,
+              "Y": 349.1722
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 234,
+              "B": 193
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4568,
+              "Y": 0.3461
+            },
+            "PreSize": {
+              "X": 0.4531,
+              "Y": 0.0337
+            },
+            "LeftMargin": 147.3299,
+            "RightMargin": 202.6701,
+            "TopMargin": 642.8278,
+            "BottomMargin": 332.1722,
+            "Tag": 236,
+            "ActionTag": -1319153224,
+            "Size": {
+              "X": 290.0,
+              "Y": 34.0
+            },
+            "Name": "textLv_1_0_0_0_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1009.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a2/a2_hd.plist",
+        "common/a2/a2_hd.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "Default/Button_Disable.png",
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

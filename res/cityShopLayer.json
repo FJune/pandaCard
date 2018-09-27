@@ -1,0 +1,1545 @@
+{
+  "ID": "ce216fd2-559a-4bf4-96c8-eb9c3181f2d2",
+  "Version": "3.10.0.0",
+  "Name": "cityShopLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1681,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a1/a1_002.png",
+              "Plist": "common/a1/commonA1.plist"
+            },
+            "Scale9OriginX": 96,
+            "Scale9OriginY": 142,
+            "Scale9Width": 400,
+            "Scale9Height": 584,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.26,
+              "Y": 555.64
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.502,
+              "Y": 0.4891
+            },
+            "PreSize": {
+              "X": 0.925,
+              "Y": 0.5282
+            },
+            "LeftMargin": 25.26,
+            "RightMargin": 22.74,
+            "TopMargin": 280.36,
+            "BottomMargin": 255.64,
+            "Tag": 1765,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a1/a1_001.png",
+                  "Plist": "common/a1/commonA1.plist"
+                },
+                "Scale9OriginX": 147,
+                "Scale9OriginY": 24,
+                "Scale9Width": 159,
+                "Scale9Height": 33,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 290.0932,
+                  "Y": 555.4601
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.49,
+                  "Y": 0.9258
+                },
+                "PreSize": {
+                  "X": 0.7652,
+                  "Y": 0.135
+                },
+                "LeftMargin": 63.5932,
+                "RightMargin": 75.4068,
+                "TopMargin": 4.0399,
+                "BottomMargin": 514.9601,
+                "Tag": 1766,
+                "ActionTag": 718139309,
+                "Size": {
+                  "X": 453.0,
+                  "Y": 81.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a1/a1_003.png",
+                  "Plist": "common/a1/commonA1.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 92,
+                "Scale9OriginY": 119,
+                "Scale9Width": 379,
+                "Scale9Height": 512,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 295.7346,
+                  "Y": 307.8272
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4996,
+                  "Y": 0.513
+                },
+                "PreSize": {
+                  "X": 0.951,
+                  "Y": 0.7
+                },
+                "LeftMargin": 14.2346,
+                "RightMargin": 14.7654,
+                "TopMargin": 82.1728,
+                "BottomMargin": 97.8272,
+                "Tag": 1767,
+                "ActionTag": 1790527133,
+                "Size": {
+                  "X": 563.0,
+                  "Y": 420.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "商店",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 290.8877,
+                  "Y": 559.4616
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4914,
+                  "Y": 0.9324
+                },
+                "PreSize": {
+                  "X": 0.1132,
+                  "Y": 0.065
+                },
+                "LeftMargin": 257.3877,
+                "RightMargin": 267.6123,
+                "TopMargin": 21.0384,
+                "BottomMargin": 539.9616,
+                "Tag": 1768,
+                "ActionTag": 1313305759,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 39.0
+                },
+                "Name": "textTipsTitle",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s1.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s1.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 76,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 116.9277,
+                  "Y": 419.8517
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1975,
+                  "Y": 0.6998
+                },
+                "PreSize": {
+                  "X": 0.1824,
+                  "Y": 0.1633
+                },
+                "LeftMargin": 62.9277,
+                "RightMargin": 421.0723,
+                "TopMargin": 131.1483,
+                "BottomMargin": 370.8517,
+                "Tag": 1769,
+                "ActionTag": -248962700,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 98.0
+                },
+                "Name": "btnComShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s5.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s5.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 76,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 238.2102,
+                  "Y": 419.9316
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4024,
+                  "Y": 0.6999
+                },
+                "PreSize": {
+                  "X": 0.1824,
+                  "Y": 0.1633
+                },
+                "LeftMargin": 184.2102,
+                "RightMargin": 299.7898,
+                "TopMargin": 131.0684,
+                "BottomMargin": 370.9316,
+                "Tag": 1771,
+                "ActionTag": 1508653947,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 98.0
+                },
+                "Name": "btnHeroShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s3.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s3.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 76,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 361.3671,
+                  "Y": 420.6292
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6104,
+                  "Y": 0.701
+                },
+                "PreSize": {
+                  "X": 0.1824,
+                  "Y": 0.1633
+                },
+                "LeftMargin": 307.3671,
+                "RightMargin": 176.6329,
+                "TopMargin": 130.3708,
+                "BottomMargin": 371.6292,
+                "Tag": 1773,
+                "ActionTag": 1996367296,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 98.0
+                },
+                "Name": "btnEquShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s2.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s2.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 76,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.314,
+                  "Y": 420.3221
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8181,
+                  "Y": 0.7005
+                },
+                "PreSize": {
+                  "X": 0.1824,
+                  "Y": 0.1633
+                },
+                "LeftMargin": 430.314,
+                "RightMargin": 53.686,
+                "TopMargin": 130.6779,
+                "BottomMargin": 371.3221,
+                "Tag": 1775,
+                "ActionTag": -6705633,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 98.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnAreShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.3857,
+                  "Y": 319.2241
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1645,
+                  "Y": 0.532
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 59.3857,
+                "RightMargin": 456.6143,
+                "TopMargin": 246.7759,
+                "BottomMargin": 285.2241,
+                "Tag": 1777,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "公会商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1778,
+                    "ActionTag": -1588961275,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 595628398,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnGuildShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 219.0264,
+                  "Y": 315.7837
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.37,
+                  "Y": 0.5263
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 181.0264,
+                "RightMargin": 334.9736,
+                "TopMargin": 250.2163,
+                "BottomMargin": 281.7837,
+                "Tag": 1779,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "对战商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1780,
+                    "ActionTag": -1681176920,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1914881200,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnVsShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 340.9284,
+                  "Y": 315.7828
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5759,
+                  "Y": 0.5263
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 302.9284,
+                "RightMargin": 213.0716,
+                "TopMargin": 250.2172,
+                "BottomMargin": 281.7828,
+                "Tag": 1781,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "跨服商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1782,
+                    "ActionTag": -2085820332,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1844846419,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnSevShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5254,
+                  "ScaleY": 0.5448
+                },
+                "Position": {
+                  "X": 467.5736,
+                  "Y": 320.0332
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7898,
+                  "Y": 0.5334
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 427.6432,
+                "RightMargin": 88.3568,
+                "TopMargin": 249.0132,
+                "BottomMargin": 282.9868,
+                "Tag": 1783,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "觉醒商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1784,
+                    "ActionTag": 1822883095,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1965719998,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnAwakeShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s4.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c1/c1_s4.png",
+                  "Plist": "common/c1/c1_btn.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 76,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 99.4895,
+                  "Y": 220.1611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1681,
+                  "Y": 0.3669
+                },
+                "PreSize": {
+                  "X": 0.1824,
+                  "Y": 0.1633
+                },
+                "LeftMargin": 45.4895,
+                "RightMargin": 438.5105,
+                "TopMargin": 330.8389,
+                "BottomMargin": 171.1611,
+                "Tag": 1785,
+                "ActionTag": -518216932,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 98.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnCarShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 218.9234,
+                  "Y": 221.5478
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3698,
+                  "Y": 0.3692
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 180.9234,
+                "RightMargin": 335.0766,
+                "TopMargin": 344.4522,
+                "BottomMargin": 187.5478,
+                "Tag": 1787,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "图鉴商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1788,
+                    "ActionTag": -578454229,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -292587157,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnPhotoShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 341.8254,
+                  "Y": 221.5469
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5774,
+                  "Y": 0.3692
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 303.8254,
+                "RightMargin": 212.1746,
+                "TopMargin": 344.4531,
+                "BottomMargin": 187.5469,
+                "Tag": 1789,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "奇遇商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1790,
+                    "ActionTag": 780503753,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1617944138,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnExploreShop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/i_010_2.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 468.3287,
+                  "Y": 221.546
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7911,
+                  "Y": 0.3692
+                },
+                "PreSize": {
+                  "X": 0.1284,
+                  "Y": 0.1133
+                },
+                "LeftMargin": 430.3287,
+                "RightMargin": 85.6713,
+                "TopMargin": 344.454,
+                "BottomMargin": 187.546,
+                "Tag": 1791,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "荣誉商店",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 37.4245,
+                      "Y": -0.8251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4924,
+                      "Y": -0.0121
+                    },
+                    "PreSize": {
+                      "X": 1.2895,
+                      "Y": 0.4118
+                    },
+                    "LeftMargin": -11.5755,
+                    "RightMargin": -10.4245,
+                    "TopMargin": 54.8251,
+                    "BottomMargin": -14.8251,
+                    "Tag": 1792,
+                    "ActionTag": 739648472,
+                    "Size": {
+                      "X": 98.0,
+                      "Y": 28.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 2068400087,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnHonorShop",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1975137255,
+            "Size": {
+              "X": 592.0,
+              "Y": 600.0
+            },
+            "Name": "ImageFastWar",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a1/commonA1.plist",
+        "common/a1/commonA1.png",
+        "common/c1/c1_btn.plist",
+        "common/c1/c1_btn.png",
+        "common/i/icon.plist",
+        "common/i/icon.png",
+        "Default/Button_Disable.png",
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

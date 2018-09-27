@@ -1,0 +1,374 @@
+{
+  "ID": "6e849cd1-dea4-41d0-b165-c45544548baa",
+  "Version": "3.10.0.0",
+  "Name": "chatItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0462,
+              "Y": 1.2212
+            },
+            "RightMargin": -24.0,
+            "TopMargin": -23.0,
+            "Tag": 140,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_015.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 171,
+                "Scale9OriginY": 41,
+                "Scale9Width": 177,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 259.7149,
+                  "Y": 53.0579
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4774,
+                  "Y": 0.4178
+                },
+                "PreSize": {
+                  "X": 0.9522,
+                  "Y": 0.7874
+                },
+                "LeftMargin": 0.7149,
+                "RightMargin": 25.2851,
+                "TopMargin": 23.9421,
+                "BottomMargin": 3.0579,
+                "Tag": 231,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_014.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 92,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 96,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.3295,
+                      "Y": 81.4146
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4601,
+                      "Y": 0.8141
+                    },
+                    "PreSize": {
+                      "X": 0.5405,
+                      "Y": 0.33
+                    },
+                    "LeftMargin": 98.3295,
+                    "RightMargin": 139.6705,
+                    "TopMargin": 2.0854,
+                    "BottomMargin": 64.9146,
+                    "Tag": 232,
+                    "ActionTag": 581514486,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 33.0
+                    },
+                    "Name": "skillIconBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_037_1.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9OriginX": 39,
+                    "Scale9OriginY": 39,
+                    "Scale9Width": 10,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 59.9666,
+                      "Y": 48.4184
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8418,
+                      "ScaleY": 0.8418
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1158,
+                      "Y": 0.4842
+                    },
+                    "PreSize": {
+                      "X": 0.1699,
+                      "Y": 0.88
+                    },
+                    "LeftMargin": 15.9666,
+                    "RightMargin": 414.0334,
+                    "TopMargin": 7.5816,
+                    "BottomMargin": 4.4184,
+                    "Tag": 235,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ame_npc005.png",
+                          "Plist": "hero/heroicon.plist"
+                        },
+                        "Scale9OriginX": 29,
+                        "Scale9OriginY": 29,
+                        "Scale9Width": 30,
+                        "Scale9Height": 30,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 44.3,
+                          "Y": 43.3588
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9698,
+                          "ScaleY": 0.9698
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5034,
+                          "Y": 0.4927
+                        },
+                        "PreSize": {
+                          "X": 0.7955,
+                          "Y": 0.7955
+                        },
+                        "LeftMargin": 9.3,
+                        "RightMargin": 8.7,
+                        "TopMargin": 9.6412,
+                        "BottomMargin": 8.3588,
+                        "Tag": 236,
+                        "ActionTag": -596838182,
+                        "Size": {
+                          "X": 70.0,
+                          "Y": 70.0
+                        },
+                        "Name": "heroIcon",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1481431372,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 88.0
+                    },
+                    "Name": "heroBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "补给包aaaaaaa",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.734,
+                      "Y": 81.5016
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4609,
+                      "Y": 0.815
+                    },
+                    "PreSize": {
+                      "X": 0.251,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 173.734,
+                    "RightMargin": 214.266,
+                    "TopMargin": 8.4984,
+                    "BottomMargin": 71.5016,
+                    "Tag": 237,
+                    "ActionTag": 1906839918,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 20.0
+                    },
+                    "Name": "heroName",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "技能描述最多两行文字可以吗\n技能描述最多两行文字可以吗\n技能描述最多两行文字可以吗",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 298.1308,
+                      "Y": 33.81
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5755,
+                      "Y": 0.3381
+                    },
+                    "PreSize": {
+                      "X": 0.7143,
+                      "Y": 0.54
+                    },
+                    "LeftMargin": 113.1308,
+                    "RightMargin": 34.8692,
+                    "TopMargin": 39.19,
+                    "BottomMargin": 6.81,
+                    "Tag": 239,
+                    "ActionTag": 652922344,
+                    "Size": {
+                      "X": 370.0,
+                      "Y": 54.0
+                    },
+                    "Name": "heroState",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1197664771,
+                "Size": {
+                  "X": 518.0,
+                  "Y": 100.0
+                },
+                "Name": "Bag",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 385852981,
+            "Size": {
+              "X": 544.0,
+              "Y": 127.0
+            },
+            "Name": "chatItem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 520.0,
+          "Y": 104.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "hero/heroicon.plist",
+        "hero/heroicon.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

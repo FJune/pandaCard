@@ -1,0 +1,1970 @@
+{
+  "ID": "c9ab6c1a-4f4f-4882-adc1-553f42b87680",
+  "Version": "3.10.0.0",
+  "Name": "effWarLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 361,
+        "Speed": 1.0,
+        "ActivedAnimationName": "amm_rif_bic01",
+        "Timelines": [
+          {
+            "ActionTag": -1204317453,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 1,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 2,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1841039169,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rif_ski01_0.png",
+                  "Plist": "skill/amm_rif_ski01.plist"
+                },
+                "FrameIndex": 3,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rif_ski01_1.png",
+                  "Plist": "skill/amm_rif_ski01.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rif_ski01_2.png",
+                  "Plist": "skill/amm_rif_ski01.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rif_ski01_3.png",
+                  "Plist": "skill/amm_rif_ski01.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rif_ski01_4.png",
+                  "Plist": "skill/amm_rif_ski01.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1841039169,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 2,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 3,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 21,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 65202826,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_bic01_0.png",
+                  "Plist": "skill/amm_rpg_bic01.plist"
+                },
+                "FrameIndex": 22,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_bic01_1.png",
+                  "Plist": "skill/amm_rpg_bic01.plist"
+                },
+                "FrameIndex": 26,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 65202826,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 21,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 22,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 26,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 27,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 797018383,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_0.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 28,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_1.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 32,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_2.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 37,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_3.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 42,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_4.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 47,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_5.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 52,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski01_6.png",
+                  "Plist": "skill/amm_rpg_ski01.plist"
+                },
+                "FrameIndex": 57,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 797018383,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 27,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 28,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 57,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 58,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -411922174,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_0.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 59,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_1.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 63,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_2.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 68,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_3.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 73,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_4.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 78,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_5.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 83,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_6.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 88,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_7.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 93,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_sni_ski01_8.png",
+                  "Plist": "skill/amm_sni_ski01.plist"
+                },
+                "FrameIndex": 98,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -411922174,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 58,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 59,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 98,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 99,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1481364444,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_1.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 100,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_2.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 105,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_3.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 110,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_4.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 115,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_5.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 120,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_6.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 125,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing01_7.png",
+                  "Plist": "skill/eff_sing01.plist"
+                },
+                "FrameIndex": 130,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1481364444,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 99,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 100,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 130,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 131,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1584901231,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing02_1.png",
+                  "Plist": "skill/eff_sing02.plist"
+                },
+                "FrameIndex": 135,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing02_2.png",
+                  "Plist": "skill/eff_sing02.plist"
+                },
+                "FrameIndex": 140,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing02_3.png",
+                  "Plist": "skill/eff_sing02.plist"
+                },
+                "FrameIndex": 145,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing02_4.png",
+                  "Plist": "skill/eff_sing02.plist"
+                },
+                "FrameIndex": 150,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing02_5.png",
+                  "Plist": "skill/eff_sing02.plist"
+                },
+                "FrameIndex": 155,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_sing02_6.png",
+                  "Plist": "skill/eff_sing02.plist"
+                },
+                "FrameIndex": 160,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1584901231,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 135,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 136,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 160,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 161,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -541750607,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_1.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 165,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_2.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 170,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_3.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 175,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_4.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 180,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_5.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 185,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_6.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 190,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski02_7.png",
+                  "Plist": "skill/amm_art_ski02.plist"
+                },
+                "FrameIndex": 195,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -541750607,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 165,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 166,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 195,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 196,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 420663461,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_0.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 200,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_1.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 205,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_2.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 210,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_3.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 215,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_4.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 220,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_5.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 225,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_bom_ski01_6.png",
+                  "Plist": "skill/amm_bom_ski01.plist"
+                },
+                "FrameIndex": 230,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 420663461,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 201,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 230,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 231,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1486617698,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_0.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 235,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_1.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 240,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_2.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 245,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_3.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 250,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_4.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 255,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_5.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 260,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_6.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 265,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_7.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 270,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_8.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 275,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_mis_ski01_9.png",
+                  "Plist": "skill/amm_mis_ski01.plist"
+                },
+                "FrameIndex": 280,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1486617698,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 235,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 236,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 280,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 281,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -571205372,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_0.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 285,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_1.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 290,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_2.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 295,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_3.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 300,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_4.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 305,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_5.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 310,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_rpg_ski02_6.png",
+                  "Plist": "skill/amm_rpg_ski02.plist"
+                },
+                "FrameIndex": 315,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -571205372,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 285,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 286,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 315,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 316,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 164085029,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_0.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 320,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_1.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 325,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_2.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 330,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_3.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 335,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_4.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 340,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_5.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 345,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_6.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 350,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_7.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 355,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "amm_art_ski01_8.png",
+                  "Plist": "skill/amm_art_ski01.plist"
+                },
+                "FrameIndex": 360,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 164085029,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 320,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 321,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 360,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 361,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 1,
+          "Name": "amm_rif_bic01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 2,
+          "EndIndex": 20,
+          "Name": "amm_rif_ski01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 21,
+          "EndIndex": 26,
+          "Name": "amm_rpg_bic01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 27,
+          "EndIndex": 57,
+          "Name": "amm_rpg_ski01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 58,
+          "EndIndex": 98,
+          "Name": "amm_sni_ski01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 99,
+          "EndIndex": 131,
+          "Name": "eff_sing01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 135,
+          "EndIndex": 161,
+          "Name": "eff_sing02",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 165,
+          "EndIndex": 196,
+          "Name": "amm_art_ski02",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 200,
+          "EndIndex": 231,
+          "Name": "amm_bom_ski01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 235,
+          "EndIndex": 281,
+          "Name": "amm_mis_ski01",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 285,
+          "EndIndex": 316,
+          "Name": "amm_rpg_ski02",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 320,
+          "EndIndex": 361,
+          "Name": "amm_art_ski01",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 745,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_rif_bic01_0.png",
+              "Plist": "skill/amm_rif_bic01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0984,
+              "Y": 0.0141
+            },
+            "LeftMargin": -31.5,
+            "RightMargin": 608.5,
+            "TopMargin": 1128.0,
+            "BottomMargin": -8.0,
+            "Tag": 746,
+            "ActionTag": -1204317453,
+            "Size": {
+              "X": 63.0,
+              "Y": 16.0
+            },
+            "Name": "amm_rif_bic01_0_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_rif_ski01_0.png",
+              "Plist": "skill/amm_rif_ski01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.4812,
+              "Y": 0.221
+            },
+            "LeftMargin": -154.0,
+            "RightMargin": 486.0,
+            "TopMargin": 1010.5,
+            "BottomMargin": -125.5,
+            "Tag": 747,
+            "ActionTag": 1841039169,
+            "Size": {
+              "X": 308.0,
+              "Y": 251.0
+            },
+            "Alpha": 0,
+            "Name": "amm_rif_ski01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_rpg_bic01_0.png",
+              "Plist": "skill/amm_rpg_bic01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.2078,
+              "Y": 0.0352
+            },
+            "LeftMargin": -66.5,
+            "RightMargin": 573.5,
+            "TopMargin": 1116.0,
+            "BottomMargin": -20.0,
+            "Tag": 749,
+            "ActionTag": 65202826,
+            "Size": {
+              "X": 133.0,
+              "Y": 40.0
+            },
+            "Alpha": 0,
+            "Name": "amm_rpg_bic01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_rpg_ski01_0.png",
+              "Plist": "skill/amm_rpg_ski01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.4266,
+              "Y": 0.2826
+            },
+            "LeftMargin": -136.5,
+            "RightMargin": 503.5,
+            "TopMargin": 975.5,
+            "BottomMargin": -160.5,
+            "Tag": 751,
+            "ActionTag": 797018383,
+            "Size": {
+              "X": 273.0,
+              "Y": 321.0
+            },
+            "Alpha": 0,
+            "Name": "amm_rpg_ski01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_sni_ski01_0.png",
+              "Plist": "skill/amm_sni_ski01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.5953,
+              "Y": 0.3151
+            },
+            "LeftMargin": -190.5,
+            "RightMargin": 449.5,
+            "TopMargin": 957.0,
+            "BottomMargin": -179.0,
+            "Tag": 753,
+            "ActionTag": -411922174,
+            "Size": {
+              "X": 381.0,
+              "Y": 358.0
+            },
+            "Alpha": 0,
+            "Name": "amm_sni_ski01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "eff_sing01_1.png",
+              "Plist": "skill/eff_sing01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.5406,
+              "Y": 0.2148
+            },
+            "LeftMargin": -173.0,
+            "RightMargin": 467.0,
+            "TopMargin": 1014.0,
+            "BottomMargin": -122.0,
+            "Tag": 15,
+            "ActionTag": -1481364444,
+            "Size": {
+              "X": 346.0,
+              "Y": 244.0
+            },
+            "Alpha": 0,
+            "Name": "eff_sing01",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "eff_sing02_1.png",
+              "Plist": "skill/eff_sing02.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.4016,
+              "Y": 0.2174
+            },
+            "LeftMargin": -128.5,
+            "RightMargin": 511.5,
+            "TopMargin": 1012.5,
+            "BottomMargin": -123.5,
+            "Tag": 16,
+            "ActionTag": 1584901231,
+            "Size": {
+              "X": 257.0,
+              "Y": 247.0
+            },
+            "Alpha": 0,
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_art_ski02_1.png",
+              "Plist": "skill/amm_art_ski02.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 17,
+            "ActionTag": -541750607,
+            "Size": {
+              "X": 271.0,
+              "Y": 221.0
+            },
+            "Alpha": 0,
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_bom_ski01_0.png",
+              "Plist": "skill/amm_bom_ski01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 18,
+            "ActionTag": 420663461,
+            "Size": {
+              "X": 271.0,
+              "Y": 221.0
+            },
+            "Alpha": 0,
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_mis_ski01_0.png",
+              "Plist": "skill/amm_mis_ski01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 19,
+            "ActionTag": -1486617698,
+            "Size": {
+              "X": 271.0,
+              "Y": 221.0
+            },
+            "Alpha": 0,
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_rpg_ski02_0.png",
+              "Plist": "skill/amm_rpg_ski02.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 20,
+            "ActionTag": -571205372,
+            "Size": {
+              "X": 271.0,
+              "Y": 221.0
+            },
+            "Alpha": 0,
+            "Name": "Sprite_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "amm_art_ski01_0.png",
+              "Plist": "skill/amm_art_ski01.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0405
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 617.0,
+            "TopMargin": 1113.0,
+            "BottomMargin": -23.0,
+            "Tag": 21,
+            "ActionTag": 164085029,
+            "Size": {
+              "X": 271.0,
+              "Y": 221.0
+            },
+            "Alpha": 0,
+            "Name": "Sprite_7",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "skill/amm_art_ski01.plist",
+        "skill/amm_art_ski01.png",
+        "skill/amm_art_ski02.plist",
+        "skill/amm_art_ski02.png",
+        "skill/amm_bom_ski01.plist",
+        "skill/amm_bom_ski01.png",
+        "skill/amm_mis_ski01.plist",
+        "skill/amm_mis_ski01.png",
+        "skill/amm_rif_bic01.plist",
+        "skill/amm_rif_bic01.png",
+        "skill/amm_rif_ski01.plist",
+        "skill/amm_rif_ski01.png",
+        "skill/amm_rpg_bic01.plist",
+        "skill/amm_rpg_bic01.png",
+        "skill/amm_rpg_ski01.plist",
+        "skill/amm_rpg_ski01.png",
+        "skill/amm_rpg_ski02.plist",
+        "skill/amm_rpg_ski02.png",
+        "skill/amm_sni_ski01.plist",
+        "skill/amm_sni_ski01.png",
+        "skill/eff_sing01.plist",
+        "skill/eff_sing01.png",
+        "skill/eff_sing02.plist",
+        "skill/eff_sing02.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

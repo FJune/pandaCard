@@ -1,0 +1,236 @@
+{
+  "ID": "4b37adf7-33cf-4d5e-994e-71d3a5394200",
+  "Version": "3.10.0.0",
+  "Name": "fightNumLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 359,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_005.png",
+              "Plist": "common/a/box.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 186,
+            "Scale9OriginY": 10,
+            "Scale9Width": 34,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 341.55,
+              "Y": 32.3415
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5337,
+              "Y": 0.3593
+            },
+            "PreSize": {
+              "X": 0.6344,
+              "Y": 0.5111
+            },
+            "LeftMargin": 138.55,
+            "RightMargin": 95.45,
+            "TopMargin": 34.6585,
+            "BottomMargin": 9.3415,
+            "Tag": 362,
+            "ActionTag": 625616053,
+            "Size": {
+              "X": 406.0,
+              "Y": 46.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/d/d_003.png",
+              "Plist": "common/d/artFont.plist"
+            },
+            "Scale9OriginX": 26,
+            "Scale9OriginY": 11,
+            "Scale9Width": 29,
+            "Scale9Height": 14,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 248.9547,
+              "Y": 32.6637
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.389,
+              "Y": 0.3629
+            },
+            "PreSize": {
+              "X": 0.1266,
+              "Y": 0.4
+            },
+            "LeftMargin": 208.4547,
+            "RightMargin": 350.5453,
+            "TopMargin": 39.3363,
+            "BottomMargin": 14.6637,
+            "Tag": 360,
+            "Children": [
+              {
+                "CharWidth": 25,
+                "CharHeight": 32,
+                "LabelText": "0123456789",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/numyellow.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 81.3026,
+                  "Y": 17.9103
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0037,
+                  "Y": 0.4975
+                },
+                "PreSize": {
+                  "X": 3.0864,
+                  "Y": 0.8889
+                },
+                "LeftMargin": 81.3026,
+                "RightMargin": -250.3026,
+                "TopMargin": 2.0897,
+                "BottomMargin": 1.9103,
+                "Tag": 361,
+                "ActionTag": 877598593,
+                "Size": {
+                  "X": 250.0,
+                  "Y": 32.0
+                },
+                "Name": "lblMilitaryStre",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": -1648369810,
+            "Size": {
+              "X": 81.0,
+              "Y": 36.0
+            },
+            "Name": "MilitaryStreBg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "+2222222222222222222222222",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "font/fnt_text.TTF",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 2,
+            "OutlineColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "OutlineEnabled": true,
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.1915,
+              "Y": 65.6873
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 200,
+              "G": 238,
+              "B": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5956,
+              "Y": 0.7299
+            },
+            "PreSize": {
+              "X": 0.5375,
+              "Y": 0.3556
+            },
+            "LeftMargin": 209.1915,
+            "RightMargin": 86.8085,
+            "TopMargin": 8.3127,
+            "BottomMargin": 49.6873,
+            "Tag": 5,
+            "ActionTag": 446972904,
+            "Size": {
+              "X": 344.0,
+              "Y": 32.0
+            },
+            "Name": "Text_war",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 90.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/d/artFont.plist",
+        "common/d/artFont.png",
+        "font/fnt_text.TTF",
+        "font/numyellow.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

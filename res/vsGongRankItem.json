@@ -1,0 +1,428 @@
+{
+  "ID": "3587efa8-f401-49d7-a01f-78be46b61778",
+  "Version": "3.10.0.0",
+  "Name": "vsGongRankItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 204,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.9615
+            },
+            "TopMargin": 4.0,
+            "Tag": 140,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_015.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9OriginX": 171,
+                "Scale9OriginY": 41,
+                "Scale9Width": 177,
+                "Scale9Height": 45,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 259.4299,
+                  "Y": 52.0577
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4999,
+                  "Y": 0.5206
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -0.0701,
+                "RightMargin": 0.0701,
+                "TopMargin": -2.0577,
+                "BottomMargin": 2.0577,
+                "Tag": 231,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_014.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 92,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 96,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 247.5861,
+                      "Y": 80.4011
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.477,
+                      "Y": 0.804
+                    },
+                    "PreSize": {
+                      "X": 0.5395,
+                      "Y": 0.33
+                    },
+                    "LeftMargin": 107.5861,
+                    "RightMargin": 131.4139,
+                    "TopMargin": 3.0989,
+                    "BottomMargin": 63.9011,
+                    "Tag": 232,
+                    "ActionTag": 581514486,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 33.0
+                    },
+                    "Name": "sssBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "公会名称：葫芦大熊",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 224.2615,
+                      "Y": 80.5858
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 227,
+                      "B": 156
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4321,
+                      "Y": 0.8059
+                    },
+                    "PreSize": {
+                      "X": 0.3468,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 134.2615,
+                    "RightMargin": 204.7385,
+                    "TopMargin": 9.4142,
+                    "BottomMargin": 70.5858,
+                    "Tag": 237,
+                    "ActionTag": 1906839918,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 20.0
+                    },
+                    "Name": "itemRankName",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "公会积分：9999999",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 217.4636,
+                      "Y": 17.7585
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.419,
+                      "Y": 0.1776
+                    },
+                    "PreSize": {
+                      "X": 0.3276,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 132.4636,
+                    "RightMargin": 216.5364,
+                    "TopMargin": 72.2415,
+                    "BottomMargin": 7.7585,
+                    "Tag": 600,
+                    "ActionTag": 238156922,
+                    "Size": {
+                      "X": 170.0,
+                      "Y": 20.0
+                    },
+                    "Name": "itemRankReward",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "公会等级：4000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 202.106,
+                      "Y": 47.4647
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3894,
+                      "Y": 0.4746
+                    },
+                    "PreSize": {
+                      "X": 0.2697,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 132.106,
+                    "RightMargin": 246.894,
+                    "TopMargin": 42.5353,
+                    "BottomMargin": 37.4647,
+                    "Tag": 601,
+                    "ActionTag": 647662960,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 20.0
+                    },
+                    "Name": "itemRankWar",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "LabelText": "1",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/dgyellow.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.3994,
+                      "Y": 51.3014
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1048,
+                      "Y": 0.513
+                    },
+                    "PreSize": {
+                      "X": 0.0328,
+                      "Y": 0.32
+                    },
+                    "LeftMargin": 45.8994,
+                    "RightMargin": 456.1006,
+                    "TopMargin": 32.6986,
+                    "BottomMargin": 35.3014,
+                    "Tag": 1185,
+                    "ActionTag": 639545794,
+                    "Size": {
+                      "X": 17.0,
+                      "Y": 32.0
+                    },
+                    "Name": "textBMFontRank",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "公会成员：4000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 359.2199,
+                      "Y": 49.2061
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6921,
+                      "Y": 0.4921
+                    },
+                    "PreSize": {
+                      "X": 0.2697,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 289.2199,
+                    "RightMargin": 89.7801,
+                    "TopMargin": 40.7939,
+                    "BottomMargin": 39.2061,
+                    "Tag": 2685,
+                    "ActionTag": -1589184618,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 20.0
+                    },
+                    "Name": "itemPeople",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1197664771,
+                "Size": {
+                  "X": 519.0,
+                  "Y": 100.0
+                },
+                "Name": "itemBg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 385852981,
+            "Size": {
+              "X": 519.0,
+              "Y": 100.0
+            },
+            "Name": "item",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 519.0,
+          "Y": 104.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "font/dgyellow.fnt",
+        "font/dgyellow.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

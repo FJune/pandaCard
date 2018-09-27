@@ -1,0 +1,1277 @@
+{
+  "ID": "c9cec826-95b5-48f8-bf15-e816a5eae3fa",
+  "Version": "3.10.0.0",
+  "Name": "welChengZItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1902,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 3.006,
+              "Y": 1.5005
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0053,
+              "Y": 0.0115
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.9538
+            },
+            "LeftMargin": 3.006,
+            "RightMargin": -3.006,
+            "TopMargin": 4.4995,
+            "BottomMargin": 1.5005,
+            "Tag": 1504,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a2/a2_bg1.png",
+                  "Plist": "common/a2/a2_hd.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 9,
+                "Scale9Width": 507,
+                "Scale9Height": 121,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 281.3068,
+                  "Y": 62.3041
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4935,
+                  "Y": 0.5025
+                },
+                "PreSize": {
+                  "X": 0.9825,
+                  "Y": 0.9677
+                },
+                "LeftMargin": 1.3068,
+                "RightMargin": 8.6932,
+                "TopMargin": 1.6959,
+                "BottomMargin": 2.3041,
+                "Tag": 1903,
+                "ActionTag": -371347139,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 120.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "指挥官等级达到",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 95.49,
+                  "Y": 101.2714
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 34,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1675,
+                  "Y": 0.8167
+                },
+                "PreSize": {
+                  "X": 0.2491,
+                  "Y": 0.1855
+                },
+                "LeftMargin": 24.49,
+                "RightMargin": 403.51,
+                "TopMargin": 11.2286,
+                "BottomMargin": 89.7714,
+                "Tag": 734,
+                "ActionTag": 663737756,
+                "Size": {
+                  "X": 142.0,
+                  "Y": 23.0
+                },
+                "Name": "textItemDay",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_037_2.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 39,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.4181,
+                  "Y": 45.6607
+                },
+                "Scale": {
+                  "ScaleX": 0.8418,
+                  "ScaleY": 0.8418
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.099,
+                  "Y": 0.3682
+                },
+                "PreSize": {
+                  "X": 0.1544,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 12.4181,
+                "RightMargin": 469.5819,
+                "TopMargin": 34.3393,
+                "BottomMargin": 1.6607,
+                "Tag": 316,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_007.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 29,
+                    "Scale9OriginY": 29,
+                    "Scale9Width": 6,
+                    "Scale9Height": 18,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.3473,
+                      "Y": 43.1331
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5039,
+                      "Y": 0.4901
+                    },
+                    "PreSize": {
+                      "X": 0.7273,
+                      "Y": 0.8636
+                    },
+                    "LeftMargin": 12.3473,
+                    "RightMargin": 11.6527,
+                    "TopMargin": 6.8669,
+                    "BottomMargin": 5.1331,
+                    "Tag": 317,
+                    "ActionTag": 350122252,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 76.0
+                    },
+                    "Name": "bagItemIcon1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_040.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 20,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.547,
+                      "Y": 62.4965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7676,
+                      "Y": 0.7102
+                    },
+                    "PreSize": {
+                      "X": 0.2614,
+                      "Y": 0.3182
+                    },
+                    "LeftMargin": 56.047,
+                    "RightMargin": 8.953,
+                    "TopMargin": 11.5035,
+                    "BottomMargin": 48.4965,
+                    "Tag": 318,
+                    "ActionTag": -1580062536,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 28.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "bagItemPieces1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "3600000000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 7.7211,
+                      "Y": 16.7731
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 247,
+                      "B": 231
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0877,
+                      "Y": 0.1906
+                    },
+                    "PreSize": {
+                      "X": 1.0227,
+                      "Y": 0.2045
+                    },
+                    "LeftMargin": 7.7211,
+                    "RightMargin": -9.7211,
+                    "TopMargin": 62.2269,
+                    "BottomMargin": 7.7731,
+                    "Tag": 320,
+                    "ActionTag": 385538676,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 18.0
+                    },
+                    "Name": "bagItemNum1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 152931119,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 88.0
+                },
+                "Name": "bagItemBg1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_037_2.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 39,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.5974,
+                  "Y": 46.4581
+                },
+                "Scale": {
+                  "ScaleX": 0.8418,
+                  "ScaleY": 0.8418
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2467,
+                  "Y": 0.3747
+                },
+                "PreSize": {
+                  "X": 0.1544,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 96.5974,
+                "RightMargin": 385.4026,
+                "TopMargin": 33.5419,
+                "BottomMargin": 2.4581,
+                "Tag": 710,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_007.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 29,
+                    "Scale9OriginY": 29,
+                    "Scale9Width": 6,
+                    "Scale9Height": 18,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.3473,
+                      "Y": 43.1331
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5039,
+                      "Y": 0.4901
+                    },
+                    "PreSize": {
+                      "X": 0.7273,
+                      "Y": 0.8636
+                    },
+                    "LeftMargin": 12.3473,
+                    "RightMargin": 11.6527,
+                    "TopMargin": 6.8669,
+                    "BottomMargin": 5.1331,
+                    "Tag": 711,
+                    "ActionTag": -1173622008,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 76.0
+                    },
+                    "Name": "bagItemIcon2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_040.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 20,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.547,
+                      "Y": 62.4965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7676,
+                      "Y": 0.7102
+                    },
+                    "PreSize": {
+                      "X": 0.2614,
+                      "Y": 0.3182
+                    },
+                    "LeftMargin": 56.047,
+                    "RightMargin": 8.953,
+                    "TopMargin": 11.5035,
+                    "BottomMargin": 48.4965,
+                    "Tag": 712,
+                    "ActionTag": 1401011733,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 28.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "bagItemPieces2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "36000000000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 8.7211,
+                      "Y": 15.7731
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 247,
+                      "B": 231
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0991,
+                      "Y": 0.1792
+                    },
+                    "PreSize": {
+                      "X": 1.125,
+                      "Y": 0.2045
+                    },
+                    "LeftMargin": 8.7211,
+                    "RightMargin": -19.7211,
+                    "TopMargin": 63.2269,
+                    "BottomMargin": 6.7731,
+                    "Tag": 713,
+                    "ActionTag": -805799866,
+                    "Size": {
+                      "X": 99.0,
+                      "Y": 18.0
+                    },
+                    "Name": "bagItemNum2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -640768623,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 88.0
+                },
+                "Name": "bagItemBg2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_037_2.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 39,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.3743,
+                  "Y": 46.5584
+                },
+                "Scale": {
+                  "ScaleX": 0.8418,
+                  "ScaleY": 0.8418
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3936,
+                  "Y": 0.3755
+                },
+                "PreSize": {
+                  "X": 0.1544,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 180.3743,
+                "RightMargin": 301.6257,
+                "TopMargin": 33.4416,
+                "BottomMargin": 2.5584,
+                "Tag": 718,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_007.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 29,
+                    "Scale9OriginY": 29,
+                    "Scale9Width": 6,
+                    "Scale9Height": 18,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.3473,
+                      "Y": 43.1331
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5039,
+                      "Y": 0.4901
+                    },
+                    "PreSize": {
+                      "X": 0.7273,
+                      "Y": 0.8636
+                    },
+                    "LeftMargin": 12.3473,
+                    "RightMargin": 11.6527,
+                    "TopMargin": 6.8669,
+                    "BottomMargin": 5.1331,
+                    "Tag": 719,
+                    "ActionTag": 1894171122,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 76.0
+                    },
+                    "Name": "bagItemIcon3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_040.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 20,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.547,
+                      "Y": 62.4965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7676,
+                      "Y": 0.7102
+                    },
+                    "PreSize": {
+                      "X": 0.2614,
+                      "Y": 0.3182
+                    },
+                    "LeftMargin": 56.047,
+                    "RightMargin": 8.953,
+                    "TopMargin": 11.5035,
+                    "BottomMargin": 48.4965,
+                    "Tag": 720,
+                    "ActionTag": 586644798,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 28.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "bagItemPieces3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "3600000000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 8.7212,
+                      "Y": 15.7731
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 247,
+                      "B": 231
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0991,
+                      "Y": 0.1792
+                    },
+                    "PreSize": {
+                      "X": 1.0227,
+                      "Y": 0.2045
+                    },
+                    "LeftMargin": 8.7212,
+                    "RightMargin": -10.7212,
+                    "TopMargin": 63.2269,
+                    "BottomMargin": 6.7731,
+                    "Tag": 721,
+                    "ActionTag": -1953398511,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 18.0
+                    },
+                    "Name": "bagItemNum3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1406732773,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 88.0
+                },
+                "Name": "bagItemBg3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_037_2.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 39,
+                "Scale9Width": 10,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 303.9518,
+                  "Y": 46.4583
+                },
+                "Scale": {
+                  "ScaleX": 0.8418,
+                  "ScaleY": 0.8418
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5332,
+                  "Y": 0.3747
+                },
+                "PreSize": {
+                  "X": 0.1544,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 259.9518,
+                "RightMargin": 222.0482,
+                "TopMargin": 33.5417,
+                "BottomMargin": 2.4583,
+                "Tag": 726,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_007.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 29,
+                    "Scale9OriginY": 29,
+                    "Scale9Width": 6,
+                    "Scale9Height": 18,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.3473,
+                      "Y": 43.1331
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5039,
+                      "Y": 0.4901
+                    },
+                    "PreSize": {
+                      "X": 0.7273,
+                      "Y": 0.8636
+                    },
+                    "LeftMargin": 12.3473,
+                    "RightMargin": 11.6527,
+                    "TopMargin": 6.8669,
+                    "BottomMargin": 5.1331,
+                    "Tag": 727,
+                    "ActionTag": -1139183154,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 76.0
+                    },
+                    "Name": "bagItemIcon4",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/i/i_040.png",
+                      "Plist": "common/i/icon.plist"
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 20,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.547,
+                      "Y": 62.4965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7676,
+                      "Y": 0.7102
+                    },
+                    "PreSize": {
+                      "X": 0.2614,
+                      "Y": 0.3182
+                    },
+                    "LeftMargin": 56.047,
+                    "RightMargin": 8.953,
+                    "TopMargin": 11.5035,
+                    "BottomMargin": 48.4965,
+                    "Tag": 728,
+                    "ActionTag": -2040790898,
+                    "Size": {
+                      "X": 23.0,
+                      "Y": 28.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "bagItemPieces4",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "3600000000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 8.7209,
+                      "Y": 15.7731
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 247,
+                      "B": 231
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0991,
+                      "Y": 0.1792
+                    },
+                    "PreSize": {
+                      "X": 1.0227,
+                      "Y": 0.2045
+                    },
+                    "LeftMargin": 8.7209,
+                    "RightMargin": -10.7209,
+                    "TopMargin": 63.2269,
+                    "BottomMargin": 6.7731,
+                    "Tag": 729,
+                    "ActionTag": 1424895007,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 18.0
+                    },
+                    "Name": "bagItemNum4",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1735843361,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 88.0
+                },
+                "Name": "bagItemBg4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "未满足",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 28,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 32,
+                  "G": 32,
+                  "B": 32
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 472.3192,
+                  "Y": 63.2328
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -33.8174,
+                "RotationSkewY": -33.818,
+                "CColor": {
+                  "R": 150,
+                  "G": 150,
+                  "B": 150
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8286,
+                  "Y": 0.5099
+                },
+                "PreSize": {
+                  "X": 0.1421,
+                  "Y": 0.2581
+                },
+                "LeftMargin": 431.8192,
+                "RightMargin": 57.1808,
+                "TopMargin": 44.7672,
+                "BottomMargin": 47.2328,
+                "Tag": 409,
+                "ActionTag": -996667884,
+                "Size": {
+                  "X": 81.0,
+                  "Y": 32.0
+                },
+                "Name": "textTipsNo",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "（10/10）",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 222.0494,
+                  "Y": 102.1418
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 153,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3896,
+                  "Y": 0.8237
+                },
+                "PreSize": {
+                  "X": 0.1526,
+                  "Y": 0.1855
+                },
+                "LeftMargin": 178.0494,
+                "RightMargin": 303.9506,
+                "TopMargin": 9.3582,
+                "BottomMargin": 89.6418,
+                "Tag": 319,
+                "ActionTag": -1641738210,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 25.0
+                },
+                "Name": "textItemDayNum",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "已领取",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 30,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.6145,
+                  "Y": 61.4896
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -35.2781,
+                "RotationSkewY": -35.2765,
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8274,
+                  "Y": 0.4959
+                },
+                "PreSize": {
+                  "X": 0.1351,
+                  "Y": 0.2742
+                },
+                "LeftMargin": 433.1145,
+                "RightMargin": 59.8855,
+                "TopMargin": 45.5104,
+                "BottomMargin": 44.4896,
+                "Tag": 324,
+                "ActionTag": -1765983467,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 34.0
+                },
+                "Name": "textTipsHad",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 53,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 474.7672,
+                  "Y": 56.451
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8329,
+                  "Y": 0.4552
+                },
+                "PreSize": {
+                  "X": 0.1982,
+                  "Y": 0.5081
+                },
+                "LeftMargin": 418.2672,
+                "RightMargin": 38.7328,
+                "TopMargin": 36.049,
+                "BottomMargin": 24.951,
+                "Tag": 322,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "领取",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 30,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.3976,
+                      "Y": 28.5583
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 239,
+                      "B": 199
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5168,
+                      "Y": 0.4533
+                    },
+                    "PreSize": {
+                      "X": 0.4602,
+                      "Y": 0.5079
+                    },
+                    "LeftMargin": 32.3976,
+                    "RightMargin": 28.6024,
+                    "TopMargin": 18.4417,
+                    "BottomMargin": 12.5583,
+                    "Tag": 323,
+                    "ActionTag": 1112027399,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -559019906,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 63.0
+                },
+                "Name": "btnGet",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1833951250,
+            "Size": {
+              "X": 570.0,
+              "Y": 124.0
+            },
+            "Name": "bagItem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 570.0,
+          "Y": 130.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a2/a2_hd.plist",
+        "common/a2/a2_hd.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/i/icon.plist",
+        "common/i/icon.png",
+        "Default/Button_Disable.png",
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

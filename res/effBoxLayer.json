@@ -1,0 +1,234 @@
+{
+  "ID": "ef0b3a12-bc17-4d2f-9fbe-50c107e16aea",
+  "Version": "3.10.0.0",
+  "Name": "effBoxLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 30,
+        "Speed": 0.5,
+        "ActivedAnimationName": "boxAction",
+        "Timelines": [
+          {
+            "ActionTag": -1436764873,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 5.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1436764873,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.8,
+                "Y": 0.8,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.9,
+                "Y": 0.9,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.8,
+                "Y": 0.8,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 30,
+          "Name": "boxAction",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 280,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_038.png",
+              "Plist": "common/c/button.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_038.png",
+              "Plist": "common/c/button.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_038.png",
+              "Plist": "common/c/button.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 161,
+            "Scale9Height": 198,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.373,
+              "Y": 0.4297
+            },
+            "LeftMargin": -95.5,
+            "RightMargin": 416.5,
+            "TopMargin": 402.0,
+            "BottomMargin": -110.0,
+            "Tag": 130,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/d/d_096.png",
+                  "Plist": "common/d/artFont.plist"
+                },
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 9,
+                "Scale9Width": 40,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 89.5899,
+                  "Y": 17.1847
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4691,
+                  "Y": 0.0781
+                },
+                "PreSize": {
+                  "X": 0.5236,
+                  "Y": 0.1318
+                },
+                "LeftMargin": 39.5899,
+                "RightMargin": 51.4101,
+                "TopMargin": 188.3153,
+                "BottomMargin": 2.6847,
+                "Tag": 132,
+                "ActionTag": 1451073174,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 29.0
+                },
+                "Name": "offImage_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1436764873,
+            "Size": {
+              "X": 191.0,
+              "Y": 220.0
+            },
+            "Name": "supplyButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 512.0,
+          "Y": 512.0
+        },
+        "Name": "effBoxLayer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/d/artFont.plist",
+        "common/d/artFont.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

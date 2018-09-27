@@ -1,0 +1,91 @@
+
+/**
+ ** @Author:pandayu
+ ** @Version:1.0
+ ** @DateTime:2018-09-09
+ ** @Project:pandaCard CardGame
+ ** @Contact: QQ:815099602
+ **/
+ var ALLIANCEGIRLCFG = {
+    "1":{
+      "id":1,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"玛加丽达.png",
+      "startprogress":0,
+      "endprogress":10,
+      "item":[[108,2],[22015,30],[20001,1],[20002,1],[20003,1],[20004,1]]
+    },
+    "2":{
+      "id":2,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"珀尔.png",
+      "startprogress":0,
+      "endprogress":40,
+      "item":[[108,3],[22132,1],[20005,1],[20006,1],[20007,1],[20008,1]]
+    },
+    "3":{
+      "id":3,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"玛尔维娜.png",
+      "startprogress":0,
+      "endprogress":86,
+      "item":[[22128,1],[22017,1000],[22126,30],[22127,30],[108,5],[22015,80]]
+    },
+    "4":{
+      "id":4,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"辛西娅.png",
+      "startprogress":0,
+      "endprogress":300,
+      "item":[[20025,1],[20027,1],[22011,30],[22012,30],[108,10],[22015,80]]
+    },
+    "5":{
+      "id":5,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"南希.png",
+      "startprogress":0,
+      "endprogress":500,
+      "item":[[10002,1],[20026,1],[20028,1],[22013,30],[22014,30],[22015,100]]
+    },
+    "6":{
+      "id":6,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"奥尔加.png",
+      "startprogress":0,
+      "endprogress":1000,
+      "item":[[20033,1],[20035,1],[22013,50],[22014,50],[22015,300],[108,20]]
+    },
+    "7":{
+      "id":7,
+      "type":1,
+      "icon":"ame_npc001",
+      "name":"努尔·艾娜雅特.png",
+      "startprogress":0,
+      "endprogress":2000,
+      "item":[[1072,1],[20034,1],[20036,1],[22013,100],[22014,100],[22015,800]]
+    },
+    "8":{
+      "id":8,
+      "type":2,
+      "icon":"ame_npc001",
+      "name":"克里斯蒂娜.png",
+      "startprogress":0,
+      "endprogress":6,
+      "item":[[5,1],[22127,5],[22011,5],[22012,5],[22013,5],[22014,5]]
+    },
+    "9":{
+      "id":9,
+      "type":2,
+      "icon":"ame_npc001",
+      "name":"约瑟芬.png",
+      "startprogress":0,
+      "endprogress":36,
+      "item":[[5,1],[22015,5],[22013,10],[22014,10],[22127,10],[22126,10]]
+    }
+  }

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect/atkboss/atkboss01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{640,140}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,140}</string>
+			</dict>
+			<key>effect/atkboss/atkboss02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,0},{499,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{499,150}</string>
+			</dict>
+			<key>effect/atkboss/atkboss03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{790,0},{632,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{632,40}</string>
+			</dict>
+			<key>effect/atkboss/atkboss04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{830,0},{251,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{251,66}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>atkboss.png</string>
+			<key>realTextureFileName</key>
+			<string>atkboss.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

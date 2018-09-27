@@ -1,0 +1,368 @@
+{
+  "ID": "579ee504-4cd0-4b13-9eb7-25f2d62c1e83",
+  "Version": "3.10.0.0",
+  "Name": "serverItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 14,
+        "Children": [
+          {
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.8385,
+              "Y": 1.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0032,
+              "Y": 0.0143
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.8385,
+            "RightMargin": -0.8385,
+            "TopMargin": -1.0,
+            "BottomMargin": 1.0,
+            "Tag": 581,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "great/loginbg7.png",
+                  "Plist": "great/great.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 20,
+                "Scale9Width": 380,
+                "Scale9Height": 52,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 129.8746,
+                  "Y": 34.074
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4995,
+                  "Y": 0.4868
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -0.1254,
+                "RightMargin": 0.1254,
+                "TopMargin": 0.926,
+                "BottomMargin": -0.926,
+                "Tag": 574,
+                "ActionTag": 1063886232,
+                "Size": {
+                  "X": 260.0,
+                  "Y": 70.0
+                },
+                "Name": "Image_sevItem",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "250区 苏联红军  ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.2883,
+                  "Y": 31.1722
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 235,
+                  "B": 183
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5819,
+                  "Y": 0.4453
+                },
+                "PreSize": {
+                  "X": 0.7154,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 58.2883,
+                "RightMargin": 15.7117,
+                "TopMargin": 22.8278,
+                "BottomMargin": 15.1722,
+                "Tag": 580,
+                "ActionTag": -594820548,
+                "Size": {
+                  "X": 186.0,
+                  "Y": 32.0
+                },
+                "Name": "Text_sevItem",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "新",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 33.7766,
+                  "Y": 31.2878
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 162,
+                  "G": 252
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1299,
+                  "Y": 0.447
+                },
+                "PreSize": {
+                  "X": 0.1115,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 19.2766,
+                "RightMargin": 211.7234,
+                "TopMargin": 22.7122,
+                "BottomMargin": 15.2878,
+                "Tag": 579,
+                "ActionTag": 262500911,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 32.0
+                },
+                "Name": "Text_news",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "维",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 33.7999,
+                  "Y": 31.1638
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 161,
+                  "B": 38
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.13,
+                  "Y": 0.4452
+                },
+                "PreSize": {
+                  "X": 0.1115,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 19.2999,
+                "RightMargin": 211.7001,
+                "TopMargin": 22.8362,
+                "BottomMargin": 15.1638,
+                "Tag": 577,
+                "ActionTag": -1094062046,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 32.0
+                },
+                "Name": "Text_stops",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "热",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 34.3177,
+                  "Y": 30.9968
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 133,
+                  "B": 133
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.132,
+                  "Y": 0.4428
+                },
+                "PreSize": {
+                  "X": 0.1115,
+                  "Y": 0.4571
+                },
+                "LeftMargin": 19.8177,
+                "RightMargin": 211.1823,
+                "TopMargin": 23.0032,
+                "BottomMargin": 14.9968,
+                "Tag": 576,
+                "ActionTag": 961863134,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 32.0
+                },
+                "Name": "Text_hots",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -228986172,
+            "Size": {
+              "X": 260.0,
+              "Y": 70.0
+            },
+            "Name": "bagItem",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 260.0,
+          "Y": 70.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "font/fnt_text.TTF",
+        "great/great.plist",
+        "great/great.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

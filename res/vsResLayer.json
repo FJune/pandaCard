@@ -1,0 +1,2513 @@
+{
+  "ID": "2e097f7a-60c0-47de-9499-7891b3ee84ad",
+  "Version": "3.10.0.0",
+  "Name": "vsResLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 444,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 445,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_005.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 96,
+                "Scale9OriginY": 10,
+                "Scale9Width": 214,
+                "Scale9Height": 13,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.26,
+                  "Y": 557.1418
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.502,
+                  "Y": 0.4904
+                },
+                "PreSize": {
+                  "X": 1.25,
+                  "Y": 0.1761
+                },
+                "LeftMargin": -78.74,
+                "RightMargin": -81.26,
+                "TopMargin": 478.8582,
+                "BottomMargin": 457.1418,
+                "Tag": 446,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 390.093,
+                      "Y": 275.3787
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.4876,
+                      "Y": 1.3769
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 390.093,
+                    "RightMargin": 409.907,
+                    "TopMargin": -75.3787,
+                    "BottomMargin": 275.3787,
+                    "Tag": 2767,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "effLightLayer.json",
+                          "Plist": ""
+                        },
+                        "StretchWidthEnable": false,
+                        "StretchHeightEnable": false,
+                        "InnerActionSpeed": 1.0,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 1.0123,
+                          "Y": 1.1546
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 1.0123,
+                        "RightMargin": -513.0123,
+                        "TopMargin": -513.1546,
+                        "BottomMargin": 1.1546,
+                        "Tag": 2768,
+                        "ActionTag": 1331904895,
+                        "Size": {
+                          "X": 512.0,
+                          "Y": 512.0
+                        },
+                        "Name": "fileNodeLight",
+                        "ctype": "ProjectNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_17.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -9.0374,
+                          "Y": 19.8008
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -220.0374,
+                        "RightMargin": -201.9626,
+                        "TopMargin": -227.3008,
+                        "BottomMargin": -187.6992,
+                        "Tag": 2781,
+                        "ActionTag": 1983948987,
+                        "Size": {
+                          "X": 422.0,
+                          "Y": 415.0
+                        },
+                        "Name": "war_zhandoujs_17_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_16.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1.7257,
+                          "Y": 1.3109
+                        },
+                        "Scale": {
+                          "ScaleX": 2.396,
+                          "ScaleY": 3.5531
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -112.2743,
+                        "RightMargin": -115.7257,
+                        "TopMargin": -12.3109,
+                        "BottomMargin": -9.6891,
+                        "Tag": 2782,
+                        "ActionTag": -1471084077,
+                        "Size": {
+                          "X": 228.0,
+                          "Y": 22.0
+                        },
+                        "Name": "war_zhandoujs_16_5",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_29.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -123.8481,
+                          "Y": 24.2293
+                        },
+                        "Scale": {
+                          "ScaleX": 2.2,
+                          "ScaleY": 2.2
+                        },
+                        "RotationSkewX": 299.9992,
+                        "RotationSkewY": 299.9992,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -258.3481,
+                        "RightMargin": -10.6519,
+                        "TopMargin": -142.7293,
+                        "BottomMargin": -94.2707,
+                        "Tag": 2783,
+                        "ActionTag": 1446063188,
+                        "Size": {
+                          "X": 269.0,
+                          "Y": 237.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_25_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_29.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -8.1381,
+                          "Y": -11.9798
+                        },
+                        "Scale": {
+                          "ScaleX": 2.2,
+                          "ScaleY": 2.2
+                        },
+                        "RotationSkewX": 200.0,
+                        "RotationSkewY": 200.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -142.6381,
+                        "RightMargin": -126.3619,
+                        "TopMargin": -106.5202,
+                        "BottomMargin": -130.4798,
+                        "Tag": 2784,
+                        "ActionTag": 2099659072,
+                        "Size": {
+                          "X": 269.0,
+                          "Y": 237.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_25_1_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_29.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 53.7455,
+                          "Y": -11.9802
+                        },
+                        "Scale": {
+                          "ScaleX": 2.2,
+                          "ScaleY": 2.2
+                        },
+                        "RotationSkewX": 200.0,
+                        "RotationSkewY": 200.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -80.7545,
+                        "RightMargin": -188.2455,
+                        "TopMargin": -106.5198,
+                        "BottomMargin": -130.4802,
+                        "Tag": 2785,
+                        "ActionTag": 175039802,
+                        "Size": {
+                          "X": 269.0,
+                          "Y": 237.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_25_1_0_0_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_29.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 95.4088,
+                          "Y": 56.8152
+                        },
+                        "Scale": {
+                          "ScaleX": -2.2,
+                          "ScaleY": 2.2
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -39.0912,
+                        "RightMargin": -229.9088,
+                        "TopMargin": -175.3152,
+                        "BottomMargin": -61.6848,
+                        "Tag": 2786,
+                        "ActionTag": -1656740746,
+                        "Size": {
+                          "X": 269.0,
+                          "Y": 237.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_25_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_23.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 950.2113,
+                          "Y": 38.0
+                        },
+                        "Scale": {
+                          "ScaleX": 14.1035,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 921.2113,
+                        "RightMargin": -979.2113,
+                        "TopMargin": -67.0,
+                        "BottomMargin": 9.0,
+                        "Tag": 2787,
+                        "ActionTag": 1812352375,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 58.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_23_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_23.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -829.295,
+                          "Y": -36.0
+                        },
+                        "Scale": {
+                          "ScaleX": 14.1035,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -858.295,
+                        "RightMargin": 800.295,
+                        "TopMargin": 7.0,
+                        "BottomMargin": -65.0,
+                        "Tag": 2788,
+                        "ActionTag": -1067175870,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 58.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_23_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_11.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -116.5517,
+                          "Y": 1.1188
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -151.0517,
+                        "RightMargin": 82.0517,
+                        "TopMargin": -31.6188,
+                        "BottomMargin": -29.3812,
+                        "Tag": 2789,
+                        "ActionTag": -886006352,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Name": "war_zhandoujs_11_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_11.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -118.2679,
+                          "Y": 0.8068
+                        },
+                        "Scale": {
+                          "ScaleX": 3.3098,
+                          "ScaleY": 2.5199
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -152.7679,
+                        "RightMargin": 83.7679,
+                        "TopMargin": -31.3068,
+                        "BottomMargin": -29.6932,
+                        "Tag": 2790,
+                        "ActionTag": 1130621976,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_11_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_12.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -42.4724,
+                          "Y": 2.4797
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -76.9724,
+                        "RightMargin": 7.9724,
+                        "TopMargin": -32.9797,
+                        "BottomMargin": -28.0203,
+                        "Tag": 2791,
+                        "ActionTag": -363521230,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Name": "war_zhandoujs_12_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_12.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -45.2914,
+                          "Y": -0.6492
+                        },
+                        "Scale": {
+                          "ScaleX": 3.13,
+                          "ScaleY": 3.13
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -79.7914,
+                        "RightMargin": 10.7914,
+                        "TopMargin": -29.8508,
+                        "BottomMargin": -31.1492,
+                        "Tag": 2792,
+                        "ActionTag": 383808240,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_12_2_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_13.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 28.7972,
+                          "Y": 0.9715
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.7028,
+                        "RightMargin": -63.2972,
+                        "TopMargin": -31.4715,
+                        "BottomMargin": -29.5285,
+                        "Tag": 2793,
+                        "ActionTag": -497470045,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Name": "war_zhandoujs_13_3",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_13.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 30.0269,
+                          "Y": 3.1567
+                        },
+                        "Scale": {
+                          "ScaleX": 3.13,
+                          "ScaleY": 3.13
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -4.4731,
+                        "RightMargin": -64.5269,
+                        "TopMargin": -33.6567,
+                        "BottomMargin": -27.3433,
+                        "Tag": 2794,
+                        "ActionTag": -1496679977,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_13_3_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_14.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 103.6368,
+                          "Y": 1.3341
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 69.1368,
+                        "RightMargin": -138.1368,
+                        "TopMargin": -31.8341,
+                        "BottomMargin": -29.1659,
+                        "Tag": 2795,
+                        "ActionTag": -953132475,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Name": "war_zhandoujs_14_4",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_14.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1.6401,
+                          "Y": -0.0004
+                        },
+                        "Scale": {
+                          "ScaleX": 3.13,
+                          "ScaleY": 3.13
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -32.8599,
+                        "RightMargin": -36.1401,
+                        "TopMargin": -30.4996,
+                        "BottomMargin": -30.5004,
+                        "Tag": 2796,
+                        "ActionTag": -80566800,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_14_4_0",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1041342022,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "Node_2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_055.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_055.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 53,
+                    "Scale9Height": 41,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 392.746,
+                      "Y": -57.539
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4909,
+                      "Y": -0.2877
+                    },
+                    "PreSize": {
+                      "X": 0.1412,
+                      "Y": 0.315
+                    },
+                    "LeftMargin": 336.246,
+                    "RightMargin": 350.754,
+                    "TopMargin": 226.039,
+                    "BottomMargin": -89.039,
+                    "Tag": 449,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_085.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 2,
+                        "Scale9Height": 6,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 57.9592,
+                          "Y": 32.435
+                        },
+                        "Scale": {
+                          "ScaleX": 1.2,
+                          "ScaleY": 1.2
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5129,
+                          "Y": 0.5148
+                        },
+                        "PreSize": {
+                          "X": 0.3894,
+                          "Y": 0.4444
+                        },
+                        "LeftMargin": 35.9592,
+                        "RightMargin": 33.0408,
+                        "TopMargin": 16.565,
+                        "BottomMargin": 18.435,
+                        "Tag": 450,
+                        "ActionTag": 1531129078,
+                        "Size": {
+                          "X": 44.0,
+                          "Y": 28.0
+                        },
+                        "Name": "backBtnImage",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1055765704,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 63.0
+                    },
+                    "Name": "btnResOk",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "排名：9999999（上升1000）",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 393.3771,
+                      "Y": 143.9788
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 210,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4917,
+                      "Y": 0.7199
+                    },
+                    "PreSize": {
+                      "X": 0.4063,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 230.8771,
+                    "RightMargin": 244.1229,
+                    "TopMargin": 43.0212,
+                    "BottomMargin": 130.9788,
+                    "Tag": 452,
+                    "ActionTag": 933935489,
+                    "Size": {
+                      "X": 325.0,
+                      "Y": 26.0
+                    },
+                    "Name": "textResTop",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_009.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 46,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 50,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.8586,
+                      "Y": 85.1384
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4986,
+                      "Y": 0.4257
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 327.8586,
+                    "RightMargin": 330.1414,
+                    "TopMargin": 100.8616,
+                    "BottomMargin": 71.1384,
+                    "Tag": 548,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/i/i_003.png",
+                          "Plist": "common/i/icon.plist"
+                        },
+                        "Scale9OriginX": 10,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 14,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -0.978,
+                          "Y": 13.2384
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0069,
+                          "Y": 0.4728
+                        },
+                        "PreSize": {
+                          "X": 0.2183,
+                          "Y": 1.1429
+                        },
+                        "LeftMargin": -16.478,
+                        "RightMargin": 127.478,
+                        "TopMargin": -1.2384,
+                        "BottomMargin": -2.7616,
+                        "Tag": 549,
+                        "ActionTag": -1099274695,
+                        "Size": {
+                          "X": 31.0,
+                          "Y": 32.0
+                        },
+                        "Name": "GoldImage",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 20,
+                        "LabelText": "120s111万",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 62.34,
+                          "Y": 14.59
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.439,
+                          "Y": 0.5211
+                        },
+                        "PreSize": {
+                          "X": 0.6338,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 17.34,
+                        "RightMargin": 34.66,
+                        "TopMargin": 3.41,
+                        "BottomMargin": 4.59,
+                        "Tag": 551,
+                        "ActionTag": -1981556665,
+                        "Size": {
+                          "X": 90.0,
+                          "Y": 20.0
+                        },
+                        "Name": "sygoldValue",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1008533688,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 28.0
+                    },
+                    "Name": "goldImageBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_009.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 46,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 50,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.8843,
+                      "Y": 28.5024
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4986,
+                      "Y": 0.1425
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 327.8843,
+                    "RightMargin": 330.1157,
+                    "TopMargin": 157.4976,
+                    "BottomMargin": 14.5024,
+                    "Tag": 552,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/i/i_041.png",
+                          "Plist": "common/i/icon.plist"
+                        },
+                        "Scale9OriginX": 10,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 17,
+                        "Scale9Height": 12,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -0.978,
+                          "Y": 13.2384
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0069,
+                          "Y": 0.4728
+                        },
+                        "PreSize": {
+                          "X": 0.3099,
+                          "Y": 1.25
+                        },
+                        "LeftMargin": -22.978,
+                        "RightMargin": 120.978,
+                        "TopMargin": -2.7384,
+                        "BottomMargin": -4.2616,
+                        "Tag": 553,
+                        "ActionTag": 1951775632,
+                        "Size": {
+                          "X": 44.0,
+                          "Y": 35.0
+                        },
+                        "Name": "GoldImage",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 20,
+                        "LabelText": "120s111万",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 62.34,
+                          "Y": 14.59
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.439,
+                          "Y": 0.5211
+                        },
+                        "PreSize": {
+                          "X": 0.6338,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 17.34,
+                        "RightMargin": 34.66,
+                        "TopMargin": 3.41,
+                        "BottomMargin": 4.59,
+                        "Tag": 555,
+                        "ActionTag": -1678347323,
+                        "Size": {
+                          "X": 90.0,
+                          "Y": 20.0
+                        },
+                        "Name": "expValue",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -899368737,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 28.0
+                    },
+                    "Name": "expImageBg",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -697201229,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 200.0
+                },
+                "Name": "ImageFastWin",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_005.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 96,
+                "Scale9OriginY": 10,
+                "Scale9Width": 214,
+                "Scale9Height": 13,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.0,
+                  "Y": 545.64
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4803
+                },
+                "PreSize": {
+                  "X": 1.25,
+                  "Y": 0.1761
+                },
+                "LeftMargin": -80.0,
+                "RightMargin": -80.0,
+                "TopMargin": 490.36,
+                "BottomMargin": 445.64,
+                "Tag": 455,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 77.5629,
+                      "Y": -375.1718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.097,
+                      "Y": -1.8759
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 77.5629,
+                    "RightMargin": 722.4371,
+                    "TopMargin": 575.1718,
+                    "BottomMargin": -375.1718,
+                    "Tag": 2742,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_05.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 313.4417,
+                          "Y": 673.1007
+                        },
+                        "Scale": {
+                          "ScaleX": 1.16,
+                          "ScaleY": 1.16
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 108.9417,
+                        "RightMargin": -517.9417,
+                        "TopMargin": -871.1007,
+                        "BottomMargin": 475.1007,
+                        "Tag": 2743,
+                        "ActionTag": 112839992,
+                        "Size": {
+                          "X": 409.0,
+                          "Y": 396.0
+                        },
+                        "Name": "war_zhandoujs_17_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_10.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 311.1495,
+                          "Y": 664.991
+                        },
+                        "Scale": {
+                          "ScaleX": 2.8024,
+                          "ScaleY": 2.8124
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 217.6495,
+                        "RightMargin": -404.6495,
+                        "TopMargin": -678.491,
+                        "BottomMargin": 651.491,
+                        "Tag": 2744,
+                        "ActionTag": -243010273,
+                        "Size": {
+                          "X": 187.0,
+                          "Y": 27.0
+                        },
+                        "Name": "war_zhandoujs_16_5",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_30.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1000.0,
+                          "Y": 698.0
+                        },
+                        "Scale": {
+                          "ScaleX": 14.1035,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 971.0,
+                        "RightMargin": -1029.0,
+                        "TopMargin": -727.0,
+                        "BottomMargin": 669.0,
+                        "Tag": 2745,
+                        "ActionTag": -1943580041,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 58.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_23_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_30.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -399.292,
+                          "Y": 630.0
+                        },
+                        "Scale": {
+                          "ScaleX": 14.1035,
+                          "ScaleY": 0.5
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -428.292,
+                        "RightMargin": 370.292,
+                        "TopMargin": -659.0,
+                        "BottomMargin": 601.0,
+                        "Tag": 2746,
+                        "ActionTag": -1407001468,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 58.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_23_1_0",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_01.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 233.0,
+                          "Y": 667.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 198.5,
+                        "RightMargin": -267.5,
+                        "TopMargin": -697.5,
+                        "BottomMargin": 636.5,
+                        "Tag": 2747,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/w/war_zhandoujs_02.png",
+                              "Plist": "common/w/result.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 84.4488,
+                              "Y": 27.6379
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 1.2239,
+                              "Y": 0.4531
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 49.9488,
+                            "RightMargin": -49.9488,
+                            "TopMargin": 2.8621,
+                            "BottomMargin": -2.8621,
+                            "Tag": 2748,
+                            "ActionTag": -1463156942,
+                            "Size": {
+                              "X": 69.0,
+                              "Y": 61.0
+                            },
+                            "Name": "war_zhandoujs_12_2",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/w/war_zhandoujs_03.png",
+                              "Plist": "common/w/result.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 139.412,
+                              "Y": 28.1104
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 2.0205,
+                              "Y": 0.4608
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 104.912,
+                            "RightMargin": -104.912,
+                            "TopMargin": 2.3896,
+                            "BottomMargin": -2.3896,
+                            "Tag": 2749,
+                            "ActionTag": -2013150942,
+                            "Size": {
+                              "X": 69.0,
+                              "Y": 61.0
+                            },
+                            "Name": "war_zhandoujs_13_3",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/w/war_zhandoujs_04.png",
+                              "Plist": "common/w/result.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 1,
+                              "Dst": 771
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 198.5785,
+                              "Y": 26.637
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 2.8779,
+                              "Y": 0.4367
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 164.0785,
+                            "RightMargin": -164.0785,
+                            "TopMargin": 3.863,
+                            "BottomMargin": -3.863,
+                            "Tag": 2750,
+                            "ActionTag": 1217649573,
+                            "Size": {
+                              "X": 69.0,
+                              "Y": 61.0
+                            },
+                            "Name": "war_zhandoujs_14_4",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": 1844108077,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Name": "war_zhandoujs_11_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/w/war_zhandoujs_01.png",
+                          "Plist": "common/w/result.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 770,
+                          "Dst": 1
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 223.0,
+                          "Y": 667.0
+                        },
+                        "Scale": {
+                          "ScaleX": 2.0,
+                          "ScaleY": 2.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 188.5,
+                        "RightMargin": -257.5,
+                        "TopMargin": -697.5,
+                        "BottomMargin": 636.5,
+                        "Tag": 2751,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/w/war_zhandoujs_02.png",
+                              "Plist": "common/w/result.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 770,
+                              "Dst": 1
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 84.4488,
+                              "Y": 27.6379
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 1.2239,
+                              "Y": 0.4531
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 49.9488,
+                            "RightMargin": -49.9488,
+                            "TopMargin": 2.8621,
+                            "BottomMargin": -2.8621,
+                            "Tag": 2752,
+                            "ActionTag": 1584043919,
+                            "Size": {
+                              "X": 69.0,
+                              "Y": 61.0
+                            },
+                            "Name": "war_zhandoujs_12_2",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/w/war_zhandoujs_03.png",
+                              "Plist": "common/w/result.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 770,
+                              "Dst": 1
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 139.412,
+                              "Y": 28.1104
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 2.0205,
+                              "Y": 0.4608
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 104.912,
+                            "RightMargin": -104.912,
+                            "TopMargin": 2.3896,
+                            "BottomMargin": -2.3896,
+                            "Tag": 2753,
+                            "ActionTag": 1469738995,
+                            "Size": {
+                              "X": 69.0,
+                              "Y": 61.0
+                            },
+                            "Name": "war_zhandoujs_13_3",
+                            "ctype": "SpriteObjectData"
+                          },
+                          {
+                            "FileData": {
+                              "Type": "MarkedSubImage",
+                              "Path": "common/w/war_zhandoujs_04.png",
+                              "Plist": "common/w/result.plist"
+                            },
+                            "BlendFunc": {
+                              "Src": 770,
+                              "Dst": 1
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 198.5785,
+                              "Y": 26.637
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 2.8779,
+                              "Y": 0.4367
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 164.0785,
+                            "RightMargin": -164.0785,
+                            "TopMargin": 3.863,
+                            "BottomMargin": -3.863,
+                            "Tag": 2754,
+                            "ActionTag": -1533359397,
+                            "Size": {
+                              "X": 69.0,
+                              "Y": 61.0
+                            },
+                            "Name": "war_zhandoujs_14_4",
+                            "ctype": "SpriteObjectData"
+                          }
+                        ],
+                        "ActionTag": -1956115850,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 61.0
+                        },
+                        "Alpha": 0,
+                        "Name": "war_zhandoujs_11_1_0",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -990483025,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "nodeLose",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_009.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 46,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 50,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.8512,
+                      "Y": 90.1572
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5036,
+                      "Y": 0.4508
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 331.8512,
+                    "RightMargin": 326.1488,
+                    "TopMargin": 95.8428,
+                    "BottomMargin": 76.1572,
+                    "Tag": 556,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/i/i_003.png",
+                          "Plist": "common/i/icon.plist"
+                        },
+                        "Scale9OriginX": 10,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 14,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -0.978,
+                          "Y": 13.2384
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0069,
+                          "Y": 0.4728
+                        },
+                        "PreSize": {
+                          "X": 0.2183,
+                          "Y": 1.1429
+                        },
+                        "LeftMargin": -16.478,
+                        "RightMargin": 127.478,
+                        "TopMargin": -1.2384,
+                        "BottomMargin": -2.7616,
+                        "Tag": 557,
+                        "ActionTag": -2034310127,
+                        "Size": {
+                          "X": 31.0,
+                          "Y": 32.0
+                        },
+                        "Name": "GoldImage",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 20,
+                        "LabelText": "120s111万",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 62.34,
+                          "Y": 14.59
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.439,
+                          "Y": 0.5211
+                        },
+                        "PreSize": {
+                          "X": 0.6338,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 17.34,
+                        "RightMargin": 34.66,
+                        "TopMargin": 3.41,
+                        "BottomMargin": 4.59,
+                        "Tag": 558,
+                        "ActionTag": -175923120,
+                        "Size": {
+                          "X": 90.0,
+                          "Y": 20.0
+                        },
+                        "Name": "goldLoseValue",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -384377504,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 28.0
+                    },
+                    "Name": "goldImageBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/a/a_009.png",
+                      "Plist": "common/a/box.plist"
+                    },
+                    "Scale9OriginX": 46,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 50,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.8766,
+                      "Y": 33.5212
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5036,
+                      "Y": 0.1676
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.14
+                    },
+                    "LeftMargin": 331.8766,
+                    "RightMargin": 326.1234,
+                    "TopMargin": 152.4788,
+                    "BottomMargin": 19.5212,
+                    "Tag": 559,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/i/i_041.png",
+                          "Plist": "common/i/icon.plist"
+                        },
+                        "Scale9OriginX": 10,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 17,
+                        "Scale9Height": 12,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -0.978,
+                          "Y": 13.2384
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0069,
+                          "Y": 0.4728
+                        },
+                        "PreSize": {
+                          "X": 0.3099,
+                          "Y": 1.25
+                        },
+                        "LeftMargin": -22.978,
+                        "RightMargin": 120.978,
+                        "TopMargin": -2.7384,
+                        "BottomMargin": -4.2616,
+                        "Tag": 560,
+                        "ActionTag": 627850724,
+                        "Size": {
+                          "X": 44.0,
+                          "Y": 35.0
+                        },
+                        "Name": "GoldImage",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 20,
+                        "LabelText": "120s111万",
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 62.34,
+                          "Y": 14.59
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.439,
+                          "Y": 0.5211
+                        },
+                        "PreSize": {
+                          "X": 0.6338,
+                          "Y": 0.7143
+                        },
+                        "LeftMargin": 17.34,
+                        "RightMargin": 34.66,
+                        "TopMargin": 3.41,
+                        "BottomMargin": 4.59,
+                        "Tag": 561,
+                        "ActionTag": 506157523,
+                        "Size": {
+                          "X": 90.0,
+                          "Y": 20.0
+                        },
+                        "Name": "expLoseValue",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1850196903,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 28.0
+                    },
+                    "Name": "expImageBg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "排名：9999999（下降1000）",
+                    "FontResource": {
+                      "Type": "Default",
+                      "Path": "",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 397.369,
+                      "Y": 148.9981
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 216,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4967,
+                      "Y": 0.745
+                    },
+                    "PreSize": {
+                      "X": 0.4063,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 234.869,
+                    "RightMargin": 240.131,
+                    "TopMargin": 38.0019,
+                    "BottomMargin": 135.9981,
+                    "Tag": 463,
+                    "ActionTag": -1494360239,
+                    "Size": {
+                      "X": 325.0,
+                      "Y": 26.0
+                    },
+                    "Name": "textloseTop",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_055.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_055.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 30,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 53,
+                    "Scale9Height": 41,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 404.7651,
+                      "Y": -56.0376
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.506,
+                      "Y": -0.2802
+                    },
+                    "PreSize": {
+                      "X": 0.1412,
+                      "Y": 0.315
+                    },
+                    "LeftMargin": 348.2651,
+                    "RightMargin": 338.7349,
+                    "TopMargin": 224.5376,
+                    "BottomMargin": -87.5376,
+                    "Tag": 458,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_085.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 2,
+                        "Scale9Height": 6,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 58.486,
+                          "Y": 34.1994
+                        },
+                        "Scale": {
+                          "ScaleX": 1.2,
+                          "ScaleY": 1.2
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5176,
+                          "Y": 0.5428
+                        },
+                        "PreSize": {
+                          "X": 0.3894,
+                          "Y": 0.4444
+                        },
+                        "LeftMargin": 36.486,
+                        "RightMargin": 32.514,
+                        "TopMargin": 14.8006,
+                        "BottomMargin": 20.1994,
+                        "Tag": 459,
+                        "ActionTag": 1265920400,
+                        "Size": {
+                          "X": 44.0,
+                          "Y": 28.0
+                        },
+                        "Name": "backBtnImage",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -136187122,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 63.0
+                    },
+                    "Name": "btnLoseOk",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -204063642,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 200.0
+                },
+                "Name": "ImageFastlose",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -748632772,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "layoutRes",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/d/artFont.plist",
+        "common/d/artFont.png",
+        "common/i/icon.plist",
+        "common/i/icon.png",
+        "common/w/result.plist",
+        "common/w/result.png",
+        "Default/Button_Disable.png",
+        "effLightLayer.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

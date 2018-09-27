@@ -1,0 +1,1749 @@
+{
+  "ID": "fe007981-8e60-4c93-8977-e64265972229",
+  "Version": "3.10.0.0",
+  "Name": "sevRegisterLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 14,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/n_login.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 211,
+            "Scale9OriginY": 296,
+            "Scale9Width": 218,
+            "Scale9Height": 544,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 568.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 40,
+            "ActionTag": 713342271,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "login/loginbg8.png",
+              "Plist": "login/login_bg.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "login/loginbg8.png",
+              "Plist": "login/login_bg.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "login/loginbg8.png",
+              "Plist": "login/login_bg.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 211,
+            "Scale9Height": 70,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.09,
+              "Y": 76.57
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5017,
+              "Y": 0.0674
+            },
+            "PreSize": {
+              "X": 0.3766,
+              "Y": 0.081
+            },
+            "LeftMargin": 200.59,
+            "RightMargin": 198.41,
+            "TopMargin": 1013.43,
+            "BottomMargin": 30.57,
+            "Tag": 15,
+            "ActionTag": -295748211,
+            "Size": {
+              "X": 241.0,
+              "Y": 92.0
+            },
+            "Name": "btnLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 640.0,
+            "TopMargin": 1136.0,
+            "Tag": 20,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.7988,
+                  "Y": 291.0254
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 32.2988,
+                "RightMargin": -609.2988,
+                "TopMargin": -460.0254,
+                "BottomMargin": 122.0254,
+                "Tag": 78,
+                "ActionTag": 1560326832,
+                "Size": {
+                  "X": 577.0,
+                  "Y": 338.0
+                },
+                "Name": "loginbg_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg14.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 312.9606,
+                  "Y": 861.8436
+                },
+                "Scale": {
+                  "ScaleX": 0.95,
+                  "ScaleY": 0.95
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 70.9606,
+                "RightMargin": -554.9606,
+                "TopMargin": -1066.8435,
+                "BottomMargin": 656.8436,
+                "Tag": 79,
+                "ActionTag": 695805479,
+                "Size": {
+                  "X": 484.0,
+                  "Y": 410.0
+                },
+                "Name": "loginlogo_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "请输入账号",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 334.9073,
+                  "Y": 441.4045
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 284.9073,
+                "RightMargin": -384.9073,
+                "TopMargin": -451.4045,
+                "BottomMargin": 431.4045,
+                "Tag": 41,
+                "ActionTag": -137960216,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 20.0
+                },
+                "VisibleForFrame": false,
+                "Name": "errorTip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg2.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 9,
+                "Scale9Width": 266,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 336.6526,
+                  "Y": 299.7667
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 157.6526,
+                "RightMargin": -515.6526,
+                "TopMargin": -341.7667,
+                "BottomMargin": 257.7667,
+                "Tag": 45,
+                "ActionTag": 808829033,
+                "Size": {
+                  "X": 358.0,
+                  "Y": 84.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入账号",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.0975,
+                  "Y": 299.5179
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 209.0975,
+                "RightMargin": -409.0975,
+                "TopMargin": -314.5179,
+                "BottomMargin": 284.5179,
+                "Tag": 38,
+                "ActionTag": 774865463,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "userName",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginzh.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 138.8322,
+                  "Y": 297.7002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 91.3322,
+                "RightMargin": -186.3322,
+                "TopMargin": -323.2002,
+                "BottomMargin": 272.2002,
+                "Tag": 80,
+                "ActionTag": 1416580188,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 51.0
+                },
+                "Name": "loginzh_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/b/b_001_1.png",
+                  "Plist": "common/b/bar.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 322.1181,
+                  "Y": 124.2461
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 211.6181,
+                "RightMargin": -432.6181,
+                "TopMargin": -138.7461,
+                "BottomMargin": 109.7461,
+                "Tag": 561,
+                "Children": [
+                  {
+                    "ProgressInfo": 0,
+                    "ImageFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/b/b_001_2.png",
+                      "Plist": "common/b/bar.plist"
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 110.5,
+                      "Y": 14.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 560,
+                    "ActionTag": 1617253903,
+                    "Size": {
+                      "X": 221.0,
+                      "Y": 29.0
+                    },
+                    "Name": "loadProgress",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "加载中···",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 113.5069,
+                      "Y": -14.4131
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 144,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5136,
+                      "Y": -0.497
+                    },
+                    "PreSize": {
+                      "X": 0.543,
+                      "Y": 0.6897
+                    },
+                    "LeftMargin": 53.5069,
+                    "RightMargin": 47.4931,
+                    "TopMargin": 33.4131,
+                    "BottomMargin": -24.4131,
+                    "Tag": 97,
+                    "ActionTag": -715958056,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_25",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1704732152,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 29.0
+                },
+                "VisibleForFrame": false,
+                "Name": "b_001_1_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg2.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 9,
+                "Scale9Width": 266,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 336.7748,
+                  "Y": 222.9478
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 157.7748,
+                "RightMargin": -515.7748,
+                "TopMargin": -264.9478,
+                "BottomMargin": 180.9478,
+                "Tag": 55,
+                "ActionTag": -700279266,
+                "Size": {
+                  "X": 358.0,
+                  "Y": 84.0
+                },
+                "Name": "Image_2_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入密码",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 307.9327,
+                  "Y": 223.6995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 207.9327,
+                "RightMargin": -407.9327,
+                "TopMargin": -238.6995,
+                "BottomMargin": 208.6995,
+                "Tag": 56,
+                "ActionTag": 1357484433,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "userPassword",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginmm.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 138.6687,
+                  "Y": 222.956
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 91.6687,
+                "RightMargin": -185.6687,
+                "TopMargin": -247.956,
+                "BottomMargin": 197.956,
+                "Tag": 57,
+                "ActionTag": -1096119038,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 50.0
+                },
+                "Name": "loginzh_3_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_017_2.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_017_2.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_017_1.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 70,
+                "Scale9Height": 78,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 521.1367,
+                  "Y": 224.8973
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 471.1367,
+                "RightMargin": -571.1367,
+                "TopMargin": -274.8973,
+                "BottomMargin": 174.8973,
+                "Tag": 83,
+                "Children": [
+                  {
+                    "FontSize": 32,
+                    "LabelText": "注册",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 48.4723,
+                      "Y": 46.7458
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 228,
+                      "G": 242,
+                      "B": 188
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4847,
+                      "Y": 0.4675
+                    },
+                    "PreSize": {
+                      "X": 0.69,
+                      "Y": 0.41
+                    },
+                    "LeftMargin": 13.9723,
+                    "RightMargin": 17.0277,
+                    "TopMargin": 32.7542,
+                    "BottomMargin": 26.2458,
+                    "Tag": 84,
+                    "ActionTag": 1396644794,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 41.0
+                    },
+                    "Name": "textShopName_0_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 347406483,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "Button_register",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1181644674,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_login",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 85,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.2638,
+                  "Y": 509.8108
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.502,
+                  "Y": 0.4488
+                },
+                "PreSize": {
+                  "X": 0.9016,
+                  "Y": 0.2975
+                },
+                "LeftMargin": 32.7638,
+                "RightMargin": 30.2362,
+                "TopMargin": 457.1892,
+                "BottomMargin": 340.8108,
+                "Tag": 86,
+                "ActionTag": -1025759744,
+                "Size": {
+                  "X": 577.0,
+                  "Y": 338.0
+                },
+                "Name": "loginbg_1_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg2.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 9,
+                "Scale9Width": 266,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.1183,
+                  "Y": 542.5504
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5267,
+                  "Y": 0.4776
+                },
+                "PreSize": {
+                  "X": 0.5594,
+                  "Y": 0.0563
+                },
+                "LeftMargin": 158.1183,
+                "RightMargin": 123.8817,
+                "TopMargin": 561.4496,
+                "BottomMargin": 510.5504,
+                "Tag": 88,
+                "ActionTag": -406798122,
+                "Size": {
+                  "X": 358.0,
+                  "Y": 64.0
+                },
+                "Name": "Image_2_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入账号",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.563,
+                  "Y": 543.3018
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4837,
+                  "Y": 0.4783
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.0264
+                },
+                "LeftMargin": 209.563,
+                "RightMargin": 230.437,
+                "TopMargin": 577.6982,
+                "BottomMargin": 528.3018,
+                "Tag": 89,
+                "ActionTag": 674955241,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "userName_0",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg2.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 9,
+                "Scale9Width": 266,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.2407,
+                  "Y": 481.7287
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5269,
+                  "Y": 0.4241
+                },
+                "PreSize": {
+                  "X": 0.5594,
+                  "Y": 0.0563
+                },
+                "LeftMargin": 158.2407,
+                "RightMargin": 123.7593,
+                "TopMargin": 622.2713,
+                "BottomMargin": 449.7287,
+                "Tag": 90,
+                "ActionTag": 1516619797,
+                "Size": {
+                  "X": 358.0,
+                  "Y": 64.0
+                },
+                "Name": "Image_2_0_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入密码",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 308.3981,
+                  "Y": 480.4835
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4819,
+                  "Y": 0.423
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.0264
+                },
+                "LeftMargin": 208.3981,
+                "RightMargin": 231.6019,
+                "TopMargin": 640.5165,
+                "BottomMargin": 465.4835,
+                "Tag": 91,
+                "ActionTag": 965115267,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "userPassword_0",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "注册账号",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 30,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 317.8386,
+                  "Y": 610.0752
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 221,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4966,
+                  "Y": 0.537
+                },
+                "PreSize": {
+                  "X": 0.2328,
+                  "Y": 0.0414
+                },
+                "LeftMargin": 243.3386,
+                "RightMargin": 247.6614,
+                "TopMargin": 502.4248,
+                "BottomMargin": 586.5752,
+                "Tag": 96,
+                "ActionTag": -1289731733,
+                "Size": {
+                  "X": 149.0,
+                  "Y": 47.0
+                },
+                "Name": "textTipsTitle_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 53,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 436.8626,
+                  "Y": 300.7296
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6826,
+                  "Y": 0.2647
+                },
+                "PreSize": {
+                  "X": 0.1766,
+                  "Y": 0.0555
+                },
+                "LeftMargin": 380.3626,
+                "RightMargin": 146.6374,
+                "TopMargin": 803.7704,
+                "BottomMargin": 269.2296,
+                "Tag": 92,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "确认",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 30,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.3976,
+                      "Y": 28.5583
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 239,
+                      "B": 199
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5168,
+                      "Y": 0.4533
+                    },
+                    "PreSize": {
+                      "X": 0.4602,
+                      "Y": 0.5079
+                    },
+                    "LeftMargin": 32.3976,
+                    "RightMargin": 28.6024,
+                    "TopMargin": 18.4417,
+                    "BottomMargin": 12.5583,
+                    "Tag": 93,
+                    "ActionTag": 1624470724,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1667566669,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 63.0
+                },
+                "Name": "btnOk",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_055.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 11,
+                "Scale9Width": 53,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 210.9215,
+                  "Y": 301.8179
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3296,
+                  "Y": 0.2657
+                },
+                "PreSize": {
+                  "X": 0.1766,
+                  "Y": 0.0555
+                },
+                "LeftMargin": 154.4215,
+                "RightMargin": 372.5785,
+                "TopMargin": 802.6821,
+                "BottomMargin": 270.3179,
+                "Tag": 94,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "取消",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 30,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 41,
+                      "G": 41,
+                      "B": 41
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -3.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.3976,
+                      "Y": 28.5583
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 239,
+                      "B": 199
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5168,
+                      "Y": 0.4533
+                    },
+                    "PreSize": {
+                      "X": 0.4602,
+                      "Y": 0.5079
+                    },
+                    "LeftMargin": 32.3976,
+                    "RightMargin": 28.6024,
+                    "TopMargin": 18.4417,
+                    "BottomMargin": 12.5583,
+                    "Tag": 95,
+                    "ActionTag": 1085579114,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "textTipsTitle_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1407017624,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 63.0
+                },
+                "Name": "btnCancel",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg2.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 9,
+                "Scale9Width": 266,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.8365,
+                  "Y": 420.308
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5279,
+                  "Y": 0.37
+                },
+                "PreSize": {
+                  "X": 0.5594,
+                  "Y": 0.0563
+                },
+                "LeftMargin": 158.8365,
+                "RightMargin": 123.1635,
+                "TopMargin": 683.692,
+                "BottomMargin": 388.308,
+                "Tag": 97,
+                "ActionTag": 217791320,
+                "Size": {
+                  "X": 358.0,
+                  "Y": 64.0
+                },
+                "Name": "Image_2_0_0_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请再次输入密码",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 316.9936,
+                  "Y": 421.0627
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4953,
+                  "Y": 0.3707
+                },
+                "PreSize": {
+                  "X": 0.3438,
+                  "Y": 0.0264
+                },
+                "LeftMargin": 206.9936,
+                "RightMargin": 213.0064,
+                "TopMargin": 699.9373,
+                "BottomMargin": 406.0627,
+                "Tag": 98,
+                "ActionTag": -1241985405,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 30.0
+                },
+                "Name": "userPasswordAgain",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "账号:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 30,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.5995,
+                  "Y": 538.792
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 248,
+                  "B": 181
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2228,
+                  "Y": 0.4743
+                },
+                "PreSize": {
+                  "X": 0.1063,
+                  "Y": 0.0335
+                },
+                "LeftMargin": 108.5995,
+                "RightMargin": 463.4005,
+                "TopMargin": 578.208,
+                "BottomMargin": 519.792,
+                "Tag": 99,
+                "ActionTag": -210965050,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 38.0
+                },
+                "Name": "textTipsTitle_0_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "密码:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 30,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 143.154,
+                  "Y": 477.3989
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 248,
+                  "B": 181
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2237,
+                  "Y": 0.4202
+                },
+                "PreSize": {
+                  "X": 0.1063,
+                  "Y": 0.0335
+                },
+                "LeftMargin": 109.154,
+                "RightMargin": 462.846,
+                "TopMargin": 639.6011,
+                "BottomMargin": 458.3989,
+                "Tag": 100,
+                "ActionTag": 1263012988,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 38.0
+                },
+                "Name": "textTipsTitle_0_0_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "密码:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/fnt_text.TTF",
+                  "Plist": ""
+                },
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 30,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -3.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 143.6533,
+                  "Y": 416.672
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 248,
+                  "B": 181
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2245,
+                  "Y": 0.3668
+                },
+                "PreSize": {
+                  "X": 0.1063,
+                  "Y": 0.0335
+                },
+                "LeftMargin": 109.6533,
+                "RightMargin": 462.3467,
+                "TopMargin": 700.328,
+                "BottomMargin": 397.672,
+                "Tag": 101,
+                "ActionTag": -1267909621,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 38.0
+                },
+                "Name": "textTipsTitle_0_0_0_0_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -2059838724,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Panel_reg",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/b/bar.plist",
+        "common/b/bar.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/n_login.jpg",
+        "Default/Button_Disable.png",
+        "font/fnt_text.TTF",
+        "login/login_bg.plist",
+        "login/login_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

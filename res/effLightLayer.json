@@ -1,0 +1,712 @@
+{
+  "ID": "224505c0-4b4a-4c47-be12-c7424018dd85",
+  "Version": "3.10.0.0",
+  "Name": "effLightLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 200,
+        "Speed": 0.5,
+        "ActivedAnimationName": "atkboss",
+        "Timelines": [
+          {
+            "ActionTag": 824474211,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.0,
+                "Y": 360.0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -998684935,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 120.0,
+                "Y": 120.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 840.0,
+                "Y": 840.0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -55494687,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 120.0,
+                "Y": 120.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 720.0,
+                "Y": 720.0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 304686928,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": -120.0,
+                "Y": -120.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 600.0,
+                "Y": 600.0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1387342852,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": -25.0,
+                "Y": -25.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -745.0,
+                "Y": -745.0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1079009453,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 720.0,
+                "Y": 720.0,
+                "FrameIndex": 200,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 60,
+          "Name": "atkboss",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 280,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_047.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -10.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": -0.0195
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 489.0,
+            "TopMargin": 499.0,
+            "BottomMargin": -33.0,
+            "Tag": 339,
+            "ActionTag": 824474211,
+            "Size": {
+              "X": 128.0,
+              "Y": 128.0
+            },
+            "Alpha": 178,
+            "Name": "A_guang4_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_048.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "RotationSkewX": 120.0,
+            "RotationSkewY": 120.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -23.0,
+            "RightMargin": 489.0,
+            "TopMargin": 489.0,
+            "BottomMargin": -23.0,
+            "Tag": 340,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_048.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.7375,
+                  "Y": 140.1718
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "RotationSkewX": 45.0,
+                "RotationSkewY": 45.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.0812,
+                  "Y": 3.0472
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 118.7375,
+                "RightMargin": -118.7375,
+                "TopMargin": -117.1718,
+                "BottomMargin": 117.1718,
+                "Tag": 341,
+                "ActionTag": -1399585750,
+                "Size": {
+                  "X": 279.0,
+                  "Y": 280.0
+                },
+                "Name": "A_guang2_1_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -998684935,
+            "Size": {
+              "X": 279.0,
+              "Y": 280.0
+            },
+            "Name": "A_guang2_1_0_0_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_048.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.303,
+              "Y": -0.7103
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 120.0,
+            "RotationSkewY": 120.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0025,
+              "Y": -0.0014
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -24.303,
+            "RightMargin": 490.303,
+            "TopMargin": 489.7103,
+            "BottomMargin": -23.7103,
+            "Tag": 342,
+            "ActionTag": -55494687,
+            "Size": {
+              "X": 279.0,
+              "Y": 280.0
+            },
+            "Name": "A_guang2_1_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_048.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.303,
+              "Y": -0.7103
+            },
+            "Scale": {
+              "ScaleX": 0.9,
+              "ScaleY": 0.9
+            },
+            "RotationSkewX": -120.0,
+            "RotationSkewY": -120.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0025,
+              "Y": -0.0014
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -24.303,
+            "RightMargin": 490.303,
+            "TopMargin": 489.7103,
+            "BottomMargin": -23.7103,
+            "Tag": 343,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_048.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 138.1791,
+                  "Y": 139.7514
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "RotationSkewX": 45.0,
+                "RotationSkewY": 45.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.0039,
+                  "Y": 3.0381
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 115.1791,
+                "RightMargin": -115.1791,
+                "TopMargin": -116.7514,
+                "BottomMargin": 116.7514,
+                "Tag": 344,
+                "ActionTag": -507734316,
+                "Size": {
+                  "X": 279.0,
+                  "Y": 280.0
+                },
+                "Name": "A_guang2_1_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 304686928,
+            "Size": {
+              "X": 279.0,
+              "Y": 280.0
+            },
+            "Name": "A_guang2_1_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_048.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.303,
+              "Y": -0.7103
+            },
+            "Scale": {
+              "ScaleX": 1.2,
+              "ScaleY": 1.2
+            },
+            "RotationSkewX": -25.0,
+            "RotationSkewY": -25.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0025,
+              "Y": -0.0014
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -24.303,
+            "RightMargin": 490.303,
+            "TopMargin": 489.7103,
+            "BottomMargin": -23.7103,
+            "Tag": 345,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_048.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.9864,
+                  "Y": 139.0586
+                },
+                "Scale": {
+                  "ScaleX": 1.2,
+                  "ScaleY": 1.2
+                },
+                "RotationSkewX": 50.0,
+                "RotationSkewY": 50.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.0867,
+                  "Y": 3.023
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 118.9864,
+                "RightMargin": -118.9864,
+                "TopMargin": -116.0586,
+                "BottomMargin": 116.0586,
+                "Tag": 346,
+                "ActionTag": -1942130774,
+                "Size": {
+                  "X": 279.0,
+                  "Y": 280.0
+                },
+                "Name": "A_guang2_1_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1387342852,
+            "Size": {
+              "X": 279.0,
+              "Y": 280.0
+            },
+            "Name": "A_guang2_1_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_048.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.303,
+              "Y": -0.7103
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0025,
+              "Y": -0.0014
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -24.303,
+            "RightMargin": 490.303,
+            "TopMargin": 489.7103,
+            "BottomMargin": -23.7103,
+            "Tag": 347,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_048.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 140.4893,
+                  "Y": 138.0272
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 45.0,
+                "RotationSkewY": 45.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 3.0541,
+                  "Y": 3.0006
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 117.4893,
+                "RightMargin": -117.4893,
+                "TopMargin": -115.0272,
+                "BottomMargin": 115.0272,
+                "Tag": 348,
+                "ActionTag": 37493757,
+                "Size": {
+                  "X": 279.0,
+                  "Y": 280.0
+                },
+                "Name": "A_guang2_1_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1079009453,
+            "Size": {
+              "X": 279.0,
+              "Y": 280.0
+            },
+            "Name": "A_guang2_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a/a_048.png",
+              "Plist": "common/a/box.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.5387,
+              "Y": -0.0333
+            },
+            "Scale": {
+              "ScaleX": 1.4,
+              "ScaleY": 1.4
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0011,
+              "Y": -0.0001
+            },
+            "PreSize": {
+              "X": 0.0898,
+              "Y": 0.0898
+            },
+            "LeftMargin": -23.5387,
+            "RightMargin": 489.5387,
+            "TopMargin": 489.0333,
+            "BottomMargin": -23.0333,
+            "Tag": 349,
+            "ActionTag": 1731097407,
+            "Size": {
+              "X": 279.0,
+              "Y": 280.0
+            },
+            "Name": "A_guang1_9",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 512.0,
+          "Y": 512.0
+        },
+        "Name": "atkboss",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

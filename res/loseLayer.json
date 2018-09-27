@@ -1,0 +1,1670 @@
+{
+  "ID": "e91d2ab7-7b06-4703-a7eb-c5287989d3d1",
+  "Version": "3.10.0.0",
+  "Name": "loseLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 28,
+        "Speed": 0.3333,
+        "ActivedAnimationName": "loseAction",
+        "Timelines": [
+          {
+            "ActionTag": 1806003515,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 0.8,
+                "FrameIndex": 23,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 28,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1806003515,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 320.5778,
+                "Y": 700.0,
+                "FrameIndex": 23,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 320.5778,
+                "Y": 574.255,
+                "FrameIndex": 28,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1806003515,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 23,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 28,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -795937552,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 3.0,
+                "Y": 3.0,
+                "FrameIndex": 1,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 0.86,
+                "Y": 0.86,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.16,
+                "Y": 1.16,
+                "FrameIndex": 6,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -795937552,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 1,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -795937552,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 313.4417,
+                "Y": 673.1007,
+                "FrameIndex": 28,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 963037836,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 9,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 13,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1362077287,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": -488.3898,
+                "Y": 699.2874,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 7.1617,
+                "Y": 698.0,
+                "FrameIndex": 7,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 445.9712,
+                "Y": 698.1277,
+                "FrameIndex": 13,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 1000.0,
+                "Y": 698.0,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1362077287,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 4,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 13,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 688810265,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 1114.7567,
+                "Y": 630.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 619.799,
+                "Y": 630.0,
+                "FrameIndex": 7,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 196.0799,
+                "Y": 630.7602,
+                "FrameIndex": 13,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": -399.292,
+                "Y": 630.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 688810265,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 4,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 13,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -82439299,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 81.21,
+                "Y": 622.74,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 233.0,
+                "Y": 667.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 233.0,
+                "Y": 667.0,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -82439299,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 8.0,
+                "Y": 8.0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.3,
+                "Y": 1.3,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -82439299,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 12,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1736133881,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 223.0,
+                "Y": 667.0,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              },
+              {
+                "X": 223.0,
+                "Y": 667.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1736133881,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 2.0,
+                "Y": 2.0,
+                "FrameIndex": 18,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1736133881,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 16,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 19,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 28,
+          "Name": "loseAction",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 49,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 640.0,
+            "TopMargin": 1009.0,
+            "Tag": 329,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a/a_006.png",
+                  "Plist": "common/a/box.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 105,
+                "Scale9OriginY": 27,
+                "Scale9Width": 110,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 320.5778,
+                  "Y": 574.255
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 0.5778,
+                "RightMargin": -640.5778,
+                "TopMargin": -574.255,
+                "BottomMargin": 404.255,
+                "Tag": 343,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_007_2.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_007_1.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 100,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 448.8766,
+                      "Y": 122.8237
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7014,
+                      "Y": 0.7225
+                    },
+                    "PreSize": {
+                      "X": 0.3906,
+                      "Y": 0.4588
+                    },
+                    "LeftMargin": 323.8766,
+                    "RightMargin": 66.1234,
+                    "TopMargin": 8.1763,
+                    "BottomMargin": 83.8237,
+                    "Tag": 344,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_086.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 33,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 144,
+                        "Scale9Height": 16,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 126.9185,
+                          "Y": 41.252
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5077,
+                          "Y": 0.5289
+                        },
+                        "PreSize": {
+                          "X": 0.84,
+                          "Y": 0.4615
+                        },
+                        "LeftMargin": 21.9185,
+                        "RightMargin": 18.0815,
+                        "TopMargin": 18.748,
+                        "BottomMargin": 23.252,
+                        "Tag": 345,
+                        "ActionTag": 291342541,
+                        "Size": {
+                          "X": 210.0,
+                          "Y": 36.0
+                        },
+                        "Name": "fitImage_1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -2003947297,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 78.0
+                    },
+                    "Name": "comanderButton",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_007_2.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_007_1.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 100,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 186.167,
+                      "Y": 122.3776
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2909,
+                      "Y": 0.7199
+                    },
+                    "PreSize": {
+                      "X": 0.3438,
+                      "Y": 0.4588
+                    },
+                    "LeftMargin": 76.167,
+                    "RightMargin": 343.833,
+                    "TopMargin": 8.6224,
+                    "BottomMargin": 83.3776,
+                    "Tag": 346,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_087.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 33,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 144,
+                        "Scale9Height": 16,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 111.8624,
+                          "Y": 40.1402
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5085,
+                          "Y": 0.5146
+                        },
+                        "PreSize": {
+                          "X": 0.9545,
+                          "Y": 0.4615
+                        },
+                        "LeftMargin": 6.8624,
+                        "RightMargin": 3.1376,
+                        "TopMargin": 19.8598,
+                        "BottomMargin": 22.1402,
+                        "Tag": 347,
+                        "ActionTag": -1412777708,
+                        "Size": {
+                          "X": 210.0,
+                          "Y": 36.0
+                        },
+                        "Name": "fitImage_1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1831098656,
+                    "Size": {
+                      "X": 220.0,
+                      "Y": 78.0
+                    },
+                    "Name": "heroButton",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_007_2.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_007_1.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 100,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 185.9151,
+                      "Y": 45.1762
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2905,
+                      "Y": 0.2657
+                    },
+                    "PreSize": {
+                      "X": 0.3438,
+                      "Y": 0.4588
+                    },
+                    "LeftMargin": 75.9151,
+                    "RightMargin": 344.0849,
+                    "TopMargin": 85.8238,
+                    "BottomMargin": 6.1762,
+                    "Tag": 348,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_088.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 33,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 144,
+                        "Scale9Height": 16,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 110.8065,
+                          "Y": 39.1401
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5037,
+                          "Y": 0.5018
+                        },
+                        "PreSize": {
+                          "X": 0.9545,
+                          "Y": 0.4615
+                        },
+                        "LeftMargin": 5.8065,
+                        "RightMargin": 4.1935,
+                        "TopMargin": 20.8599,
+                        "BottomMargin": 21.1401,
+                        "Tag": 349,
+                        "ActionTag": 1972570595,
+                        "Size": {
+                          "X": 210.0,
+                          "Y": 36.0
+                        },
+                        "Name": "fitImage_1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -365350467,
+                    "Size": {
+                      "X": 220.0,
+                      "Y": 78.0
+                    },
+                    "Name": "equButton",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_011_2.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/c/c_011_1.png",
+                      "Plist": "common/c/button.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 131,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 319.7661,
+                      "Y": -53.8656
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4996,
+                      "Y": -0.3169
+                    },
+                    "PreSize": {
+                      "X": 0.2516,
+                      "Y": 0.4588
+                    },
+                    "LeftMargin": 239.2661,
+                    "RightMargin": 239.7339,
+                    "TopMargin": 184.8656,
+                    "BottomMargin": -92.8656,
+                    "Tag": 350,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "MarkedSubImage",
+                          "Path": "common/d/d_038.png",
+                          "Plist": "common/d/artFont.plist"
+                        },
+                        "Scale9OriginX": 21,
+                        "Scale9OriginY": 10,
+                        "Scale9Width": 22,
+                        "Scale9Height": 15,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 81.5029,
+                          "Y": 39.0062
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5062,
+                          "Y": 0.5001
+                        },
+                        "PreSize": {
+                          "X": 0.3975,
+                          "Y": 0.4487
+                        },
+                        "LeftMargin": 49.5029,
+                        "RightMargin": 47.4971,
+                        "TopMargin": 21.4938,
+                        "BottomMargin": 21.5062,
+                        "Tag": 351,
+                        "ActionTag": 2128010643,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 35.0
+                        },
+                        "Name": "fitImage_1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -231181903,
+                    "Size": {
+                      "X": 161.0,
+                      "Y": 78.0
+                    },
+                    "Name": "backButton",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1806003515,
+                "Size": {
+                  "X": 640.0,
+                  "Y": 170.0
+                },
+                "Name": "loseBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/w/war_zhandoujs_05.png",
+                  "Plist": "common/w/result.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 313.4417,
+                  "Y": 673.1007
+                },
+                "Scale": {
+                  "ScaleX": 1.16,
+                  "ScaleY": 1.16
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 108.9417,
+                "RightMargin": -517.9417,
+                "TopMargin": -871.1007,
+                "BottomMargin": 475.1007,
+                "Tag": 330,
+                "ActionTag": -795937552,
+                "Size": {
+                  "X": 409.0,
+                  "Y": 396.0
+                },
+                "Name": "war_zhandoujs_17_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/w/war_zhandoujs_10.png",
+                  "Plist": "common/w/result.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 311.1495,
+                  "Y": 664.991
+                },
+                "Scale": {
+                  "ScaleX": 2.8024,
+                  "ScaleY": 2.8124
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 217.6495,
+                "RightMargin": -404.6495,
+                "TopMargin": -678.491,
+                "BottomMargin": 651.491,
+                "Tag": 332,
+                "ActionTag": 963037836,
+                "Size": {
+                  "X": 187.0,
+                  "Y": 27.0
+                },
+                "Name": "war_zhandoujs_16_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/w/war_zhandoujs_30.png",
+                  "Plist": "common/w/result.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1000.0,
+                  "Y": 698.0
+                },
+                "Scale": {
+                  "ScaleX": 14.1035,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 971.0,
+                "RightMargin": -1029.0,
+                "TopMargin": -727.0,
+                "BottomMargin": 669.0,
+                "Tag": 333,
+                "ActionTag": 1362077287,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Alpha": 0,
+                "Name": "war_zhandoujs_23_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/w/war_zhandoujs_30.png",
+                  "Plist": "common/w/result.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -399.292,
+                  "Y": 630.0
+                },
+                "Scale": {
+                  "ScaleX": 14.1035,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -428.292,
+                "RightMargin": 370.292,
+                "TopMargin": -659.0,
+                "BottomMargin": 601.0,
+                "Tag": 334,
+                "ActionTag": 688810265,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Alpha": 0,
+                "Name": "war_zhandoujs_23_1_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/w/war_zhandoujs_01.png",
+                  "Plist": "common/w/result.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 233.0,
+                  "Y": 667.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 198.5,
+                "RightMargin": -267.5,
+                "TopMargin": -697.5,
+                "BottomMargin": 636.5,
+                "Tag": 335,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/w/war_zhandoujs_02.png",
+                      "Plist": "common/w/result.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.4488,
+                      "Y": 27.6379
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.2239,
+                      "Y": 0.4531
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 49.9488,
+                    "RightMargin": -49.9488,
+                    "TopMargin": 2.8621,
+                    "BottomMargin": -2.8621,
+                    "Tag": 336,
+                    "ActionTag": -177846894,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 61.0
+                    },
+                    "Name": "war_zhandoujs_12_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/w/war_zhandoujs_03.png",
+                      "Plist": "common/w/result.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.412,
+                      "Y": 28.1104
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.0205,
+                      "Y": 0.4608
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 104.912,
+                    "RightMargin": -104.912,
+                    "TopMargin": 2.3896,
+                    "BottomMargin": -2.3896,
+                    "Tag": 337,
+                    "ActionTag": 1933681749,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 61.0
+                    },
+                    "Name": "war_zhandoujs_13_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/w/war_zhandoujs_04.png",
+                      "Plist": "common/w/result.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.5785,
+                      "Y": 26.637
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.8779,
+                      "Y": 0.4367
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 164.0785,
+                    "RightMargin": -164.0785,
+                    "TopMargin": 3.863,
+                    "BottomMargin": -3.863,
+                    "Tag": 338,
+                    "ActionTag": 1691431630,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 61.0
+                    },
+                    "Name": "war_zhandoujs_14_4",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -82439299,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 61.0
+                },
+                "Name": "war_zhandoujs_11_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/w/war_zhandoujs_01.png",
+                  "Plist": "common/w/result.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 223.0,
+                  "Y": 667.0
+                },
+                "Scale": {
+                  "ScaleX": 2.0,
+                  "ScaleY": 2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 188.5,
+                "RightMargin": -257.5,
+                "TopMargin": -697.5,
+                "BottomMargin": 636.5,
+                "Tag": 339,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/w/war_zhandoujs_02.png",
+                      "Plist": "common/w/result.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.4488,
+                      "Y": 27.6379
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.2239,
+                      "Y": 0.4531
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 49.9488,
+                    "RightMargin": -49.9488,
+                    "TopMargin": 2.8621,
+                    "BottomMargin": -2.8621,
+                    "Tag": 340,
+                    "ActionTag": -1207349414,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 61.0
+                    },
+                    "Name": "war_zhandoujs_12_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/w/war_zhandoujs_03.png",
+                      "Plist": "common/w/result.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.412,
+                      "Y": 28.1104
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.0205,
+                      "Y": 0.4608
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 104.912,
+                    "RightMargin": -104.912,
+                    "TopMargin": 2.3896,
+                    "BottomMargin": -2.3896,
+                    "Tag": 341,
+                    "ActionTag": -12647008,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 61.0
+                    },
+                    "Name": "war_zhandoujs_13_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "common/w/war_zhandoujs_04.png",
+                      "Plist": "common/w/result.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.5785,
+                      "Y": 26.637
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.8779,
+                      "Y": 0.4367
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 164.0785,
+                    "RightMargin": -164.0785,
+                    "TopMargin": 3.863,
+                    "BottomMargin": -3.863,
+                    "Tag": 342,
+                    "ActionTag": -297620918,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 61.0
+                    },
+                    "Name": "war_zhandoujs_14_4",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1736133881,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 61.0
+                },
+                "Alpha": 0,
+                "Name": "war_zhandoujs_11_1_0",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1903767919,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nodeLose",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1009.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a/box.plist",
+        "common/a/box.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/d/artFont.plist",
+        "common/d/artFont.png",
+        "common/w/result.plist",
+        "common/w/result.png",
+        "Default/Button_Disable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

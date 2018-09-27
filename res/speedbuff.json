@@ -1,0 +1,188 @@
+{
+  "ID": "c49c7489-2832-49fe-a7c5-9561bd01d830",
+  "Version": "3.10.0.0",
+  "Name": "speedbuff",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 45,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": -779845156,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00000.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00001.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 5,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00002.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 10,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00003.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 15,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00004.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00005.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 25,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00006.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 30,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00007.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 35,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00008.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "MarkedSubImage",
+                  "Path": "effect/speedbuff/001_00009.png",
+                  "Plist": "effect/speedbuff.plist"
+                },
+                "FrameIndex": 45,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 308,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "effect/speedbuff/001_00003.png",
+              "Plist": "effect/speedbuff.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 92.16
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.18
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -256.0,
+            "RightMargin": 256.0,
+            "TopMargin": 163.84,
+            "BottomMargin": -163.84,
+            "Tag": 309,
+            "ActionTag": -779845156,
+            "Size": {
+              "X": 512.0,
+              "Y": 512.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 512.0,
+          "Y": 512.0
+        },
+        "Name": "speedbuff",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "effect/speedbuff.plist",
+        "effect/speedbuff.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

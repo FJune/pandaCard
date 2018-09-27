@@ -1,0 +1,380 @@
+{
+  "ID": "f4e5d805-38ea-4193-8679-d04bd17eea8d",
+  "Version": "3.10.0.0",
+  "Name": "equipItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 84,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/c/c_037_1.png",
+              "Plist": "common/c/button.plist"
+            },
+            "Scale9OriginX": 29,
+            "Scale9OriginY": 25,
+            "Scale9Width": 30,
+            "Scale9Height": 38,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9362,
+              "Y": 0.9362
+            },
+            "LeftMargin": 3.0,
+            "RightMargin": 3.0,
+            "TopMargin": 3.0,
+            "BottomMargin": 3.0,
+            "Tag": 232,
+            "ActionTag": -1337196426,
+            "Size": {
+              "X": 88.0,
+              "Y": 88.0
+            },
+            "Name": "eqFrame",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/i/i_033.png",
+              "Plist": "common/i/icon.plist"
+            },
+            "Scale9OriginX": 29,
+            "Scale9OriginY": 25,
+            "Scale9Width": 30,
+            "Scale9Height": 28,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.9362,
+              "Y": 0.8298
+            },
+            "LeftMargin": 3.0,
+            "RightMargin": 3.0,
+            "TopMargin": 8.0,
+            "BottomMargin": 8.0,
+            "Tag": 86,
+            "ActionTag": -606182471,
+            "Size": {
+              "X": 88.0,
+              "Y": 78.0
+            },
+            "Name": "eqImg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 18,
+            "LabelText": "999",
+            "HorizontalAlignmentType": "HT_Right",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 53.7716,
+              "Y": 74.8337
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 165,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.572,
+              "Y": 0.7961
+            },
+            "PreSize": {
+              "X": 0.2872,
+              "Y": 0.1915
+            },
+            "LeftMargin": 40.2716,
+            "RightMargin": 26.7284,
+            "TopMargin": 10.1663,
+            "BottomMargin": 65.8337,
+            "Tag": 87,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/i/hstar1.png",
+                  "Plist": "common/i/icon.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 36.5598,
+                  "Y": 9.1202
+                },
+                "Scale": {
+                  "ScaleX": 0.3748,
+                  "ScaleY": 0.3748
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.3541,
+                  "Y": 0.5067
+                },
+                "PreSize": {
+                  "X": 5.0,
+                  "Y": 1.8889
+                },
+                "LeftMargin": -30.9402,
+                "RightMargin": -77.0598,
+                "TopMargin": -8.1202,
+                "BottomMargin": -7.8798,
+                "Tag": 59,
+                "ActionTag": 1099022331,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 34.0
+                },
+                "Name": "hstar1_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1833648941,
+            "Size": {
+              "X": 27.0,
+              "Y": 18.0
+            },
+            "Name": "eqRefine",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "+100",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 73.4046,
+              "Y": 18.1976
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.7809,
+              "Y": 0.1936
+            },
+            "PreSize": {
+              "X": 0.3404,
+              "Y": 0.1702
+            },
+            "LeftMargin": 57.4046,
+            "RightMargin": 4.5954,
+            "TopMargin": 67.8024,
+            "BottomMargin": 10.1976,
+            "Tag": 88,
+            "ActionTag": -1754635668,
+            "Size": {
+              "X": 32.0,
+              "Y": 16.0
+            },
+            "Name": "eqLevel",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 16,
+            "LabelText": "99阶",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "ShadowEnabled": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 26.0568,
+              "Y": 17.2009
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 229
+            },
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.2772,
+              "Y": 0.183
+            },
+            "PreSize": {
+              "X": 0.3404,
+              "Y": 0.1702
+            },
+            "LeftMargin": 10.0568,
+            "RightMargin": 51.9432,
+            "TopMargin": 68.7991,
+            "BottomMargin": 9.2009,
+            "Tag": 58,
+            "ActionTag": -2007289991,
+            "Size": {
+              "X": 32.0,
+              "Y": 16.0
+            },
+            "Name": "eqJieji",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "effEquDZItem.json",
+              "Plist": ""
+            },
+            "StretchWidthEnable": false,
+            "StretchHeightEnable": false,
+            "InnerActionSpeed": 1.0,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 46.7661,
+              "Y": 49.4288
+            },
+            "Scale": {
+              "ScaleX": 0.8,
+              "ScaleY": 0.8
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4975,
+              "Y": 0.5258
+            },
+            "PreSize": {
+              "X": 6.8085,
+              "Y": 12.0851
+            },
+            "LeftMargin": 46.7661,
+            "RightMargin": -592.7661,
+            "TopMargin": -1091.4288,
+            "BottomMargin": 49.4288,
+            "Tag": 62,
+            "ActionTag": -1007941128,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "VisibleForFrame": false,
+            "Name": "FileNode_DZ",
+            "ctype": "ProjectNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 94.0,
+          "Y": 94.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/c/button.plist",
+        "common/c/button.png",
+        "common/i/icon.plist",
+        "common/i/icon.png",
+        "effEquDZItem.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

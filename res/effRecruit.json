@@ -1,0 +1,801 @@
+{
+  "ID": "fe7afb10-55c6-40e7-b4aa-bdea98c7dd29",
+  "Version": "3.10.0.0",
+  "Name": "effRecruit",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 36,
+        "Speed": 1.0,
+        "ActivedAnimationName": "ornAction",
+        "Timelines": [
+          {
+            "ActionTag": 1413605997,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 20,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 27,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 34,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1396989449,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": -1.5,
+                "Y": 1.5,
+                "FrameIndex": 29,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1396989449,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 19,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 720.0,
+                "Y": 720.0,
+                "FrameIndex": 27,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.0,
+                "Y": 360.0,
+                "FrameIndex": 34,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1396989449,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 168,
+                "FrameIndex": 27,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 34,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 784211568,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": -2.0,
+                "Y": -2.0,
+                "FrameIndex": 24,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -4.0,
+                "Y": -4.0,
+                "FrameIndex": 36,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 784211568,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 25,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -360.0,
+                "Y": -360.0,
+                "FrameIndex": 36,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 784211568,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 19,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 28,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 36,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1165534609,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 19,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 20,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 713517194,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 255,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067985389,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": -1.5,
+                "Y": 1.5,
+                "FrameIndex": 10,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067985389,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 720.0,
+                "Y": 720.0,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 360.0,
+                "Y": 360.0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2067985389,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 117,
+                "FrameIndex": 8,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 15,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1396348778,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": -2.0,
+                "Y": -2.0,
+                "FrameIndex": 5,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -4.0,
+                "Y": -4.0,
+                "FrameIndex": 17,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1396348778,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": -500.0,
+                "Y": -500.0,
+                "FrameIndex": 17,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1396348778,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 0,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 9,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 0,
+                "FrameIndex": 17,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1688865645,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": false,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              },
+              {
+                "Value": true,
+                "FrameIndex": 1,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 18,
+          "Name": "ornAction",
+          "ctype": "AnimationInfoData"
+        },
+        {
+          "StartIndex": 19,
+          "EndIndex": 36,
+          "Name": "senAction",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 280,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 512.0,
+            "TopMargin": 512.0,
+            "Tag": 569,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_nvshen_67.png",
+                  "Plist": "effect/effnvshenck6.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -5.9507,
+                  "Y": -1.699
+                },
+                "Scale": {
+                  "ScaleX": 2.5,
+                  "ScaleY": 2.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.9507,
+                "RightMargin": -26.0493,
+                "TopMargin": -30.301,
+                "BottomMargin": -33.699,
+                "Tag": 570,
+                "ActionTag": 1413605997,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Alpha": 0,
+                "Name": "eff_zbjinglian_61_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_nvshen_65.png",
+                  "Plist": "effect/effnvshenck6.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -6.9791,
+                  "Y": 0.3531
+                },
+                "Scale": {
+                  "ScaleX": -1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -70.9791,
+                "RightMargin": -57.0209,
+                "TopMargin": -64.3531,
+                "BottomMargin": -63.6469,
+                "Tag": 571,
+                "ActionTag": -1396989449,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 128.0
+                },
+                "Alpha": 168,
+                "Name": "eff_zbjinglian_60_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_nvshen_66.png",
+                  "Plist": "effect/effnvshenck6.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": -2.0,
+                  "ScaleY": -2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -38.0,
+                "RightMargin": -38.0,
+                "TopMargin": -38.0,
+                "BottomMargin": -38.0,
+                "Tag": 572,
+                "ActionTag": 784211568,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 76.0
+                },
+                "Alpha": 0,
+                "Name": "eff_zbjinglian_62_5",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1165534609,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Node_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 512.0,
+            "TopMargin": 512.0,
+            "Tag": 573,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_nvshen_61.png",
+                  "Plist": "effect/effnvshenck5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -5.9507,
+                  "Y": -1.699
+                },
+                "Scale": {
+                  "ScaleX": 2.5,
+                  "ScaleY": 2.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.9507,
+                "RightMargin": -26.0493,
+                "TopMargin": -30.301,
+                "BottomMargin": -33.699,
+                "Tag": 574,
+                "ActionTag": 713517194,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 64.0
+                },
+                "Name": "eff_zbjinglian_61_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_nvshen_60.png",
+                  "Plist": "effect/effnvshenck5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -6.9791,
+                  "Y": 0.3531
+                },
+                "Scale": {
+                  "ScaleX": -1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -70.9791,
+                "RightMargin": -57.0209,
+                "TopMargin": -64.3531,
+                "BottomMargin": -63.6469,
+                "Tag": 575,
+                "ActionTag": 2067985389,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 128.0
+                },
+                "Alpha": 0,
+                "Name": "eff_zbjinglian_60_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "eff_nvshen_62.png",
+                  "Plist": "effect/effnvshenck5.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 1
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.8518,
+                  "Y": 2.5514
+                },
+                "Scale": {
+                  "ScaleX": -2.0,
+                  "ScaleY": -2.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.1482,
+                "RightMargin": -38.8518,
+                "TopMargin": -40.5514,
+                "BottomMargin": -35.4486,
+                "Tag": 576,
+                "ActionTag": -1396348778,
+                "Size": {
+                  "X": 76.0,
+                  "Y": 76.0
+                },
+                "Alpha": 0,
+                "Name": "eff_zbjinglian_62_3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1688865645,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "VisibleForFrame": false,
+            "Name": "Node_1",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 512.0,
+          "Y": 512.0
+        },
+        "Name": "appear",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "effect/effnvshenck5.plist",
+        "effect/effnvshenck5.png",
+        "effect/effnvshenck6.plist",
+        "effect/effnvshenck6.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

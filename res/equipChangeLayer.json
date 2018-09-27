@@ -1,0 +1,429 @@
+{
+  "ID": "fa58e4d7-44a5-46ed-865e-19de2c327008",
+  "Version": "3.10.0.0",
+  "Name": "equipChangeLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "common/a1/a1_002.png",
+              "Plist": "common/a1/commonA1.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 96,
+            "Scale9OriginY": 142,
+            "Scale9Width": 400,
+            "Scale9Height": 584,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.2184,
+              "Y": 543.8438
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5003,
+              "Y": 0.539
+            },
+            "PreSize": {
+              "X": 0.9844,
+              "Y": 0.8603
+            },
+            "LeftMargin": 5.2184,
+            "RightMargin": 4.7816,
+            "TopMargin": 31.1562,
+            "BottomMargin": 109.8438,
+            "Tag": 9,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a1/a1_028.png",
+                  "Plist": "common/a1/commonA1.plist"
+                },
+                "Scale9OriginX": 147,
+                "Scale9OriginY": 24,
+                "Scale9Width": 231,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 319.7237,
+                  "Y": 770.8498
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5075,
+                  "Y": 0.8881
+                },
+                "PreSize": {
+                  "X": 0.8333,
+                  "Y": 0.0922
+                },
+                "LeftMargin": 57.2237,
+                "RightMargin": 47.7763,
+                "TopMargin": 17.1502,
+                "BottomMargin": 770.8498,
+                "Tag": 5,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "更换装备",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 3,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 41,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 265.045,
+                      "Y": 37.5998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 236,
+                      "B": 181
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5048,
+                      "Y": 0.47
+                    },
+                    "PreSize": {
+                      "X": 0.2819,
+                      "Y": 0.5875
+                    },
+                    "LeftMargin": 191.045,
+                    "RightMargin": 185.955,
+                    "TopMargin": 18.9002,
+                    "BottomMargin": 14.0998,
+                    "Tag": 1424,
+                    "ActionTag": 1520813130,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 47.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1603234126,
+                "Size": {
+                  "X": 525.0,
+                  "Y": 80.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_048.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/c/c_048.png",
+                  "Plist": "common/c/button.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 41,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 575.0203,
+                  "Y": 807.3628
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9127,
+                  "Y": 0.9301
+                },
+                "PreSize": {
+                  "X": 0.1127,
+                  "Y": 0.0945
+                },
+                "LeftMargin": 539.5203,
+                "RightMargin": 19.4797,
+                "TopMargin": 19.6372,
+                "BottomMargin": 766.3628,
+                "Tag": 398,
+                "ActionTag": -167162471,
+                "Size": {
+                  "X": 71.0,
+                  "Y": 82.0
+                },
+                "Name": "backBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "common/a1/a1_003.png",
+                  "Plist": "common/a1/commonA1.plist"
+                },
+                "Scale9OriginX": 91,
+                "Scale9OriginY": 129,
+                "Scale9Width": 381,
+                "Scale9Height": 492,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 315.8105,
+                  "Y": 388.937
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5013,
+                  "Y": 0.4481
+                },
+                "PreSize": {
+                  "X": 0.9365,
+                  "Y": 0.841
+                },
+                "LeftMargin": 20.8105,
+                "RightMargin": 19.1895,
+                "TopMargin": 114.063,
+                "BottomMargin": 23.937,
+                "Tag": 120,
+                "Children": [
+                  {
+                    "ItemMargin": 20,
+                    "DirectionType": "Vertical",
+                    "HorizontalType": "Align_HorizontalCenter",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 16.8734,
+                      "Y": 10.3271
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0286,
+                      "Y": 0.0141
+                    },
+                    "PreSize": {
+                      "X": 0.9407,
+                      "Y": 0.9521
+                    },
+                    "LeftMargin": 16.8734,
+                    "RightMargin": 18.1266,
+                    "TopMargin": 24.6729,
+                    "BottomMargin": 10.3271,
+                    "Tag": 121,
+                    "ActionTag": 1397761876,
+                    "Size": {
+                      "X": 555.0,
+                      "Y": 695.0
+                    },
+                    "Name": "equipList",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "没有满足条件的装备",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_text.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineSize": 2,
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 41,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 291.5481,
+                      "Y": 410.8302
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 236,
+                      "B": 181
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4941,
+                      "Y": 0.5628
+                    },
+                    "PreSize": {
+                      "X": 0.4339,
+                      "Y": 0.0493
+                    },
+                    "LeftMargin": 163.5481,
+                    "RightMargin": 170.4519,
+                    "TopMargin": 301.1698,
+                    "BottomMargin": 392.8302,
+                    "Tag": 1362,
+                    "ActionTag": 987993628,
+                    "Size": {
+                      "X": 256.0,
+                      "Y": 36.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Text_no",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 2019269242,
+                "Size": {
+                  "X": 590.0,
+                  "Y": 730.0
+                },
+                "Name": "fequipBg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1909719607,
+            "Size": {
+              "X": 630.0,
+              "Y": 868.0
+            },
+            "Name": "equipBg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1009.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/a1/commonA1.plist",
+        "common/a1/commonA1.png",
+        "common/c/button.plist",
+        "common/c/button.png",
+        "Default/Button_Disable.png",
+        "font/fnt_text.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,549 @@
+{
+  "ID": "6e30126a-32c5-43bd-91d5-8627bf3ff8a6",
+  "Version": "3.10.0.0",
+  "Name": "LoginLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 14,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "common/n_login.jpg",
+              "Plist": ""
+            },
+            "Scale9OriginX": 211,
+            "Scale9OriginY": 296,
+            "Scale9Width": 218,
+            "Scale9Height": 544,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 568.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 40,
+            "ActionTag": 713342271,
+            "Size": {
+              "X": 640.0,
+              "Y": 1136.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 30,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "login/loginbg8.png",
+              "Plist": "login/login_bg.plist"
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "login/loginbg8.png",
+              "Plist": "login/login_bg.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "login/loginbg8.png",
+              "Plist": "login/login_bg.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 211,
+            "Scale9Height": 70,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.088,
+              "Y": 76.5664
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5017,
+              "Y": 0.0674
+            },
+            "PreSize": {
+              "X": 0.3766,
+              "Y": 0.081
+            },
+            "LeftMargin": 200.588,
+            "RightMargin": 198.412,
+            "TopMargin": 1013.4336,
+            "BottomMargin": 30.5664,
+            "Tag": 15,
+            "ActionTag": -295748211,
+            "Size": {
+              "X": 241.0,
+              "Y": 92.0
+            },
+            "Name": "btnLogin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": 640.0,
+            "TopMargin": 1136.0,
+            "Tag": 20,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.7988,
+                  "Y": 291.0254
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 32.2988,
+                "RightMargin": -609.2988,
+                "TopMargin": -460.0254,
+                "BottomMargin": 122.0254,
+                "Tag": 78,
+                "ActionTag": 1560326832,
+                "Size": {
+                  "X": 577.0,
+                  "Y": 338.0
+                },
+                "Name": "loginbg_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg14.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 313.9296,
+                  "Y": 879.423
+                },
+                "Scale": {
+                  "ScaleX": 0.95,
+                  "ScaleY": 0.95
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 71.9296,
+                "RightMargin": -555.9296,
+                "TopMargin": -1084.423,
+                "BottomMargin": 674.423,
+                "Tag": 79,
+                "ActionTag": 695805479,
+                "Size": {
+                  "X": 484.0,
+                  "Y": 410.0
+                },
+                "Name": "loginlogo_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg2.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 9,
+                "Scale9Width": 266,
+                "Scale9Height": 66,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 368.1163,
+                  "Y": 290.3055
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 189.1163,
+                "RightMargin": -547.1163,
+                "TopMargin": -332.3055,
+                "BottomMargin": 248.3055,
+                "Tag": 45,
+                "ActionTag": 808829033,
+                "Size": {
+                  "X": 358.0,
+                  "Y": 84.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入账号",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 347.5143,
+                  "Y": 289.5186
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 247.5143,
+                "RightMargin": -447.5143,
+                "TopMargin": -304.5186,
+                "BottomMargin": 274.5186,
+                "Tag": 38,
+                "ActionTag": 774865463,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 30.0
+                },
+                "Name": "userName",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginzh.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 153.9955,
+                  "Y": 288.7753
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 106.4955,
+                "RightMargin": -201.4955,
+                "TopMargin": -314.2753,
+                "BottomMargin": 263.2753,
+                "Tag": 80,
+                "ActionTag": 1416580188,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 51.0
+                },
+                "Name": "loginzh_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "login/loginbg4.png",
+                  "Plist": "login/login_bg.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.2142,
+                  "Y": 213.6702
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 24.7142,
+                "RightMargin": -615.7142,
+                "TopMargin": -241.6702,
+                "BottomMargin": 185.6702,
+                "Tag": 561,
+                "Children": [
+                  {
+                    "ProgressInfo": 0,
+                    "ImageFileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "login/loginbg5.png",
+                      "Plist": "login/login_bg.plist"
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 295.5,
+                      "Y": 28.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 560,
+                    "ActionTag": 1617253903,
+                    "Size": {
+                      "X": 591.0,
+                      "Y": 56.0
+                    },
+                    "Name": "loadProgress",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "加载中···",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 285.2946,
+                      "Y": -11.4723
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 144,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4827,
+                      "Y": -0.2049
+                    },
+                    "PreSize": {
+                      "X": 0.203,
+                      "Y": 0.3571
+                    },
+                    "LeftMargin": 225.2946,
+                    "RightMargin": 245.7054,
+                    "TopMargin": 57.4723,
+                    "BottomMargin": -21.4723,
+                    "Tag": 97,
+                    "ActionTag": -715958056,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_25",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1704732152,
+                "Size": {
+                  "X": 591.0,
+                  "Y": 56.0
+                },
+                "Name": "b_001_1_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1181644674,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_login",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/n_login.jpg",
+        "login/login_bg.plist",
+        "login/login_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
